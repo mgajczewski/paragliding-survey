@@ -1,26 +1,19 @@
 # 🪂 Paragliding Survey Templates
 
-A collection of ready-to-use **Markdown templates** for creating surveys and feedback forms used in **paragliding** — whether for competitions, clubs, or pilot communities.
+A collection of ready-to-use **templates** for creating surveys and feedback forms used in **paragliding** - whether for competitions, clubs, or pilot communities.
 
 ## ✈️ Purpose
 
-This repository helps pilots, organizers, and clubs easily collect structured feedback without relying on online forms.  
-You can copy and adapt Markdown templates for use in:
-- GitHub Issues
-- Notion
-- Obsidian
-- Static websites
-- Or simple text files shared via email or chat
+The main goal of this project is to create a collaborative workspace for developing survey templates and gathering feedback about them.  
+The resulting templates can be adapted and used in various formats:
+- Printed paper surveys
+- Online forms
 
 ## 📋 Available Templates
 
-| File | Description |
-|------|--------------|
-| `ballast-issue-feedback.md` | Post-competition feedback: task quality, safety, organization |
-| `safety-incident-report.md` | Safety and incident report form |
-| `gear-review.md` | Review template for paragliders, harnesses, and instruments |
-| `pilot-experience.md` | Personal experience log for pilots |
-| `training-feedback.md` | Feedback form for paragliding courses and workshops |
+| Template | Description | Version History |
+|------|-------------|-----------------|
+| `ballast-fairness-survey` | Ballast & Fairness in Paragliding Competition | [View](ballast-fairness-survey/VERSION_HISTORY.md) |
 
 ## 🚀 Example
 
