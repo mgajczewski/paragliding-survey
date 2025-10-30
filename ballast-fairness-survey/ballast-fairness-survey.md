@@ -170,14 +170,14 @@ We will now ask your opinion on the main solutions proposed.
 
 ---
 
-### Solution 4: MRT (Multiple Radius Turnpoints) Scoring
-*(A scoring adjustment based on wing size/AUW, as described on Gaggler.org.)*
+### Solution 4: MRT (Multiple Radius Turnpoints)
+*(A scoring adjustment using turnpoint radius modifications based on the pilot's all-up weight, as described on [gagglereport.org](https://gagglereport.org/node/45).)*
 
 **19. How familiar are you with the "MRT" proposal?**  
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
-- [ ] Very familiar (read the Gaggler report document)  
+- [ ] Very familiar (seen [Burce Goldsmith's lecture](https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/node/45))  
 
 **20. Please rate your overall support for testing/implementing "MRT":**  
 - [ ] Strongly Oppose  
