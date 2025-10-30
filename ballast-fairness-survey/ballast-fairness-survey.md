@@ -170,7 +170,7 @@ We will now ask your opinion on the main solutions proposed.
 
 ---
 
-### Solution 4: MRT (Minimum Race Time) Scoring
+### Solution 4: MRT (Multiple Radius Turnpoints) Scoring
 *(A scoring adjustment based on wing size/AUW, as described on Gaggler.org.)*
 
 **19. How familiar are you with the "MRT" proposal?**  
@@ -208,7 +208,7 @@ We will now ask your opinion on the main solutions proposed.
 - __ Equalizers ("Noodles")  
 - __ Weight Classes (replaces "Overall" winner)  
 - __ Strict Ballast Limitations (e.g., max 10kg)  
-- __ MRT (Minimum Race Time scoring)  
+- __ MRT (Multiple Radius Turnpoints scoring)  
 - __ Separate "Lightweight" Class (e.g., <95kg, like the "Reynolds" class, but "Overall" winner still exists)  
 - __ No Change (Status Quo)  
 
