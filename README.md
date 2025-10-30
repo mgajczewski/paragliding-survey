@@ -25,8 +25,9 @@ We warmly welcome contributions as approvers or Pull request creators! The Pull 
 
 ### 🏷️ Label-specific workflow
 
-- **correction**: text/link fixes are applied immediately after the Pull request is approved by 1 reviewer.
-  - Requirements: the Pull request must reference the related issue and obtain at least 1 approval.
+- **correction**: text, data or link issues.
+  - Decision: immediate action
+  - Pull request: at least 1 approval is required before merge.
 
 - **enhancement**: new features/improvements require initial community support.
   - Decision: the issue must receive at least 3 👍 (reactions) before we start implementation.
@@ -34,7 +35,7 @@ We warmly welcome contributions as approvers or Pull request creators! The Pull 
 
 - **redesign**: larger changes to questions or survey structure.
   - Decision: 3 days (72 h) after the issue is created, the number of 👍 vs 👎 determines whether we proceed (if 👍 > 👎, we continue; otherwise it goes back for refinement/gets closed).
-  - Pull request: 3 approvals are required before merge.
+  - Pull request: at least 3 approvals are required before merge.
 
 ### ✅ Voting and reactions
 
