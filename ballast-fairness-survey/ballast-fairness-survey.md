@@ -87,7 +87,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
-- [ ] Very familiar (read the Gaggler report document)  
+- [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/equalizers))  
 
 **10. Please rate your overall support for testing/implementing "Equalizers":**  
 - [ ] Strongly Oppose  
