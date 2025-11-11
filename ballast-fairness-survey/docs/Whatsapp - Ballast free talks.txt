@@ -643,3 +643,1177 @@ Car racing for example favors less weight. This involves ballasting cars to reac
 30.10.2025, 11:17 - Julien Garcia: For every proposal.
 30.10.2025, 11:17 - Julien Garcia: And to review the matrix proposed by Mateusz.
 30.10.2025, 11:19 - Julien Garcia: Once we listed theses pro / cons we can see if it matters adding some more to the list
+30.10.2025, 11:45 - ‎+49 172 2985786 dołączył(a) ze społeczności
+30.10.2025, 11:58 - +41 76 465 96 05: I think it is. Because forarms create more drag then the whole harness. It is why small pilots with a lot of balast can have an advantage. (It is not modled correctly in your calculation, but disadvantage due to inertia isn't either.)
+
+As a big guy who was forced out of the sport I love (>125kg 😢) I am still in favour of equalizers. Just imagine everyody could show up with 12kg gear. It is what makes the beauty of our sport. It is better to have them even without ballast limitation.
+Maybe we would need to adjust the rules a bit, but it is doable) <Ta wiadomość była edytowana>
+30.10.2025, 12:19 - +54 9 11 4417-7923: The question is if the resistance to equalizers is philosophical or methodological
+30.10.2025, 12:20 - +54 9 11 4417-7923: If we think M and L have the same performance then we tweak eq and give them the same noodle
+30.10.2025, 12:21 - +54 9 11 4417-7923: If we think XS is still handicapped, then we reduce more its noodle
+30.10.2025, 12:27 - +54 9 11 4417-7923: CCC is already a degraded machine. It is not the best performance we can get. It is perhaps the best performance under the current rules that impose limits. If equalizers were born at the same time than CCC perhaps it would have been easier to accept
+30.10.2025, 12:38 - +54 9 11 4417-7923: The biggest doubt I have with equalizers, is if after all this, the < 65 kg pilots will still fly 95 or 105 kg PTV because they feel is their best option <Ta wiadomość była edytowana>
+30.10.2025, 12:39 - +33 7 86 12 62 36: And a test in real competition conditions has not yet been performed… <Ta wiadomość była edytowana>
+30.10.2025, 12:46 - +32 476 28 83 81: Ta wiadomość została usunięta
+30.10.2025, 13:10 - +358 44 5063309: To me it feels a bit distorted that we are flying drag optimized super sleekly harness with a napkin as back protector and adding foam to the lines instead.
+30.10.2025, 13:21 - +44 7446 445157: It seems the designers, at least Luc & Bruce, agree on the ball-park performance advantage of larger gliders over small.
+
+Is this advantage consistent across all glider classes (CCC through to EN-A) ?  
+
+(It appears the BGD weightless applies MRT across all glider classes.)
+30.10.2025, 13:34 - +41 76 465 96 05: From a pure performance standpoint, it would be the most advantageous solution. Even today, jumping two sizes with ballast can provide a noticeable performance edge. This effect also becomes clear when using a body-size model based on DIN CEN ISO/TR 7250-2.
+
+Compared to the current setup, the performance gain relative to the smaller size would be reduced, while the advantage over the larger size would increase.
+30.10.2025, 13:34 - ‎+358 40 6482400 dołączył(a) ze społeczności
+30.10.2025, 13:44 - +54 9 11 4417-7923: So you give them one more noodle segment (just as example, not to be precise)
+30.10.2025, 14:07 - Dodano: ~ Tilen Ceglar
+30.10.2025, 14:07 - ‎+386 31 382 164 dołączył(a) ze społeczności
+30.10.2025, 14:38 - +386 31 606 148: Its hard to read in detail all 200++ posts, if you skipd one day. 😆
+But as far as I saw, there is not much mentioned also, why "M" glider is the best sweet spot.
+Yes, bigger gliders fly better, safer, etc... 
+I also fly with ballast, to be on M. I switched to S size for one seasson. It was nightmare. I was always struggling!! The difference is noticable! As long as you are on the better side (and mybe just for a bit!) you dont notice the advantage!
+So the M is sweetspot also because its mostly the size, from which all the design begins. And it has enormous R&D, fine tunning time on it, etc... even, if the manufacturers would now say, that they will put more effort into S, it wont be as good as M. Im pretty sure!!
+Also, the noodles, WON'T make the "equalising" job, also becasue of all that said. Not to mention, its ridiculous to use them, where we can try to optimise every bit for performance!! And one is teory/calculations, another is practice. They just wont do the job.
+Ballast is the "price" top competitor has to take in to account, if s/he wants to be on top. 
+I would say, that overall safety is not much bigger (if at all), without ballast and flying S or even XS, than M and up, with balast. As said there is bigger workload on smaller glider and less overall safety on it. So in overall, gain on one side, but loose on the other. ("Gain only": easiness at take off and landing. But, this only applies for bad conditions and BAD places. If TO and LZ are OK, then no worries. So better to concentrate to improve those parts! And leave the ballast to everyone's choice!)
+IF we MUST go to "equalising" between sizes, then it's better to choose the least worse option, which is weight ranges. Probably 2 or 3 ranges would do the job. <Ta wiadomość była edytowana>
+30.10.2025, 14:54 - +44 7815 693738: There doesn’t have to be bigger workload on smaller gliders though. Small gliders can be made nice too if there was a market for them.
+30.10.2025, 16:07 - Mateusz Gajczewski: <Pominięto multimedia>
+30.10.2025, 16:57 - +54 9 11 4417-7923: A good start ! Now we need to structure how to work on it
+30.10.2025, 16:57 - +54 9 11 4417-7923: <Pominięto multimedia>
+30.10.2025, 17:01 - +33 7 86 12 62 36: Agree ! Thanks Mateusz !
+30.10.2025, 17:02 - Julien Garcia: Some general comments :
+1) Pilots data on surveys are usually lost forever. This community have seen such surveys in the past. Results have been published but collected data have never been capitalized. If we believe theses datas are good let's store them in a user profile instead so we can reuse for other questions. <Ta wiadomość była edytowana>
+30.10.2025, 17:06 - Julien Garcia: 2) Most pilots will answer question according to the scope they know and love.  CAT1 PWC SRS National leisure comp. It is certainly the case that a pilot believe a solution could work somewhere but not somewhere else. In my opinion we should Primary chase this. <Ta wiadomość była edytowana>
+30.10.2025, 17:07 - Julien Garcia: Otherwise I aknowledge superior insight in this survey than simple single choiced vote <Ta wiadomość była edytowana>
+30.10.2025, 17:07 - Julien Garcia: Very good work 🙏🏻
+30.10.2025, 17:15 - Mateusz Gajczewski: 1) I agree that all (or most) of Demographics section can be stored in user profile.
+2) Personally, I would add in the Problem Perception section question(s) about where this problem is most visible and where it should be addressed first.
+But yes, as Eduardo said, we'd need to structure for how to refine this survey to be correct, complete, objective and unbiased
+30.10.2025, 17:25 - Mateusz Gajczewski: I can give anyone who wants it permission on GitHub to _create an issue_ or submit a _pull request_ (request to apply certain change) . Just PM me, and we can test how it would work.
+30.10.2025, 19:41 - ‎+27 82 374 4011 dołączył(a) ze społeczności
+30.10.2025, 20:06 - +420 737 683 261: Hi, just quickly skimmed through the past conversation so sorry if this is something that has already been said. I’m all in favor of equalizing the performance, but I find the noodles to be somewhat awkward. Wouldn’t it be possible to create same drag for each glider by simply using thicker lines? So the glider is pre-equalized straight from the factory
+30.10.2025, 20:09 - +1 (850) 702-1893: I doubt people would like to have a perma-equalized glider
+30.10.2025, 20:11 - +1 (415) 994-8200: That said, there were some rule/procedure changes suggested that would allow manufacturers to scale lines on smaller sizes (lower load) rather than using the same max-load size on all. This could make the smaller sizes perma-optimized perhaps 🙂
+30.10.2025, 20:13 - +1 (510) 299-3701: In theory that only takes care of part of the advantage of the larger sizes.
+
+But it could allow using smaller equalizers in future if the rule were adopted.
+30.10.2025, 20:14 - +1 (415) 994-8200: Could be a step in the right direction though and should upset very few people?
+30.10.2025, 20:18 - +54 9 11 4417-7923: I think nobody is really thinking - Oh, I would really love to have those kite control bar floats happily erect in my B1 lines !!!  Where can I get them ?
+It will be awkward for everyone, not only you Ondrej !!
+If we finally use them, it is just because we are convinced it will solve a problem (or at least partially) whose solution we have been procrastinating for quite a long time.
+30.10.2025, 20:25 - +420 737 683 261: Yes, I get that, as I also wouldn’t want to compromise on glide when doing xc flights. But from my point of view CCC is a competition glider, which should be primarily used on competitions. If we were to create CCC 2026 as Luc has already proposed, we could “bake in” the drag equalizer that way. As I said before, I’m not sure if this is going to work as I don’t know a lot about physics and I’ve never designed a glider myself. That’s why I formulated my message as a question
+30.10.2025, 20:36 - ‎+39 328 638 4939 dołączył(a) ze społeczności
+30.10.2025, 20:38 - +351 914 026 612: I'm a lightweight pilot. I weigh 54 kg and my total weight without ballast is between 78 and 80 kg. I've been flying since 1993, and in the past I flew CCC and D wings. Currently, I've moved to class C because I thought it would offer more safety combined with good performance. However, what I feel, besides the issue related to size XS or S – greater dynamics and more work in controlling the wing – is that C wings (I've flown wings of this category from two different brands) may be more resistant to collapses, but when they happen, they are much more violent compared to any wing I've flown in the past. So how should I proceed? Control the pitch more? To the point of not letting it fly at all? Because even then, controlling the pitch much more, I end up having violent collapses in thermal flight, with the feeling that I'm lucky not to fall inside the wing. What has been in my favor is having height, with a significant drop to the ground. But how long does that luck last? Right now, this is the dilemma I'm facing with this new generation of wings: I don't want XS or S wings anymore because their reactions are unpredictable. With an M wing, I'd have to carry the same weight I have as a person in terms of ballast. Even if I went to the gym like Pamela (whom I admire immensely), I'd never be able to manage it.
+30.10.2025, 21:23 - +1 (510) 299-3701: Probably a development/trimming issue. Having more pilots flying smaller sizes because it’s less of a disadvantage can only be good for getting more work put into smaller sizes.
+
+It’s also possible that you had bad luck with that size of those two brands and that size in a third brand would be better.
+
+There are even bad individual gliders in M size that collapse too easily, so it’s risky to generalize too much from one or two examples.
+
+It does seem like a failure of the EN testing regime when gliders that pass with standard collapses behave badly with real world ones.
+30.10.2025, 21:29 - ‎+47 997 34 191 dołączył(a) ze społeczności
+31.10.2025, 00:20 - +33 6 83 16 16 76: (I'm a test pilot) For EN tests, in my opinion, the problem isn't with the current standard itself, but with simply standardizing the tests. What's standardized is the collapse. The pilot's execution of it doesn't matter. An EN C glider that collapses too deeply at high speed, outside the standard range, with a basic maneuver to trigger the collapse, leads the test pilot to search for the standardized collapse and find solutions to achieve the correct one. What happens in real life is something else entirely...
+31.10.2025, 02:25 - +1 (510) 299-3701: Are you saying that it doesn’t make sense to force gliders to collapse to the standard when they don’t want to?
+31.10.2025, 02:27 - +1 (510) 299-3701: I realize it would be hard to test real life collapses, though maybe something like sloppy wingover or off heading fast spiral exit could create something more realistic?
+31.10.2025, 02:28 - +1 (510) 299-3701: Maybe failure is too strong and “shortcoming” or “imperfection” would be more charitable.
+31.10.2025, 06:14 - ‎+39 347 313 9399 dołączył(a) ze społeczności
+31.10.2025, 11:01 - +33 6 83 16 16 76: I wouldn't go so far as to say that, without taking too many risks. I can say that the reality of the EN test is not the reality in real life, and vice versa. I also don't think we can find a more efficient maneuver to induce collapses while getting closer to reality. One reason is that there isn't "one" but "many" realities. Our gliders don't always collapse in the same way in real-life situations. In my opinion, it's impossible to reproduce them. The consequence of all this? Don't hide behind a letter, C or B or whatever, but improve your piloting skills!
+31.10.2025, 12:54 - +1 (284) 541-0307: New racing certification technique.  Full bar over thermal source at 2pm in spring.  No pilot input. 🤣 Test pilot salaries triple.
+01.11.2025, 16:50 - ‎+54 9 266 502-9123 dołączył(a) ze społeczności
+01.11.2025, 19:48 - +1 (510) 299-3701: I attempted to summarize the arguments for and against and against the against the various options:
+
+https://docs.google.com/document/d/1SGKpW9JHppauA0iH5fIrpE3vhiUCny3HE7ovFsgRrjs/edit?usp=sharing <Ta wiadomość była edytowana>
+01.11.2025, 20:34 - +44 7815 693738: Thanks Josh, that’s a clear way to lay it out. I think Eduardo mentioned before that CAT1’s and weight classes, and in your document it says “a mess logistically”. So I have a question for the group in preparation for next weeks meeting on the weight class proposal. Do you think it would be a mess? What would be the solution? How would you imagine it being done in CAT1’s?
+01.11.2025, 22:34 - +41 78 870 02 30: Thank you for the summary, @⁨~Josh Cohn⁩. I would like to highlight a critical factor regarding flight dynamics of smaller wings, as this point is often underestimated and has been largely overlooked by equalizer and MRT concepts.
+
+Turbulence affects small and large paragliders very differently: smaller wings react faster and more abruptly, while larger wings are more stable and less affected. In simple terms, a pilot flying a small wing must deal with significantly more physical and mental workload in turbulent air. According to studies carried out by BGD, this additional workload is around 25% higher.
+
+There are also well-known studies from NASA and other sources supporting this principle. Based on pilot interviews, the real-world difference can be even higher than 25%, especially on long and demanding tasks.
+01.11.2025, 22:59 - ‎+54 9 3548 50-3363 dołączył(a) ze społeczności
+02.11.2025, 08:07 - ‎Martin Scheel dołączył(a) ze społeczności
+02.11.2025, 11:26 - +41 76 465 96 05: It is not only an increase in physical workload — it also results in a performance loss in turbulent air, and this effect is greater than the pure scaling effect.
+02.11.2025, 13:55 - ‎+91 98166 48041 dołączył(a) ze społeczności
+02.11.2025, 14:29 - +44 7446 445157: Good work 👍. I'm guessing AI assisted summarising ?
+
+
+Is it just me or do the rebuttal comments to the MRT objections seem not fully thought through ?  Maybe the discussion hasn't covered those rebuttals ?
+02.11.2025, 15:09 - +386 31 404 688: Yes, it seems to have missed the few key aspects of MRT that need to be understood and should be listed. Maybe these were all presented in the video chat. I wasn't watching and I guess AI missed it 😊
+
+You should avoid an MRT waypoint in the first 10km, to allow pilots to separate before pilots start turning 180 degrees on a turnpoint. This is even more important when ridges are involved in the mountains. Turnppoints away from the ridge are good for safety, but this requires heavier pilots to fly out further from the lift band.
+
+You need to avoid an MRT turnpoint in the last 10km as this could severely affect a pilots calculations in knowing what he must do to beat a fellow pilot.
+
+MRT turnpoints need consideration in the mountains so as not to push heavy pilots too deep into terrain.
+
+Tasks straight to goal don't have waypoints to MRT. Some clever tasking in the middle can add something but the task committee needs to consider how to do this within the terrain available to them.
+
+MRT relies on the task committee to calculate how to make a fair task to equalise the scoring fairness so a degree of training is needed for task committees. At present there are no formal training courses available within CIVL.
+
+MRT is fantastic when applied to something like Glider classes. Sports pilots. To help the very low performance wings to enjoy a bit more of the task rather then be decked at the first into wind turnpoint. It can work well for weight on lower ranked events, providing all the above is observed and understood.
+02.11.2025, 18:36 - ‎+1 (724) 984-1982 dołączył(a) ze społeczności
+02.11.2025, 19:08 - Dodano: ~ TommBr
+02.11.2025, 19:08 - ‎+420 725 512 174 dołączył(a) ze społeczności
+03.11.2025, 01:02 - +1 (510) 299-3701: I didn’t put that much effort into the MRT part. But if anyone wants to write something up I’m happy to include it.
+03.11.2025, 03:31 - ‎+55 11 98141-8552 dołączył(a) ze społeczności
+03.11.2025, 07:54 - +386 31 404 688: 👆
+03.11.2025, 08:20 - +44 7815 693738: ☝️also this, any comments?
+03.11.2025, 08:29 - +33 7 86 12 62 36: Mentionned also : when MRT center is the place of a (known) thermal then the advantage for light pilots (having the possibility to turn away earlier) is not so real
+03.11.2025, 15:09 - +41 78 870 02 30: Hi Malin, Regardless of which solution is eventually proposed, it will need to be properly organized, designed, and supported by clear rule modifications and implementation steps. Of course, feasibility should be considered — but isn’t it a bit early to focus on adoptability before we’ve explored the options in depth?
+
+A few thoughts on the organization of weight classes:
+We’ve already seen the Reynolds Class introduced in some Class 2 competitions, which could serve as a good starting point for bringing similar categories into CAT1 events.
+
+Once the initial structure is established, additional weight categories could gradually be introduced based on pilot selection and wings.
+
+One of the biggest advantages of introducing weight classes is that it doesn’t fundamentally change flight strategy, equipment choice, pilot training, experience, or scoring systems.
+By creating a new CAT 1 class such as the Reynolds Class, we simply add an incentive for pilots to compete and succeed within their natural range, using suitable and readily available equipment — ideally without, or at least with significantly less, ballast.
+03.11.2025, 15:16 - +386 31 404 688: Also, consider Reynolds class at 95kg has failed twice at the plenary already.
+03.11.2025, 15:17 - +386 31 404 688: A fresh approach will help
+03.11.2025, 15:18 - +49 1573 4866279: <Pominięto multimedia>
+03.11.2025, 15:20 - +386 31 404 688: The French were quite against on the first presentation. They wanted it increased to 105kg as I remember. 
+
+I can't really remember much discussion the second. Not that I participated in anyway. Maybe the minutes will reveal something.
+03.11.2025, 15:21 - +386 31 404 688: The success at SRS though would be a good reference as to how it can work successfully
+03.11.2025, 15:22 - +44 7815 693738: I thought this group was set up to talk about the pros and cons of each idea. If CAT1’s would be a block then it’s not worth pursuing it. I can’t see a problem with it but others have mentioned there might be so I’m trying to involve the group to discuss the details so we can talk about them in the next meeting. Out of interest, if weight categories gets accepted, why would we gradually introduce it? Part of pilots frustration is that it is taking years for any change, why do it slowly?
+03.11.2025, 15:45 - Martin Scheel: I think weight classes (or MRI) are good for competitions below CCC. 
+For the top class, it would be a loss. It would further diminish the value of a title. Even today, hardly anyone knows who was European champion. If we now introduce further classes, the value of the titles 'world champion' and 'Continental champion' will continue to decline. 
+In addition, weight checks are difficult. 
+For CCC Class we should use equalizer.
+03.11.2025, 15:48 - +386 31 404 688: That is a very fair point from Martin.
+
+I already feel the Sports Worlds will introduce that type of factor.
+
+Weight classes are being considered as a way to improve safety in ballast etc. But all other ways of tackling the problem should first be explored.
+03.11.2025, 16:06 - +41 78 870 02 30: Ironically, this is exactly the kind of organizer-centric thinking we’re trying to move away from — to make competitions safer, fairer, and more inclusive.
+
+Many competitions already use a weight class system, such as the 95 kg / Reynolds Class, and it works well. So it’s hard to understand why introducing similar structures more broadly is seen as such a challenge.
+
+If we continue ignoring the imbalance, we risk losing pilots — not just because of unfair competitive conditions, but also because some push themselves to dangerous extremes trying to match weight. In the long run, there won’t be any titles left to defend if the sport keeps discouraging or endangering its own participants.
+03.11.2025, 16:11 - +44 7815 693738: You wouldn’t need weight checks. You would need to register what weight class you were going to fly at the beginning of the season and then turn up with the appropriate wing size, which would be easy to check. There is no getting over the fact there would multiple champions, but does that really matter as long as pilots are safer? You don’t watch boxing, or sailing and scoff at the winners thinking “yes well they are only the best in the world in their category”. You witness them being the best in the world at what they do. If people can’t currently keep track of one winner then it doesn’t make any difference to them if there is more, they still won’t know! Equalisers seem like they need a lot of testing in real world conditions before they could be fairly introduced, weight categories could bridge the gap as it could be implemented much quicker.
+03.11.2025, 16:20 - +54 9 11 4417-7923: I am yet to see a detailed proposal for weight classes in a CAT1.
+We cannot debate about what does not exist
+03.11.2025, 16:26 - +44 7815 693738: Then why not propose something? Or come up with some pros and cons of how it could work. This is a group set up to literally talk about ideas to be made in to a proposal, not talk about wanting to see a proposal.
+03.11.2025, 16:36 - +34 656 49 91 05: I’m sure there are solutions for every issue here if we work on it. The only thing that would be lost is the “1 Overall Champion”.
+Anyway, it seems we are looping again back to the start of the debate..We need the table for pros/cons for every option.. and then make the voting for one choice.. and go for it and start working on it
+03.11.2025, 16:37 - +54 9 11 4417-7923: Because I think it is a very bad idea. So I cannot make proposals over something I disagree.
+It is for the proponents of the idea to make the proposal
+03.11.2025, 16:38 - +1 (510) 299-3701: I wouldn’t say Reynolds Class has been a huge success in the US. It doesn’t seem to have influenced serious competitors to carry less ballast. It’s fine, it doesn’t hurt anything to give away another minor trophy, but that doesn’t mean it’s a good idea for a Cat. 1 or going to meaningfully impact safety.
+
+Could people include their name in their Whatsapp profiles? It’s hard to take seriously discussion with someone with a single letter or an emoji for a name.
+03.11.2025, 16:38 - +1 (510) 299-3701: I guess what you could do is provide a more detailed description of drawbacks than ‘logistical nightmare’. If you felt like it.
+03.11.2025, 16:40 - +44 7815 693738: If you think it’s a bad idea you can come up with a list of cons for it, as people that like the idea are probably going to suggest positive things as we all have a cognitive bias. Your input is important either way.
+03.11.2025, 16:42 - +54 9 11 4417-7923: Of course Josh. I will do that. I thought it was better to argue against something with more detail, as weight classes ideas have been varied (I have read about a single lightweight without eliminating general classification, and also read about as much categories as 10 kg intervals we can think of and without a general classification)
+But I will nevertheless  provide the description of drawbacks I have in my mind
+03.11.2025, 16:47 - Martin Scheel: I don't see any safety risk or sporting problem if CCC has to fly with equaliser and the other classes fly with weight classes. I only see one problem: how pilots are allowed to fly in a "mixed" competition. For example, a pilot with EN D in a competition where many CCCs are flying. At Cat 1 there are a few, at the Nationals there are many who do not fly CCC.
+03.11.2025, 16:58 - +386 31 404 688: One major obstacle with classes is that of overall champion. 
+
+The entire WPRS system is built upon a single set of results from a competition. To try to have several equal champions from an event would always be undermined by their still being a single winner named and rewarded in the WPRS.
+
+To score them as separate events within the same task is not yet allowed for within wprs so it will need some thought and possible change throughout the entire scoring system.
+
+In CAT2, I think pilots are just happy to make a podium. In CAT1 it would need careful consideration. In the current form, it is an elitist event.
+03.11.2025, 17:00 - +44 7815 693738: It would have to be scored as “multiple events” within one comp to be fair for WPRS.
+03.11.2025, 17:11 - +386 31 404 688: That is my worry. That suggests the WPRS for each 'event' would be very low, for example. Maybe only 10 pilots in the 'event'.
+
+It would create unique champions, but they would not be competing for wprs under the current system.
+03.11.2025, 17:17 - +34 656 49 91 05: but it would be “low” for every event along the year.. and therefore in the end, fair for everyone. But I guess what would make sense is having in the WPRS weight categories as well
+03.11.2025, 17:20 - +41 78 870 02 30: @⁨~Brett Janaway (Si)⁩, Isn't the model you used for SRS adoptable for other classes? I mean you have the same issue with SRS wprs right?
+03.11.2025, 17:33 - Julien Garcia: It has been several occasion where it happens WPRS is a concern that kind of "forbid" a solution to develop. I'm not satisfyed with the way it "structure" our activity. I'm willing to developp another one based on Elo or Trueskill to fix different issue. (I'm opening another What do we want)
+03.11.2025, 17:34 - +41 78 870 02 30: @⁨~Josh Cohn⁩ some guys missed quite a big part of the discussions around fairness and safety — you did a fantastic job summarizing them all into a pro/con table. Would you mind updating and sharing it again? 🙏
+03.11.2025, 17:49 - +1 (510) 299-3701: Sure, I can also have notebooklm review this thread again and extract arguments after a while. I edit them to make sure they make sense of course. Also happy to take submissions for brief pro/con/anti-con arguments.
+03.11.2025, 18:00 - +386 31 404 688: For other events, it would not be low. CAT2 competitions can do as they want and many organisers focus on achieving high WPRS above all other aspects. Section 7 rules are for CAT1 only. Any rules you propose here would only apply to CAT1 (with some very minor exceptions that apply to CAT2).
+
+So you would have to reinvent the whole WPRS system. But, you can do that. It is entirely possible and then yes, it could apply to CAT2. Just not to underestimate the size of the task.
+03.11.2025, 18:09 - +34 656 49 91 05: Sorry, yes, I was assuming it was applied on all competitions..in the end you compete (more less) with the same gear every comp, so it makes sense if we want pilots flying on their preferred weight, competing with their equals
+03.11.2025, 18:12 - +44 7815 693738: Couldn’t you just keep the same formula but “duplicate” it to cover multiple categories.
+03.11.2025, 18:13 - +44 7446 445157: Yes.  And the consequence would be those events would be low wprs because there are few participants.
+03.11.2025, 18:15 - +1 (510) 299-3701: But if all ‘under 95kg’ class comps have low WPRS values then that’s not a problem for comparing them in their own WPRS ranking. It would be like Class 2 hang gliders.
+
+It’s still a huge project, way beyond making some tweaks to the WPRS formula to make it fairer.
+03.11.2025, 18:27 - +44 7446 445157: Yes, exactly.  There are many implications to be worked through.
+03.11.2025, 18:48 - +44 7446 445157: A few initial questions/ challenges in respect of Weight classes for Cat 1 events.
+
+Cat 1s are nation & individual events.  They're limited to 130 competitors, in the '25 Worlds 12 nations had "full" teams (i.e. 3+1) ref: https://civlcomps.org/event/download-file?filename=9d89739b76f0155d936940789cb3fd46.pdf 
+
+We've heard ideas ranging from 3 up to 10 different weight classes; the number of classes will directly affect some of the implications.
+
+How would nation scoring work ?  The two best individual scores across any weight category (with each weight category scored separately) ? 
+
+Are Nations expected to field a team which covers multiple weight classes ?  Is there a limit to the number a nation could be field in each category ?
+
+We would expect some weight categories to be larger than others. It may be beneficial for a nation to send less skilled competitors in weight class they anticipate to have less competitors than a higher skilled pilot in a larger class.
+
+Weight class champions will be less recognisable than overall champions.  To use the boxing analogy I suggest many more people know the heavyweight (i.e. overall) world champion than the other weight categories.  It's true that only a small proportion of our sport know the current (or former) world champions but it would likely reduce even further thus undermining the prestige of the title.
+
+The over riding concern is that weight classes will change many aspects of the competition and it will be difficult to anticipate them all thus opening the door for a (short term) reduction in "fairness".
+03.11.2025, 19:00 - +386 31 404 688: The SRS system is simply this:
+
+<85kg = lightwight
+86kg - 100kg = midweight
+Overall, all weights.
+
+So we have two weight classes, and one overall. We can't get away from the overall under the current WPRS system, and we recognise that.
+
+*2024*
+390 pilots (63 women)
+13.6% lightweight
+16% Medium weight
+16% Women Overall
+390 in Overall
+
+*2025*
+10% lightweight
+22% Medium weight
+14% Women Overall
+301 in Overall
+
+Interestingly, if you break it down event by event
+
+SRS-2024-1 17% light, 29% medium
+SRS-2024-2 11% light, 24% medium
+SRS-2024-3 14% light, 20% medium
+SRS-2024-4  7% light, 29% medium
+SRS-2024-5 12% light, 30% medium
+SRS-2025-1 14% light, 23% medium
+SRS-2025-2  8% light, 20% medium
+SRS-2025-3  8% light, 18% medium
+SRS-2025-4  8% light, 27% medium
+
+What this demonstrates is that medium weight pilots in particular are committing to the full season, and thus appear as a smaller number in the overalls for the full year. Heavier pilots bounce in and out, so appear to be greater in number overall.
+
+The lightweight pilots appear to be either reducing or carrying more ballast as the SRS develops.
+
+What I also know is, we do not get complaints of ballast or weight in the SRS. Pilots are very happy with the system. So far.....
+03.11.2025, 19:02 - Sopot - Meet Director: Midweight includes also the lightweights - right ?
+03.11.2025, 19:02 - +386 31 404 688: No
+
+They are exclusive
+03.11.2025, 19:03 - Sopot - Meet Director: Why not ?!?
+03.11.2025, 19:04 - +386 31 404 688: That is important for several reasons, but not least, to get different pilots onto the podium Pal wins enough already without having him mopping up every weight category as well as Standard and Overall class 😂
+03.11.2025, 19:04 - Sopot - Meet Director: If Overall includes all, then midweight must include lightweight
+03.11.2025, 19:05 - Sopot - Meet Director: Only the lightweight category must be on it's own
+03.11.2025, 19:05 - +386 31 404 688: In your definition. Not ours. That's the beauty of a CAT2 😊
+03.11.2025, 19:06 - +386 31 404 688: We are looking for the best pilot in a certain weight band.
+
+You don't mix them in boxing!
+03.11.2025, 19:06 - Sopot - Meet Director: It's strange for me that the two concepts are mixed
+03.11.2025, 19:07 - +44 7446 445157: In which case why not a heavy weight rather than overall (incl the lower weight categories)? <Ta wiadomość była edytowana>
+03.11.2025, 19:07 - +1 (510) 299-3701: One way of structuring it would be to have several completely separate classes/events. A problem is that there would be many more in the middle weight and not many in the light and heavy categories. You might have to combine light and heavy to get an economy of scale. Similar to how the class 2 HG and womens HG worlds were combined.
+03.11.2025, 19:08 - +1 (510) 299-3701: But even though the comp infrastructure is combined the tasks and scoring should be separate.
+03.11.2025, 19:09 - +386 31 404 688: If WPRS didn't insist on us presenting Overalls, we would have heavyweight, not overalls. We can't avoid overalls, so we accept it.
+
+Most of the time you would see a pilot over 100kg on the top of the podium, so having heavyweight would be the same as Overall. Duplication of trophies etc.
+
+But the last two seasons could be said to be challenging that. I will go away and consider that.
+03.11.2025, 19:09 - +41 78 870 02 30: If SRS wouldn’t have overall they can’t even qualify as CAT2 and get WPRS
+03.11.2025, 19:10 - +386 31 404 688: We could present the podium different to how we present WPRS results. But pilots chasing WPRS (don't we all) would know that and chase the points anyway. <Ta wiadomość była edytowana>
+03.11.2025, 19:11 - +1 (510) 299-3701: there is not a requirement for overall if they are doing different tasks of course. that would mean fewer WPRS points for each sub-event, but in the context of weight class specific WPRS rankings that wouldn’t matter.
+03.11.2025, 19:11 - +44 7446 445157: If the aim is to find the best pilot in each weight class do just that.
+Overalls for WPRS could be submitted but not be mentioned in the SRS titles. <Ta wiadomość była edytowana>
+03.11.2025, 19:12 - +386 31 404 688: In fact, the very first BGD Weightless had 3 mutually exclusive weight champions and no overall winner.
+
+For me, that was the most successful BGD Weightless event. But it would not work in CAT1, IMO. Certainly not until the WPRS issue is resolved.
+03.11.2025, 19:13 - +1 (510) 299-3701: there is a difference between being the winner of a task (comp) and a winner of a subcategory within a task(comp). one requires more independent decision-making than the other.
+03.11.2025, 19:13 - +386 31 404 688: Sorry, it I shard enough managing one task. I am not running three separate ones at the same time 😬
+03.11.2025, 19:14 - Sopot - Meet Director: In paragliding we all accepted the "inclusive categories" - if some group of people has a disadvantage - there is a separate category for those people, but they are also included in the "upper" categories
+03.11.2025, 19:15 - +1 (510) 299-3701: it is the status quo, true, but it creates a sort of second class title.
+03.11.2025, 19:15 - Sopot - Meet Director: EN-B gliders are included in any category for EN-C
+03.11.2025, 19:16 - +386 31 404 688: Anyway. This, for me, is all an aside.
+
+This is how the SRS does it. We have 300-450 members participate per season. We have no complaints I am aware of from our members. It is our members. The SRS is not CIVL. But you are welcome to look at what the SRS does and see if there are lessons to be learnt.
+03.11.2025, 19:18 - +41 78 870 02 30: How about introducing a lightweight class in the same way the women’s class is handled — keeping WPRS unchanged, or alternatively applying a simple adjustment formula to WPRS for lightweight pilots?
+This would keep the implementation straightforward and manageable.
+03.11.2025, 19:20 - +1 (510) 299-3701: An adjustment formula is handicapping, which Bruce described having tried and discarded for his comps.
+03.11.2025, 19:22 - +44 7815 693738: Let’s be honest, a complete overhaul of the WPRS formula is not hard. It would involve putting the existing one in to AI, explaining the new rules and waiting all of 10 seconds for it to do the hard work…
+03.11.2025, 19:33 - +34 656 49 91 05: I have an important concern: What would happen with women's categories?
+Because most probably, they would need 2 or 3 weight categories. Is up to them to say how to they feel about it. Will they be OK having a mixed (men & women) category?
+In my opinion, they are more than capable of beating men on their own weight class.
+Otherwise, we would be on start point 0 for women, because they will want to win the overall women category therefore most probably over-ballasting.
+But at the same time it would be very bad having f.e. some competitions (class 2) with only 1, 2 or 3 women in each weight category. Or this would be OK?
+03.11.2025, 20:03 - +44 7815 693738: In my opinion there would be no need for a woman’s category. The lower weight classes would be dominated by them and the male pilots that were in those categories would be the minority. The women would have more of a chance at winning an “overall” category this way.
+03.11.2025, 20:13 - +1 (850) 702-1893: Please don’t conflate weight classes and gender categories. 
+
+We don’t have a women’s class because women are light. We have a women’s class because women are underrepresented in the sport. These may be related but they’re not the same.
+03.11.2025, 20:28 - +34 656 49 91 05: how do you foresee these weight categories for women if were introduced?
+03.11.2025, 20:36 - +386 31 404 688: Just for info. Women's participation
+
+In our NAC (GBR), it is presently: *6.1%*
+In the WPRS it is: *8.5%*
+In the SRS it is: *15%*
+03.11.2025, 20:39 - +44 7815 693738: They’re not, but is there any evidence that having a woman’s category has done anything to increase the numbers? The top female pilots that I have discussed this with, which to be fair aren’t many, are against a woman’s category, they want to be seen as equal and when they fuck up a comp and come 70th and still get up and win a medal they are embarrassed. If you kept a woman’s category, they would have to ballast up to the heaviest woman’s size to be competitive, defeating the point of all this, so they would be better off, and more likely to win, in their own weight (mixed) category. If you had weight categories for women there wouldn’t be enough in each category to make it viable, so you are back to an overall winner and the lightest pilots ballasting up. Back to square one just in a different gender. In my opinion it wouldn’t be fair on women if men had weight categories and could fly without ballast and women were still scored overall and having to ballast up. Unless something drastically changes there will never be enough women in this sport to make their own weight categories viable. So, what other solution is there to propose that would be fair and rid the sport of ballast?
+03.11.2025, 21:11 - +34 656 49 91 05: I understand both points, and this is for me the biggest issue .
+Is it possible to do a poll just for women?
+03.11.2025, 21:13 - +386 31 404 688: I would suggest, that is a poll for CIVL to make at some point. But it would have to be part of a larger poll on other topics too.
+03.11.2025, 21:48 - +1 (850) 702-1893: To be clear - there is excellent evidence in multiple sports that having a visible women’s podium increases participation, but it does take time. There’s no reason to think that free flight is an exception to this. 
+
+I give the anecdote often of beginning to compete some years ago and having very little evidence that women were participating in competition, it being hard to identify whether there were any women in an average competition’s results list, etc. It was fairly discouraging.
+
+I come from ultra running, which has exploded in popularity over the last 20 years - and I experienced the same thing often - I’d run races in which I might be one of 5-10% women taking part. I appreciated a women’s category because it lent legitimacy to us participating. Marathon running and ultra running has now become much more gender equal, and there have been multiple efforts to elevate attention to the women’s category (the podium project, here for the women’s race, etc).
+
+I don’t think we can expect such exponential growth in our sport, but we have excellent examples of why we should continue to support a women’s category if we want to have women competing.
+03.11.2025, 21:51 - +44 7815 693738: How would you solve the ballast issue amongst women?
+03.11.2025, 21:51 - +44 7815 693738: I’ve done some rough figures, I’ll post them below:
+03.11.2025, 21:52 - +44 7815 693738: <Pominięto multimedia>
+03.11.2025, 21:52 - +44 7815 693738: <Pominięto multimedia>
+03.11.2025, 21:53 - +44 7815 693738: I’ve based this whole thing on the idea that a complete flying setup weighs 15 kilos. Right now, competition gear usually comes in quite a bit heavier than that, but I’m imagining a future setup where everything’s been made lighter.
+
+These weight categories are designed so that no pilot would ever have to fly with more than 10 kilos of ballast. This is really the minimum number of weight ranges that still makes that possible. Any fewer, and someone would inevitably end up needing to carry more ballast just to stay competitive. The only other way to reduce the number of categories would be to move the very heavy pilots down into the lighter band — but that would be unfair on everyone else in that category, because they’d have to fly against pilots with bigger wings. So if the goal is to properly solve the ballast problem, I don’t see a fair way to have fewer weight categories than this.
+03.11.2025, 21:54 - +1 (850) 702-1893: Thanks for the weight distribution chart.
+03.11.2025, 21:54 - +1 (850) 702-1893: I don’t think we have enough people to make weight categories compelling, personally, though I’m open to being convinced.
+03.11.2025, 21:54 - +44 7815 693738: To build this, I started by looking at global population data for body weights, but I removed the obese end of the scale, because realistically there just aren’t obese people flying in competitions.
+
+Since we don’t have accurate pilot weight data, I’ve had to generalise from the overall population and make some assumptions based on what would be a reasonable spread for active pilots. From there, I took the total number of registered pilots — 7,054, including 601 women — and distributed them into weight categories using global averages as a guide. I added 15 kilos to represent a full flying setup, so all the figures are total flying weights rather than just body weights.
+
+That gave a realistic spread of where pilots are likely to sit across the different weight ranges. The lighter categories are mostly female, the heaviest are almost all male, and the majority of pilots fall somewhere in the middle, around 80 to 100 kilos flying weight. It’s not exact, but it’s a fair model based on what we know and what you’d expect to see in real competitions.
+03.11.2025, 21:56 - +1 (850) 702-1893: I don’t think there is a need to “solve the ballast issue among women.” I think there is a need to solve the ballast issue.
+03.11.2025, 21:56 - +1 (850) 702-1893: I know small men and large women.
+03.11.2025, 21:56 - +1 (850) 702-1893: If we’re solely trying to solve the physics equation of big wings go better, that’s a genderless problem.
+03.11.2025, 22:00 - +44 7815 693738: Yes but if there are not enough women to have their own weight categories then there is still a ballast problem.
+03.11.2025, 22:02 - +1 (850) 702-1893: Sure - as I said I don’t find weight categories very compelling because they tend to divide the population into little pieces
+03.11.2025, 22:35 - +44 7809 154353: In all sports where there are categories, if there is an overall that is where the focus is. Categories work for boxing because there is no overall. But for running where there are age categories the overall dominates. In paragliding cat 2 comps we have Reynolds, Sports etc. but the the overall is still the prize everyone wants. Therefore if we want an inclusive sport then overall must be equalised so the playing field is as fair as possible.
+Or remove the overall podium. <Ta wiadomość była edytowana>
+03.11.2025, 22:54 - +1 (510) 299-3701: Agreed. Though I suspect if overall was removed then the M size category might just become the most prestigious one, since at least currently it’s where 75%+ (or at least a significant majority) of pilots are at. And it would likely not dissuade anyone from ballasting up to that size. <Ta wiadomość była edytowana>
+03.11.2025, 22:55 - +54 9 3548 50-3363: I think this discussion is showing to all of us growth pains (excuse my language). Our sport is growing! Which is in some way, good news. Under the assumption we are looking into creating an environment that embraces more pilots towards competition I allow myself to share:
+In my opinion, making focus on categories will inevitably generate each category to grow. My take is to leave the overall scoring aside and migrate to a per category scoring.
+
+Comparing to a rally race… let’s say Dakar, y don’t think there is an overall category… each category has its own focus and spotlight. 
+
+Not sure what the WPRS impacts may have, but for sure it should be adapted if there is a criteria change.
+03.11.2025, 23:50 - +351 918 194 767: Great chart Malin.
+Is this the weight of a naked pilot, or total weight in flight?
+
+If total weight in flight, then  it makes sense to also know if these are comp pilots only or general population.  Comp pilot gear is a lot heavier as we all know.  My intuition is that the majority of comp pilots are way above 100kg in flight.
+03.11.2025, 23:51 - +1 (510) 299-3701: Malin described the methodology about 8 posts up.
+04.11.2025, 00:06 - +1 (510) 299-3701: I suspect the distribution of all up weight is similar to that of male height on dating apps, where instead of being rounded up to 6’, a lot are rounded up to 115kg. https://fangzhoucheng.com/wp-content/uploads/2015/07/qq20150709-102x.jpg
+04.11.2025, 00:06 - +351 918 194 767: i think we have to come up with a different method. 
+Global population data will include many mal-nourished countries. If we remove obese, we cannot keep these. 
+Also, on global population, there's a over representation of Asian countries, with much smaller body types (and they are a minority in terms of pilots).
+ 
+Probalby a better approach would be an estimatiion based on global sales of wings (under C), where pilots dont have so much incentive to use ballast for performance. <Ta wiadomość była edytowana>
+04.11.2025, 00:07 - Mateusz Gajczewski: I’m between sizes S and M, and it’s not appealing for me to have to decide in which category I want to compete, who among my friends I’ll be competing with, and which ranking I’ll appear in. Naturally, the larger and stronger group would be more attractive to me (more prestigious). I imagine that most of the lighter pilots would add ballast anyway to compete with the best, and since heavier ones don’t have that choice, the migration goes only one way. The only option I could see would be to hold separate or additional competitions for lighter pilots at a different time – nice idea, but it doesn’t really solve the problem.
+04.11.2025, 00:09 - +1 (850) 702-1893: Re: data on body weight for the comp pilot population … as I mentioned to Bruce, PWCA asks you to put your body weight and the wing you fly in your pilot profile. If they are willing to share (possibly de identified data would be best) that would be a decently accurate source of actual weight vs wing size data
+04.11.2025, 02:56 - +44 7446 445157: If you recall, Julien recently added weight data in our gagglereport profile.  If we all fill that in we will have useful data.
+04.11.2025, 12:19 - Dodano: +44 7779 472084
+04.11.2025, 12:19 - ‎+44 7779 472084 dołączył(a) ze społeczności
+04.11.2025, 13:05 - ‎+358 50 4016510 dołączył(a) ze społeczności
+04.11.2025, 13:27 - +44 7815 693738: <Pominięto multimedia>
+04.11.2025, 13:35 - ‎+52 722 304 7381 dołączył(a) ze społeczności
+04.11.2025, 13:35 - ‎+33 6 07 19 57 85 dołączył(a) ze społeczności
+04.11.2025, 20:57 - +1 (510) 299-3701: Sorry I missed this presentation. It was 3am here.
+
+I worry that doing a halfway weight class thing could draw support away from equalizers without really solving/changing anything.
+
+We already have lightweight class in many Cat. 2s but they haven’t really changed ballasting behavior from what I’ve seen.
+
+Spotted: an AI hallucination in the summary: “MRT (Mathematical Race Time)”
+04.11.2025, 21:01 - +54 9 11 4417-7923: On the AI summary I saw it was "Minimum Race Time" 😂
+04.11.2025, 21:03 - Sopot - Meet Director: The problem with the AI is that after you get something from it in seconds, you have to spend a lot of time to verify everything  is correct <Ta wiadomość była edytowana>
+05.11.2025, 00:51 - +1 (510) 299-3701: I polled 150 US comp pilots on the question, “Has the existence of lightweight (Reynolds) class in comps affected your decision on which size glider to buy?”
+
+Out of 19 votes, 100% were “No”.
+05.11.2025, 08:06 - +41 78 870 02 30: Currently, there is zero upside for pilots to fly smaller wings or carry less ballast — in fact, we are actively forcing pilots to ballast up. Introducing a dedicated Cat 1 title would immediately change that incentive and drive meaningful innovation.
+
+A refinement of WPRS will support this process, but changes should be phased in thoughtfully. An incremental approach ensures we retain pilot participation and organizer capacity. A radical overhaul risks losing both institutional and pilot support, which would ultimately stall progress.
+
+Meanwhile, enforcing equalizers based on non-peer-reviewed, unstable data — and not grounded in real-world flight dynamics — introduces uncertainty and bias. It treats the symptoms rather than addressing the underlying issue.
+05.11.2025, 08:55 - +33 6 41 96 06 33: There is already a pilot quality issue in CAT 1 events. Having more categories will worsen this.
+Regarding equalizers, if there is not enough data and it needs to be peer reviewed, let’s test it and review it then.
+05.11.2025, 09:17 - +43 664 75129998: @⁨~R⁩ sorry bro, who are you with that Pilatus view?
+05.11.2025, 09:42 - +41 78 870 02 30: Well spotted Rigi and Pilatus, Pal :)
+this is Reza
+05.11.2025, 14:11 - +54 9 11 4417-7923: <Pominięto multimedia>
+05.11.2025, 14:12 - +54 9 11 4417-7923: I did not include any of the WPRS concerns in this document
+05.11.2025, 16:28 - Julien Garcia: This is a message from CIVL president : The CIVL Bureau Position on the topic of extreme amounts ballast.
+
+In 2019, at the request of some lightweight pilots, a proposal was made and approved to remove the maximum ballast limit that was in place. The rationale was that light pilots were at a disadvantage since larger wings are commonly thought to perform better than smaller wings. Previously any pilot was allowed to carry 33kg of ballast beyond the weight of their body and clothing, or as much ballast as was needed to get them into the range of a wing whose high end of the weight range was 95kg. Currently the only rule is that a pilot must fly within their wing’s certified weight range. 
+The result of this is that we now have pilots carrying extreme amounts of ballast, some carrying more than their own body weight in ballast. Pilots carrying this much extra weight often have difficulty launching and reacting to collapses during the launch process. These pilots are also subject to much higher kinetic energy on a hard landing as well. Many top pilots with lower body weights have left the sport due to the increased risk and difficulties associated with extreme ballasting.
+The CIVL Bureau has consulted with the FAI Medical Commission, and they confirm that there is an obvious increase in risk associated with carrying large amounts of ballast, especially on the body, as many pilots are now flying with weight vests. 
+We have many pilots asking for a solution to this situation. Many pilots want to be able to compete on as level a playing field as possible, but they do not want to deal with the additional risk and difficulties associated with carrying extreme ballast. 
+CIVL, both the delegate community and the Bureau, is tasked with putting reasonable safety requirements in where possible to address known risks. This is why 2 reserves are required, why helmets are required, why only certified wings may be flown, etc. Therefore, while some pilots are of the opinion that we should simply leave the issue of whether to carry potentially dangerous amounts of ballast up to the individual pilot, doing so could be seen as a failure to address a known risk. The question of whether excessive ballast is a risk we should leave completely up to the pilot is a legitimate question to debate. The topic of whether excessive amounts of ballast increases the risk of injury for pilots is not. Basic physics and biology, backed by medical opinions, answers that.
+2 years ago CIVL introduced a proposal to introduce one or more “lightweight” classes to go alongside the existing “overall” and “women” classes. This proposal was rejected by the delegates. Over the past 2 years CIVL has been supportive of the concept of “Equalizers” that were introduced by Luc Armant. Adoption of equalizers has been slow, as many pilots are unwilling to support the concept. Bruce Goldsmith has a proposal for another solution (MRT) to the problem that he is advocating. 
+The CIVL Bureau officially does not have a position on which of these solutions are best (although as individuals they do have their opinions). However the Bureau is firmly behind the idea that the “do nothing” option should be taken off the table. Ideally, the delegates will propose some variant of the solutions mentioned above so that pilots no longer feel it is necessary to carry excess ballast to fairly compete. But, in case none of those proposals move forward or pass, the Bureau will submit a proposal to simply re-instate the limitation on ballast that was previously in place.
+There are some who say that a ballast limit is not enforceable and that pilots will simply cheat to get around it. First, if true, this is a sad indictment of the ethics and sportsmanship of our pilots and we should not accept this as sporting behavior. However, the Bureau also feels that adequate testing measures could be put in place to catch attempts to circumvent the rules. Maybe it wouldn’t catch every instance, but if the penalties are appropriately severe, they believe that cheating could largely be prevented.
+
+In summary, the CIVL Bureau does not believe that re-introducing the ballast limit by itself is the best way forward. We simply believe that it is better than ignoring the clear safety issue associated with pilots carrying excessive ballast.
+05.11.2025, 16:48 - +49 1573 4866279: I think this has some fair points and it's good to have some pressure to get to an agreement. The old ballast limit however would just punish the lightest pilots. e.g. I would be forced to fly my wing (already on an -95kg CCC) below whats optimal in most conditions, so I probably would move back down to a smaller D <Ta wiadomość była edytowana>
+05.11.2025, 16:52 - +351 960 380 396: So, we are willing to enforce rules to improve safety but not willing to change our own approach to the same safety ? 🤔
+05.11.2025, 16:54 - +49 1573 4866279: true, but if we start seeing every thing they do as some divisionary tactic we won't get anywhere
+05.11.2025, 17:19 - ‎+41 77 434 09 36 dołączył(a) ze społeczności
+05.11.2025, 17:43 - Mateusz Gajczewski: Usunąłeś(-ęłaś) tę wiadomość
+05.11.2025, 18:27 - +351 914 026 612: ...."2 years ago CIVL introduced a proposal to introduce one or more “lightweight” classes to go alongside the existing “overall” and “women” classes. This proposal was rejected by the delegates."...    Why not propose it again? What was thought two years ago is certainly not what is thought now.
+05.11.2025, 18:34 - Julien Garcia: This proposal was CAT1 only. Less than 95 KG only. With the current selection process in CAT 1, France voted against because for us it made no sense at all.
+05.11.2025, 18:38 - Julien Garcia: The cons we saw at time :
+- No problem fixed for light pilots. (still need to ballast up to 95Kg).
+- No problem fixed outside of CAT1.
+- Not much probability to get at least 6 pilots below 95 KG on such categories (medal starts at over 6 participants by FAI law).
+05.11.2025, 18:47 - ‎+33 7 69 27 34 84 dołączył(a) ze społeczności
+05.11.2025, 20:24 - +1 (510) 299-3701: Seems like either it doesn’t catch on and then it just becomes a non-issue or it does catch on and might have a good influence.
+
+But of course it’s much less comprehensive than equalizers.
+
+Update to “I polled 150 US comp pilots on the question, “Has the existence of lightweight (Reynolds) class in comps affected your decision on which size glider to buy?””
+
+Out of 25 votes, 1 was “Yes” and the rest “No”.
+05.11.2025, 20:30 - +351 965 866 874: Of course, there aren't yet wings that guarantee safety and good performance in the smaller sizes, so it's natural that nobody wants to compete in those classes. Surely, if there were smaller wings with performance equal to the larger ones, there would be pilots wanting to use smaller wings. Therefore, I think that poll doesn't make sense under the current conditions.
+05.11.2025, 20:32 - +44 7815 693738: The problem with Reynolds was that there was still an overall that everyone was chasing so no one took it seriously.
+05.11.2025, 20:35 - +52 722 304 7381: Hello, I am sorry I haven´t been able to get involved before, I was dealing with personal and work related issues. Could not be at the meeting but will see the recording and read carefully all the messages and will share my opinion. I am very interested on this matter as I weight only 49kg and this is a real problem to me.
+05.11.2025, 21:42 - +1 (970) 708-7408: I think this poll is somewhat flawed as I've seen both 90 and 95kg used for Reynolds - ranges that don't have a great reputation for handling in CCC irrespective  of performance deficiencies....it hasn't been used in usopen since 2023 and that year it had zero ccc in Reynolds. It was a couple zenos and lightweight d's but mostly sports class wings.
+05.11.2025, 21:43 - +1 (724) 984-1982: I personally feel that putting a ballast limit would absolutely crush the competition options for light pilots. I weight around 65kg and like to clip in at 103kg. That’s around a 38kg bag and it is honestly fine for me launching and landing as I am fairly strong.  If I had to fly a xs Enzo I would probably be at more risk in air due to glider dynamics that even having noodle equalizers wouldn’t seem like a good option. I am in favor of noodle equalizers and no ballast restrictions. I will add that I have been tempted to size up to a MS for performance and I think equalizers would reduce this temptation for pilots in my scenario. <Ta wiadomość była edytowana>
+05.11.2025, 21:45 - +1 (970) 708-7408: I could be wrong, but from conversations I've had, for CCC, pilots want to fly at least the 100 or 105 for handling reasons as much as performance.  The pilots I know that ballast up to fly the 115 rather than the 105 do so more for performance.  Maybe the profile stats could give some insights to that.  Also maybe a poll could be done on gaggle report that asks pilots that ballast up to a bigger size, what size they ballast up to and differentiates the main reason they feel they do so.  If pilots are ballasting up to get a more stable glider, rather than for performance, equalizers won't fix the ballast issue, and bag weight limits will only drive ppl away from racing altogether.  If that is a major reason, only "better" XS gliders can address that.   Seems Pete is one anecdotal case of this. <Ta wiadomość była edytowana>
+05.11.2025, 21:53 - Julien Garcia: Thanks to everyone who updated their profile we will be able to answer this soon. 16% already (60+ people). This is amazing 🙏🏻
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:54 - Julien Garcia: There are stuff interconnected with CAT 1 format here. Someday, we will need to have this discussion too 👍🏻
+05.11.2025, 23:18 - Dodano: ~ Paweł Chrząszcz
+05.11.2025, 23:18 - ‎+33 6 19 91 57 45 dołączył(a) ze społeczności
+06.11.2025, 02:36 - ‎+49 176 99664687 dołączył(a) ze społeczności
+06.11.2025, 10:46 - ‎+39 324 532 3730 dołączył(a) ze społeczności
+06.11.2025, 12:50 - ‎+44 7771 620620 dołączył(a) ze społeczności
+06.11.2025, 15:13 - ‎+1 (474) 477-0875 dołączył(a) ze społeczności
+06.11.2025, 16:03 - ‎+47 940 13 818 dołączył(a) ze społeczności
+06.11.2025, 21:44 - +34 615 39 61 88: Why can't it be an option to have weight categories and eliminate the overall ranking? This way there in no incentive to carry ballast to get into another category, unless you just feel like competing with heavier people
+06.11.2025, 21:44 - Sopot - Meet Director: Of course it can.
+06.11.2025, 21:45 - Sopot - Meet Director: Eventually we will reach to this stage of evolution of the sport
+06.11.2025, 21:45 - Sopot - Meet Director: Separate weight categories and separate men and women
+06.11.2025, 21:45 - Sopot - Meet Director: But not now
+06.11.2025, 22:12 - +351 918 194 767: because In loads of competitions you'll have one category with 2 or 3 pilots, like it already happens with the woman's category.
+06.11.2025, 22:15 - +351 965 866 874: Initially, yes, but with time and with manufacturers producing better wings for lighter weight classes, I think this would undergo a positive change, allowing pilots to compete safely within their weight class. I believe it should start with CAT2 races and then evolve to CAT1.
+06.11.2025, 22:53 - +351 965 866 874: Julien, please check the information you provided in the presentation, regarding point 8.3.4 Ballast, of the Section 7 XC-2022 document, because that point refers to hang gliders. Point 8.5.4 refers to paragliders, and it is the same as the current document (2025). In 2022 there was no weight limitation.
+Also, the interpretation that only sand or water ballast can be used is, in my opinion, incorrect. What is written there is that JETTISONABLE ballast can only be sand or water, it does not limit the use of other types of ballast that are not jettisonable - lead jackets.
+06.11.2025, 23:30 - +351 965 866 874: <Pominięto multimedia>
+06.11.2025, 23:30 - +351 965 866 874: <Pominięto multimedia>
+06.11.2025, 23:30 - +351 965 866 874: <Pominięto multimedia>
+06.11.2025, 23:44 - +351 965 866 874: I still believe that of the 3 proposed systems, the Weight Classes system is the fairest, as it allows pilots to compete on an equal footing.
+In the MRT, as already mentioned, the positioning of the turning points with different radii will benefit those who will be close to the service thermal, or close to the slope...
+Regarding the equalizers, as also already mentioned, it doesn't make sense for pilots to invest in increasingly aerodynamic equipment only to then add drag.
+So the Weight Class system is the worst of all, if we remove all the others!  😁
+06.11.2025, 23:53 - Julien Garcia: Thanks for the correction @⁨~Paulo Herculano⁩. I'll update the doc accordingly. About Ballast nature I'm still unsure.
+06.11.2025, 23:53 - Julien Garcia: https://gagglereport.org/pilots/weight-data
+06.11.2025, 23:54 - Julien Garcia: Here are some first datas from our Users profiles. I won't draft conclusion myself, but I believe there are tendencies that are shown.
+06.11.2025, 23:55 - +351 965 866 874: Otherwise, all the pilots who competed in PWC and CAT1 wearing lead vests were illegal and should have been sanctioned. <Ta wiadomość była edytowana>
+06.11.2025, 23:56 - Julien Garcia: Of course now the rule is out... Nothing like this apply.
+06.11.2025, 23:57 - Julien Garcia: But back in the past, these things were forbidden. Sand and water only.
+06.11.2025, 23:57 - +351 965 866 874: Is out since 2019
+06.11.2025, 23:58 - Julien Garcia: Checking
+06.11.2025, 23:58 - Julien Garcia: For the PWC 2019 correct
+07.11.2025, 00:01 - Julien Garcia: You were right about my mistake. In 2022 for paragliders : 
+
+8.5.4 Ballast
+Pilots must comply with the weight limitations set by the glider airworthiness standards. Weight can be measured at
+take-off or landing at the request of the organisers. Pilots may carry jettisonable ballast only in the form of fine sand 
+or water. A pilot must avoid dropping ballast at any time or in a manner likely to affect other competing gliders or 
+third parties.
+07.11.2025, 00:02 - Julien Garcia: No limit but... Sand and water
+07.11.2025, 00:03 - Julien Garcia: Ta wiadomość została usunięta
+07.11.2025, 00:06 - Julien Garcia: In 2020 exactly for CAT1
+07.11.2025, 00:06 - Julien Garcia: 8.3.4 Ballast
+Pilots must comply with the weight limitations set by the glider airworthiness standards.
+The pilot’s weight is defined as body weight when dressed in jeans, shirt and underwear.
+Weight can be measured at take-off or landing at the request of the organisers.
+Pilots may carry jettisonable ballast only in the form of fine sand or water. A pilot must avoid dropping ballast at any 
+time or in a manner likely to affect other competing gliders or third parties. 
+The weight limit for all equipment (without glider), extra clothes and ballast is 25 kg. If a pilot is equipped with a 
+second parachute, the weight limit is 28 kg. 
+The organiser will provide a weight measurement scale. Pilots’ nominal weight may be checked at registration. Pilots 
+may be weighted before taking-off or after landing.
+07.11.2025, 00:06 - Julien Garcia: https://www.fai.org/sites/default/files/civl/documents/sporting_code_s7_a_-_cross_country_2020_0.pdf
+07.11.2025, 00:06 - Julien Garcia: Thanks for correcting
+07.11.2025, 00:07 - +351 965 866 874: Sorry to correct again: is not 8.3.4 is 8.5.4. please check
+07.11.2025, 00:07 - +33 7 86 12 62 36: One point to consider around the ballast discussions is about applicability in the current cat.1 XC format associating individual podium and Teams podium. 
+If solutions might be easy to apply for individual, shouldn’t we pay also attention to the issues related to building a team in a fair way (if the format remains to associate both) ? <Ta wiadomość była edytowana>
+07.11.2025, 00:12 - Julien Garcia: You are right again. I updated the doc. With 8.5.4 from... 2018
+07.11.2025, 00:13 - Julien Garcia: Also worth considering CAT1 allowed an exception limit to reach 95 KG. This is important.
+07.11.2025, 00:13 - +351 965 866 874: Only water or sand can be discarded in a jettionable manner. But, by saying this, it opens up the possibility of various forms of ballast not jettionable, since pilots no longer need to be weighed down solely by jeans, a shirt, and underwear. This is why lead vests became possible.
+07.11.2025, 00:14 - Julien Garcia: You read it as you can drop sand and water but not lead ?
+07.11.2025, 00:14 - +351 965 866 874: Thats the idea
+07.11.2025, 00:16 - Julien Garcia: Understood. So there may be weight checks at landings but you are allowed to drop the ballast before being checked ? <Ta wiadomość była edytowana>
+07.11.2025, 00:17 - +351 965 866 874: As we all know since ever
+07.11.2025, 00:18 - +351 965 866 874: Thats way all checks should be done at takeoff
+07.11.2025, 00:19 - Julien Garcia: <Pominięto multimedia>
+07.11.2025, 00:19 - Julien Garcia: Updated version 👍🏻
+07.11.2025, 00:20 - +49 177 4367477: Only allowed procedure/substances to drop according ICAO are sand or water...
+07.11.2025, 00:21 - Julien Garcia: That's where it comes from
+07.11.2025, 00:21 - +386 31 404 688: 'fine' sand or water
+07.11.2025, 00:22 - +49 177 4367477: Well maybe fine lead is appropriate 😂
+07.11.2025, 00:34 - +49 177 4367477: Seriously this shouldn't be considered because of environmental impact. In Germany tires are not balanced with lead any more because of that!
+07.11.2025, 10:29 - Julien Garcia: Here to follow please 🙏🏻
+07.11.2025, 10:30 - ‎+43 650 4906044 dołączył(a) ze społeczności
+07.11.2025, 10:36 - Sopot - Meet Director: I will repeat my message here: we have to accept that competition paragliding is not for light people!
+07.11.2025, 10:37 - +43 650 4906044: i believe that too much ballast should be  forbidden.... i wanna fly with my 75.. and also have the chance to win.... of course will be really hard to find a way and to make  an equal and fair scoring... so every pilot has the same chance..... but yeah why not?? ✌️🫶🪂
+07.11.2025, 10:37 - +43 650 4906044: for sure you have experi3nce to talk  so straight about that
+07.11.2025, 10:37 - +43 650 4906044: but yeah no other solutions?
+07.11.2025, 10:38 - ‎+33 6 89 93 36 22 dołączył(a) ze społeczności
+07.11.2025, 10:39 - Sopot - Meet Director: I believe the only solution is light people to compete among themselves
+07.11.2025, 10:40 - Sopot - Meet Director: In the whole world the people who are "light" for PG are an overwhelming majority
+07.11.2025, 10:40 - Sopot - Meet Director: So, I'm not worried about the numbers
+07.11.2025, 10:41 - +33 6 41 96 06 33: Repeating my message on the right channel (my bad) =>
+
+Hi, i’ve missed some of the talks but I’ll add a last small piece.
+I’m one of the « kind of light but heavy enough to fly S or even M wings pilot» (68-70kg). 
+If weight categories separate pilots and ranking in high level competitions (National events and PWCs), I will stop flying them. It’s already hard enough to have a high quality of pilots in « small » PWCs and national events (Even the german, english and french ones…). It doesn’t make sense to dilute pilot quality even further.
+I’m sure a lot of pilots who are in the top 100/200 of the WPRS will have the same opinion.
+07.11.2025, 10:41 - +43 650 4906044: exactly
+07.11.2025, 10:45 - +33 6 89 93 36 22: Same
+07.11.2025, 10:45 - +33 6 41 96 06 33: Yet we’re one of the only sports where we can try to equalize things a bit. If we can bring most people one size down this will already be a big win. And this could be done on top of adding weight categories. <Ta wiadomość była edytowana>
+07.11.2025, 10:50 - +39 339 604 2016: Why not force manufacturers to offer 2 or 3 more sizes? Of CCC <Ta wiadomość była edytowana>
+07.11.2025, 10:51 - +43 650 4906044: can they?
+07.11.2025, 10:53 - Sopot - Meet Director: How are the things in HG:
+Their equipment is twice heavier than ours and they don't want to carry ballast. If they have to - they use watter. No one is buying bigger glider than necessary.
+07.11.2025, 10:56 - +43 650 4906044: interesting
+07.11.2025, 10:57 - +34 615 39 61 88: It doesn't make any sence to say that when most world champions are pilots that are ballasting up just for flying with a big glider, if most competition winners would be heavi pilots that don't need to carry ballast then it would be a sport for heavy people, but righ now it is just working in a way that forces the best pilots to carry an huge amount of extra weight just to fly bigger gliders. I would like to see how it goes with MRT or equalizers, probably the same pilots will be in the top 10 of the competitions without ballast
+07.11.2025, 10:57 - +49 1573 4866279: But compared to PG in HG the wingload isn't as important as they don't have as big of a  stability or top speed problem at lower loadings
+07.11.2025, 11:00 - +43 650 4906044: what about scoring change somehow in a way to make it fair ...?
+07.11.2025, 11:00 - +33 7 67 76 25 90: Lots of HG fly the bigger gliders...
+07.11.2025, 11:02 - +33 6 89 93 36 22: What I see is that basically L sizes pilots (or more) are complaining about thermaling against S sizes, that can turn better and everything, blablabla. 
+
+If we don't even take into account that Luc's equalizers solution is leaving a little advantage to bigger sizes to somehow acknowledge this, we basically have the tendancy to forget that we fly mostly in big gaggles, in flatland/mixed terrains, where turn radius is not a hot point in the overall performance.
+I looked into my personal datas like turns/min, or my positioning in gaggles. And the result is you don't need the tightest turns to be efficient. 
+
+To have flown S and M, we also forget that stability at high speeds is also increased in bigger sizes.
+So maybe we first try to be honest, and not inventing false problems <Ta wiadomość była edytowana>
+07.11.2025, 11:02 - Sopot - Meet Director: Maybe they choose the size up, but not two sizes up
+07.11.2025, 11:04 - +49 1573 4866279: because there are only three sizes, not five
+07.11.2025, 11:04 - +49 176 99664687: Unfortunately you have no real name on your profile so I have no idea who you are. Since when are you around?
+Scoring depending on weight does not work and was discussed many times before. 
+
+
+Weight classes split the community and reduce the pool of skilled pilots. This may kill the sport. 
+
+As physics don’t change, equalizing the heavier ones down looks like the most realistic approach. (Today) <Ta wiadomość była edytowana>
+07.11.2025, 11:04 - Sopot - Meet Director: No, HG sizes are for optimim loading every 10 kg
+07.11.2025, 11:05 - +33 6 83 16 16 76: Same of course !
+07.11.2025, 11:06 - Sopot - Meet Director: They don't have min, max like we have
+07.11.2025, 11:07 - +54 9 11 4417-7923: And if pilots are still worried about fairness with equalizers, lets not forget that the system is not rigid, a lot of fine tunning can be done.
+07.11.2025, 11:08 - +43 650 4906044: my name is chris chionidis i fly 12 years and i am not so well educated about all this but is really interesting... excuse me if i made a stupid question because of poor knowlegde.. i just try to say my opinion....
+07.11.2025, 11:15 - +43 650 4906044: i flew some. competitions... and i only like it to learn stuff.... like gaggling and completing tasks... learning every detail.... but i am not so competative person.... and also when 1 time i tried.... i was third with my 85... against amazing pilots.... ftom the alpine club golden eagles... which i am a member... i didnt felt any disadvantage.... i was just fast and focused..  so my opinion maybe doesnt matter.... because i see a lot of people that know what they talk about.. here and i hope the best for .. ✌️🫶🪂
+07.11.2025, 11:46 - ‎+33 6 33 71 78 40 dołączył(a) ze społeczności
+07.11.2025, 12:03 - ‎+41 76 465 94 68 dołączył(a) ze społeczności
+07.11.2025, 12:37 - ‎+41 79 446 01 90 dołączył(a) ze społeczności
+07.11.2025, 12:45 - +41 79 446 01 90: About weight in HG, not that we dont have the weight problem, but its it very multifolded and complex... modern flying requires light gliders now. so physics are our friend at the moment 😁. tendencies goes that way, where still very good pilots can handle heavy gear...
+07.11.2025, 13:50 - ‎+91 99992 92695 dołączył(a) ze społeczności
+07.11.2025, 14:17 - Dodano: ~ Carrie
+07.11.2025, 14:16 - ‎+41 78 669 88 58 dołączył(a) ze społeczności
+07.11.2025, 15:15 - ‎+32 486 31 34 36 dołączył(a) ze społeczności
+07.11.2025, 15:23 - ‎+91 96198 69342 dołączył(a) ze społeczności
+07.11.2025, 16:30 - Dodano: +90 555 717 22 70
+07.11.2025, 16:30 - ‎+90 555 717 22 70 dołączył(a) ze społeczności
+07.11.2025, 16:58 - +386 31 606 148: ❓️Im asking... what is suddenly the problem with ballast??
+I think its just imaginary problem, or at least not the real one! (Yes, its not ideal to have a lot of ballast. But if the pilot decide for that way, leave it. 
+‼️As mentioned, there are additional problems with WORSE STABILITY, e.g. safety in flying, etc.. not just worse performance. So what favor will be made, if someone might take off a bit easer, but have more problems in the air...and crash..??)
+❓️Do we have a statistic, how many accidents, happen due to too much ballast!?? (And what is too much? One can be stonger/fitt and carry 10kg, than other.. so..)
+❓️And we are trying to "solve" something with ballast, because is the "easiest" thing to point on. But noving away from real issue!
+Another thing. There are comments, how it was done in the past, when weighing pilots.. and ridiculous ballast hiding, etc..
+And what will you gain, if the balast limit will be enforced again!?? 
+That is not the "solution"!! Wake up!
+
+✔️LEAVE THE BALALST OPEN, like it was now. Everyone will decide what is in their power.
+With reinforcement balast limit, you are prohibiting ligher pilots to have "equal" chances to others!
+
+‼️The real improvements and regulations should be done here:
+Why pushing competitons in sketchy places??
+Why pushing competitions in sketchy weather, etc..
+Cancelling/stopping the task, soon enough.
+Those are the real and FUNDAMENTAL topic to solve.
+
+When and IF, the smaller gliders will become closer in performances, safer and more user friendly to bigger, then pilots will switch by themselves. Its up to us/them. The market will sort out by itself.
+Manufacturers already have options to make them bette and put more R&D in to it.
+And yes, in that cse, if it helps, remove the speed limiter, e.g. increase it, so that profiles/gliders can evolve.
+
+❎️Do not reinforce the ballast limit!
+07.11.2025, 17:04 - +1 (510) 299-3701: What’s your name?
+07.11.2025, 17:06 - +44 7446 445157: _"In summary, the CIVL Bureau does not believe that re-introducing the ballast limit by itself is the best way forward. We simply believe that it is better than ignoring the clear safety issue associated with pilots carrying excessive ballast."_ 
+
+It would seem that a ballast limit is imminent which will penalise light pilots.  That includes the majority of our recent World champions, it would be a bad situation if Max, Baptiste, Hono, etc were handicapped.
+
+Perhaps we ask those *top pilots* who will be *affected* to *rank* the solutions being discussed. 
+
+They are the ones who have most to lose by the changes, the rest of us just need to accept it's for the overall benefit of our sport.
+
+(Written by an 82kg pilot who carries max 5kg ballast.)
+07.11.2025, 17:08 - +386 31 606 148: Dusan O.
+17 years in competitions.
+07.11.2025, 17:19 - +1 (510) 299-3701: I’m not sure if I agree or not. Please define “light” in this context.
+07.11.2025, 17:21 - +1 (510) 299-3701: Because if you choose a small enough number I’d agree. At some weight range the numbers aren’t there to support development of good XXS or whatever gliders. But without trying something like equalizers we won’t have an undistorted view of what is possible/practical.
+
+And for the vast majority of competitors, your statement doesn’t apply. <Ta wiadomość była edytowana>
+07.11.2025, 17:24 - Sopot - Meet Director: Light people in the PG context are below 80 kg body weight
+07.11.2025, 17:25 - +1 (510) 299-3701: So the majority of competitors, and especially the younger and fitter and more female ones. Sounds like a less fun sport you are promoting.
+07.11.2025, 17:26 - Julien Garcia: Hi Dusan, many things on your message I could agree on. Still, the ballast use is an actual issue. Please have a look at the datas : https://gagglereport.org/ballast/issue <Ta wiadomość była edytowana>
+07.11.2025, 17:28 - Julien Garcia: This page aims to aggregate actual data about the ballast issue. It is true there are no accident statistics yet but still we have collected quite a lot already.
+07.11.2025, 17:29 - Sopot - Meet Director: Josh, we are speaking here about the highest level of the sport Paragliding. It doesn't have to be "fun". But it has to be FAIR <Ta wiadomość była edytowana>
+07.11.2025, 17:30 - +1 (510) 299-3701: Fair is according to whatever rules are in place.
+
+We’re not solving world hunger here. We’re doing this sport because it’s enjoyable.
+07.11.2025, 17:30 - Sopot - Meet Director: In any sport you just cannot say "because some people has advantage - lets remove that advantage"
+07.11.2025, 17:32 - Sopot - Meet Director: Enjoyable is when it is your hobby. When it becomes a high level sport - it becomes a pain <Ta wiadomość była edytowana>
+07.11.2025, 17:32 - Sopot - Meet Director: Struggle
+07.11.2025, 17:32 - Sopot - Meet Director: Risk
+07.11.2025, 17:32 - Sopot - Meet Director: Bottomless hole for money
+07.11.2025, 17:33 - Sopot - Meet Director: This is the reality
+07.11.2025, 17:34 - +33 6 15 67 83 97: @Daniel, there are less than 10 profesional pilots in that sport.
+07.11.2025, 17:34 - +1 (510) 299-3701: Sure, there is a combination of enjoyment and hassle and risk. But much of the point of regulation is to tip the balance toward the positive aspects.
+
+I’d agree it’s hard to make positive change. But you definitely can’t do it if you don’t believe it’s possible.
+07.11.2025, 17:36 - Sopot - Meet Director: Positive change is possible. What is not possible is to make the sport equally suitable for all people on the planet
+07.11.2025, 17:36 - +44 7815 693738: In fact the whole point of this group isn’t about it being fun or fair, but being safer!
+07.11.2025, 17:37 - Sopot - Meet Director: Yes, to make it safer is also possible
+07.11.2025, 17:37 - +1 (510) 299-3701: Is it <80kg or all people on the planet?
+
+You’re either being hyperbolic or moving the goalposts in a motte and bailey sort of way.
+07.11.2025, 17:38 - +44 7815 693738: It really is, weight ranges do that, its just not popular to some people. But it would make it equally suitable for all people.
+07.11.2025, 17:38 - +33 6 15 67 83 97: current champions have often been 65 kg body weight + 45kg bags. What is the arm that they could still be champion with a normal weight bag ?
+07.11.2025, 17:39 - +1 (510) 299-3701: The motte-and-bailey fallacy is a form of argument and an informal fallacy where an arguer conflates two positions that share similarities: one modest and easy to defend (the "motte") and one much more controversial and harder to defend (the "bailey”). The arguer advances the controversial position, but when challenged, insists that only the more modest position is being advanced. Upon retreating to the motte, the arguer may claim that the bailey has not been refuted (because the critic refused to attack the motte) or that the critic is unreasonable (by equating an attack on the bailey with an attack on the motte).
+07.11.2025, 17:39 - Sopot - Meet Director: Weight ranges are indeed the best way forward, but the problem with small gliders being more nervous will not be solved
+07.11.2025, 17:40 - +33 6 15 67 83 97: question for you Daniel
+07.11.2025, 17:44 - Sopot - Meet Director: "What is the arm ..." - I couldn't understand this !
+07.11.2025, 17:45 - +33 6 15 67 83 97: harm
+07.11.2025, 17:45 - +1 (510) 299-3701: It’s a silent “h” in french
+07.11.2025, 17:47 - Sopot - Meet Director: If they fly with smaller gliders - it will be really difficult to become champions
+07.11.2025, 17:47 - +33 6 15 67 83 97: you don't reply to the question
+07.11.2025, 17:47 - Sopot - Meet Director: Give me the question again in "international English" !
+07.11.2025, 17:48 - +33 6 15 67 83 97: What is the harms that they could still be champion with a normal weight bag, thanks to the use of Equalizers ?
+07.11.2025, 17:49 - Sopot - Meet Director: The fairness will be harmed, the sporting spirit will be harmed
+07.11.2025, 17:49 - +33 6 83 16 16 76: Is it a problem ? Smaller wing are more nervous, maybe we will have to increase in skill ?
+07.11.2025, 17:49 - +33 6 15 67 83 97: explain in what way the fairness is harmed
+07.11.2025, 17:50 - Sopot - Meet Director: Because you want to put drag devices on the people's equipment
+07.11.2025, 17:50 - +33 6 15 67 83 97: Maxime Pinot 65kg+45kg performing the same as Maxime Pinot +15kg. Where is unfairness ?
+07.11.2025, 17:51 - Sopot - Meet Director: Those drag devices serve the sole purpose to downgrade the performance of the best equipment to the level of the worst
+07.11.2025, 17:52 - Sopot - Meet Director: NONSENSE
+07.11.2025, 17:52 - +44 7815 693738: <Pominięto multimedia>
+07.11.2025, 17:54 - +33 6 15 67 83 97: Daniel, you don't answer my question and you use sophism to always arrive to your point.
+07.11.2025, 17:55 - +33 6 15 67 83 97: competition it's a bout relative performance, not absolute performance.
+07.11.2025, 17:55 - Sopot - Meet Director: Luc, please rephrase your question because I have difficulties to understand it!
+07.11.2025, 17:57 - +44 7815 693738: I understand your frustration as the equaliser would affect the heavy pilots the most, which I imagine you are one of them, but the majority of pilots are “light” as you put it. So what do you suggest we do that is fair to you and them?
+07.11.2025, 17:57 - +33 6 15 67 83 97: OK. In the same competition, Maxime Pinot compete with a bag of 45kg (and a Enzo3 M) against his twin brother with a bag of 15kg (and a Enzo3 XS). They have the same performance and same chance of winning thanks to the Equalizers. Where is the unfairness ?
+07.11.2025, 18:00 - +39 339 604 2016: Hi guys, maybe because M size floats bedder and is more stable on speed?
+07.11.2025, 18:01 - ‎+46 73 151 32 67 dołączył(a) ze społeczności
+07.11.2025, 18:01 - +39 339 604 2016: How many XS are in PWC?
+07.11.2025, 18:01 - Sopot - Meet Director: If size M and size XS fly the same out of the box - Ok. But they don't fly the same - M size flys better. That's why one of the twins is going to the gym, becomes stronger and is able to fly the better glider size. The other twin is lazy, cannot carry 40 kg of ballast and has no other choice but to fly size XS
+07.11.2025, 18:02 - Sopot - Meet Director: In our world bigger gliders fly better
+07.11.2025, 18:02 - +1 (510) 299-3701: There is a close analogy with the minimum gear weight for horse racing. Very light jockeys could claim unfairness because they are not allowed to take advantage of their weight advantage. But there are more important priorities than advantaging those few.
+
+Such as discouraging eating disorders in jockeys. <Ta wiadomość była edytowana>
+07.11.2025, 18:04 - Sopot - Meet Director: And if let's say Ozone makes all sizes fly the same - tomorrow there will be another company which will make bigger gliders to fly better and people will buy their gliders
+07.11.2025, 18:06 - +1 (510) 299-3701: paragliding is currently encouraging eating disorders, though in the other direction.
+07.11.2025, 18:07 - +44 7815 693738: I think the fact that the smaller Enzo 3’s aren’t as polished as the bigger ones has really confused this topic. They don’t have the same preformance, and never will, but it doesn’t mean they can’t be just as nice to fly (Luc correct me if I’m wrong).
+07.11.2025, 18:11 - Julien Garcia: Bruce came up with very nice datas on small Glider dynamics (and behavior).
+07.11.2025, 18:12 - Julien Garcia: About this we also now have the weight data available on the union
+07.11.2025, 18:12 - +41 76 465 96 05: Why? The current situation suggests becoming 65 kg and carrying 45 kg gear.
+Or why would the P5 percentile of the population dominate the sport?
+07.11.2025, 18:13 - Julien Garcia: https://gagglereport.org/ballast/issue
+07.11.2025, 18:13 - Julien Garcia: Our community charts : https://gagglereport.org/pilots/weight-data
+07.11.2025, 18:14 - Julien Garcia: Bruce's study : https://drive.google.com/file/d/1FEV9NajGo0ykQ8JMHaoVlRdKKMXlRKBJ/view?usp=drive_link
+07.11.2025, 18:17 - +49 1573 4866279: Thats a weird framing...
+Could also be the other way around, one twin would like to keep his BMI in the normal range because it benefits his other passions (e.g. Hike and Fly) and also would like to keep the additional Ballast to a minimum becase he values his health and wants a healthy skeleton when hes older. The other one gives in to "high performance" and gains weight by eating a lot of junk food😬
+07.11.2025, 18:19 - Dodano: ~ Paco Navarro
+07.11.2025, 18:19 - ‎+34 686 93 54 54 dołączył(a) ze społeczności
+07.11.2025, 18:24 - +1 (510) 299-3701: I’m in favor of hitting the gym and putting on some muscle but if you’re serious about it to go up a glider size (or more) you have to either be young and very dedicated or take steroids. That is definitely considered unfair in some other sports.
+07.11.2025, 18:25 - +33 6 83 16 16 76: Size S is not an untamable horse! I used 3 of them without any problem. So there is no security problem with the size.
+
+I just switched to size M to try on a competition. Sure that in the current state of things there is a difference that I find noticeable (and in thermal this size M turns very well with some steering adaptations) in terms of performance. 
+
+I will move to size M because I have no choice to be more competitive. But let’s be honest, let’s look at the quality of our takeoffs and landings. With ballast, we are not as good. There is a security problem.
+
+
+Another question arises in addition to the ballast, it is the level of piloting by pilots including in PWC. How long did it take 10 years to get out of a cravate, a spin and recently spirals? Not to mention some takeoffs and landings. It’s another question that may not belong here (sorry @⁨Julien Garcia⁩ ) but in my opinion, it is an important subject. My hypothesis?  The wings are progressing they collapses less, the discipline is more democratized and made more accessible but a wing can collapse anyway and when it does, you need a battery of well-automated gestures to get through it quickly, under stress, surrounded by other pilots, etc.
+
+
+To situate myself, 68 kg, I have been flying since 2001, I am a instructor, test pilot for 15 years for 6 years in PWC and I experienced the time of non-homologated wings in competition.
+07.11.2025, 18:25 - +54 9 11 4417-7923: This affirmation is not only a phallacy but a totally gross and ridicule exaggeration ... your are being ideological ... ok you do not like them ... but just say it clearly ... with no false afirmations
+07.11.2025, 18:27 - +44 7815 693738: It’s good data from Bruce, so knowing this info: that smaller gliders are affected more by the same size turbulence compared to bigger wings, the smaller sizes would have to be designed differently, trimmed differently etc, to create the same “user experience”. But the result, having a nice glider to fly for the pilot, could be achieved regardless of size, it’s a design problem not a size problem. How much that affects the wing’s performance is another question, but that’s where it’s “usable performance” would then come into play. Again it’s Luc that could make this point clearer because it seems to be brought up a lot as an argument not to have smaller gliders “as no one would fly them anyway because they are not nice to fly”.
+07.11.2025, 18:27 - Sopot - Meet Director: From the first announcment of the idea I constantly say that I don't like it ...
+07.11.2025, 18:28 - +41 76 465 96 05: <Pominięto multimedia>
+07.11.2025, 18:28 - +41 76 465 96 05: <Pominięto multimedia>
+07.11.2025, 18:28 - +41 76 465 96 05: <Pominięto multimedia>
+07.11.2025, 18:28 - +41 76 465 96 05: <Pominięto multimedia>
+07.11.2025, 18:28 - +41 76 465 96 05: Using Luc’s line‑drag and glide‑ratio data for calibration, the model shows that an equalizer solution significantly narrows the performance gap between wing sizes. A practical policy lever is to increase equalizer length for pilots flying with higher ballast, which further improves fairness across sizes while staying within a 135 kg wing cap.
+
+Limitations: this is a quasi‑steady model; it does not capture dynamic effects due to inertia or pilot/wake interactions, and equalizer/lines details are simplified. I’ll publish the code on GitHub to invite discussion and improvements (parameters, datasets, and validation). Contributions and critique are very welcome.
+07.11.2025, 18:33 - Julien Garcia: Thanks for the data. I'll have a deeper look and add them to the list.
+07.11.2025, 18:34 - Julien Garcia: I don't have your name please identify 🙏🏻
+07.11.2025, 18:37 - +41 76 465 96 05: Lukas Gantenbein
+07.11.2025, 18:42 - +41 76 465 96 05: https://github.com/5u780/weight_scaling_model.git
+It should be double-checked. This is just a hobby for me. I’m a mechanical engineer specialized in rubber material models and the simulation of rubber–metal components.
+07.11.2025, 18:43 - Julien Garcia: It is important to have double checks on such calculus
+07.11.2025, 18:44 - +49 1573 4866279: Interesting Data! But does the size difference in the lower body parts (hip, thigh, shoulder) actually play a role in Submarine type harnesses? As Luc already confirmed the frontal area is the same with all sizes, so the main contributors to extra drag should be the sitting height and arm dimensions? 
+Same about the head/face part, how direct does this transate to frontal area when wearing a helmet (in my mind most helmet manufacturers would have one outer mold for all sizes and just adapt the inside foam to the head circumference, but never verified this...)
+
+Maybe I can answear myself after looking through the code👍🏻
+07.11.2025, 19:03 - ‎+33 6 82 01 84 61 dołączył(a) ze społeczności
+07.11.2025, 19:09 - +386 31 404 688: 80 messages in 2 hours 😬
+07.11.2025, 19:12 - +41 76 465 96 05: Good points. Most of these parameters are configurable in the config.py file. The model isn’t limited to submarine harnesses; it’s meant as a generalized approach. I’ve assumed a 30° sitting (back) angle, a 60° upper‑arm angle (the upper arm rotated 60° forward from rectagual relative to the airflow), 30% head exposure
+07.11.2025, 19:17 - +33 6 33 71 78 40: Lots of messages to unpack today!
+It's good to discuss and expose ideas and point of view.
+
+- There is a ballast security problem,
+It's important to acknowledge it please
+- It would be nice to have more metrics on that though, I agree. Like a list of accidents, near miss, potential issues, known problems ...
+- Let's try some of the ideas!
+I'm a heavy guy in EN-C (125kg+) doing comps as a hobby, doing some SRS.
+I tried 2 weightless, including this year edition. Had a lot of fun. And big pleasure to be wing to wing with Bruce (way lighter) !
+Sure it was frustrating at some times (ex: after start when turning at first tp where I had to go further), but fairness is more important.
+I acknowledge this isn't ideal for pwca level.
+- Maybe the handling of the very small size will still need improvement (maybe homothetic building isn't enough), maybe it will stay the same due to physical law.
+Whatever let's work towards less ballast.
+- Competitions by weight range is probably the best. But is there enough pilots (small sizes) for it? Which comp organizer will voluntarily limit registration by weights? Hard to achieve without quotas... And anyway cause question for the very top level: nobody wants a comp with only Maxime and Hono. Those pilots want to compete in the 'overall' category.
+For them the equalizers looks the best.
+- In light conditions (which does happen quite a lot, not every day and thermal is bombastic), I feel at disadvantage. But this is also hard to mesure. Maybe why the heaviest are rarely first? Anyway would be nice to think about that too.
+07.11.2025, 19:28 - +54 9 11 4417-7923: In very light condition my experience is that advantages in thermalling have to do with wing loading more than with wing size.
+In glide nothing changes except less movement for small gliders
+07.11.2025, 19:29 - ‎+34 661 34 52 60 dołączył(a) ze społeczności
+07.11.2025, 19:32 - +1 (510) 299-3701: A reason the heaviest are rarely first could just be a matter of the odds of any given pilot or small number of pilots being first is low. 
+
+And just from my personal experience it's clear to me that I'm more at risk in a hard landing with 10kg extra ballast. Except for that time I landed under reserve and popped a 10l water bag...
+07.11.2025, 19:38 - +49 1573 4866279: <Pominięto multimedia>
+07.11.2025, 19:38 - +49 1573 4866279: <Pominięto multimedia>
+07.11.2025, 19:47 - Sopot - Meet Director: Josh, the heavy pilots are rarely first because they cannot fit in M or S harness
+07.11.2025, 20:00 - +1 (510) 299-3701: So your claim is that there are multiple heavy pilots who would be winning if only they could fit into an M harness?
+
+Is there any way to falsify that hypothesis?
+
+Flying L gliders doesn’t seem to hurt Russ Ogden or William Pardis, both in the top 20 WPRS at the moment. I don’t know size of the others in the top 20 as well. Jouni is a big boy and won a PWC this year.
+
+I’m pretty sure Luc said that the frontal area is the same on all sizes of sub.
+07.11.2025, 20:04 - +44 7446 445157: Russ flies medium Enzo.
+07.11.2025, 20:07 - +34 692 82 41 02: Im sorry but I fly a big glider and the turn ratio is much bigger, in weak or broken thermals conditions is much difficult to climb
+07.11.2025, 20:10 - +1 (510) 299-3701: There are occasional conditions where being able to turn tighter helps but the vast majority of the time in a gaggle you’re reduced to the widest common denominator and can’t use it.
+
+The objective isn’t to make every aspect of different glider sizes exactly the same; it is just to reduce the advantage of the bigger ones enough to remove the incentive to carry dangerous amounts of ballast.
+07.11.2025, 20:11 - Sopot - Meet Director: I claim that flying with L harness makes sufficiently more drag to reduce your chances of winning.
+07.11.2025, 20:12 - Sopot - Meet Director: The submarines are scaled (zoomed)
+07.11.2025, 20:12 - Sopot - Meet Director: I don't know about other brands
+07.11.2025, 20:12 - Julien Garcia: Could you share why you would fly an L ?
+07.11.2025, 20:13 - +49 1573 4866279: Frontal area is the same, just the L envelope is a bit longer. Was confirmed by Luc
+07.11.2025, 20:13 - +34 692 82 41 02: Because I’m too big to fly an M size of the X-one
+07.11.2025, 20:14 - Sopot - Meet Director: Let's wait for Luc to clear this question ...
+07.11.2025, 20:14 - +1 (510) 299-3701: Though if you really wanted to fly the M you could use a lightweight sub and do it?
+07.11.2025, 20:15 - Julien Garcia: I have seen a lot of pilots over-ballasting to reach the next size. Not many doing the opposite to gain avantages in thermals
+07.11.2025, 20:15 - Julien Garcia: Altought I aknowledge theses big gliders turn worse.
+07.11.2025, 20:15 - +34 692 82 41 02: Probably, but I wouldn’t like to do it honestly. Lightweight harnesses are much more unstable and often uncomfortable too
+07.11.2025, 20:16 - +34 692 82 41 02: Sure, that’s completely true, but  it doesn’t come for free, there’s some down sides too
+07.11.2025, 20:24 - +39 339 604 2016: The problem are even pilots between the sizes! Too heavy for S and too light for M. <Ta wiadomość była edytowana>
+07.11.2025, 20:25 - +34 692 82 41 02: That’s my case with the M and the L actually
+07.11.2025, 20:25 - +39 339 604 2016: Same but S and M <Ta wiadomość była edytowana>
+07.11.2025, 20:27 - +41 76 465 96 05: could you share the source?
+07.11.2025, 20:28 - +1 (510) 299-3701: Actually, equalizers should help encourage more sizes, at least in between the popular sizes. Because currently pilots don’t mind carrying ballast because they get some performance advantage out of it at least. But if there is no advantage they’ll be less willing to take on that hassle.
+
+And yes, I’m also between S and M. <Ta wiadomość była edytowana>
+07.11.2025, 20:30 - +34 692 82 41 02: I don’t think that will happen, sizes are really expensive to develop and certify and this is just a business for the brands in the end
+07.11.2025, 20:31 - Sopot - Meet Director: If you certify some small size by CCC - you can make any perfect zoom above from it
+07.11.2025, 20:31 - Julien Garcia: About weight data look at the website here : https://gagglereport.org/pilots/weight-data It's our 👍🏻
+07.11.2025, 20:31 - Sopot - Meet Director: The certification will be valid
+07.11.2025, 20:45 - +54 9 381 459-4226: 😍 Enzo MS 110 kg max 😍
+07.11.2025, 20:47 - +54 9 11 4417-7923: Julien, filter by WPRS  looks like not working on cell phones at least.
+After filtering would be good to know sample size left
+07.11.2025, 20:50 - +1 (510) 299-3701: Not working on laptop either. <Ta wiadomość była edytowana>
+07.11.2025, 20:51 - +386 31 404 688: Well. That opens up another issue. 
+
+Imo, manufacturers should be allowed to scale between tested sizes. Ie if 100 & 115kg are both certified, then any sizes between the two should be allowed by scaling, providing line thickness of 115kg are used. 
+
+In CCC this is allowed, but not EN.
+
+Coupled with Equalisers, a pilot could order his perfect size. No ballast needed to get to optimum weight.
+07.11.2025, 21:02 - Julien Garcia: Yep I just put the form template.
+07.11.2025, 21:02 - Julien Garcia: But... You can already play with the url.
+07.11.2025, 21:03 - Julien Garcia: Like https://gagglereport.org/pilots/weight-data/100 😇
+07.11.2025, 21:03 - Julien Garcia: To enjoy only the answers from top 100 WPRS
+07.11.2025, 21:05 - Julien Garcia: I add up actual action to the form soon
+07.11.2025, 21:10 - +1 (510) 299-3701: Unsurprisingly, the mode of the top 100’s bags is 5kg heavier than that for the top 1000. It tips over between top 300 and top 400.
+07.11.2025, 21:11 - Julien Garcia: Yes it is
+07.11.2025, 21:11 - Julien Garcia: If you want to range you can also use https://gagglereport.org/pilots/weight-data/1000/500
+07.11.2025, 21:12 - Julien Garcia: But I didn't come with more usefull conclusion appart from what you just explained <Ta wiadomość była edytowana>
+07.11.2025, 21:33 - +54 9 11 4417-7923: I have not flown your glider Marcelo, but all the feedback I got from pilots flying it, suggest it is more a question of brand than of size.
+
+Broken with small punch can favor S ... but overall smooth weak condition depend more on loading
+07.11.2025, 22:35 - ‎+33 6 98 65 75 36 dołączył(a) ze społeczności
+07.11.2025, 22:47 - +41 76 465 96 05: I fixed a bug where the glide ratio was normalized to the 115 kg reference wing with equalizers enabled. Relative comparisons within each group (with vs. without equalizers) were correct, but absolute values were biased. Please pull and use the latest code for validation.
+
+The variables are still open for discussion. In my view, Luc’s suggestion was pretty much spot on, but we should define a rule for pilots who still prefer to fly with more ballast. They should simply use a longer equalizer to prevent any unintended performance imbalance. This way, everyone can tune their personal sweet spot, and we can ensure that pilots retain the maximum freedom of choice.
+07.11.2025, 22:51 - +1 (510) 299-3701: Is your suggestion to make the rule that a pilot on e.g. an M glider carrying more than a certain amount of ballast should use an additional length of equalizer beyond what someone on the same glider carrying no (or below the threshold) extra ballast would use? To compensate for their advantage of having, on average, smaller arms, etc.?
+07.11.2025, 23:14 - +41 76 465 96 05: Yes
+07.11.2025, 23:15 - +1 (510) 299-3701: did you calculate how much more equalizer should be used per extra kg of ballast?
+07.11.2025, 23:19 - +41 76 465 96 05: Not yet. I am not yet sure how to optimize it. I will think about how to do it. <Ta wiadomość była edytowana>
+07.11.2025, 23:59 - +1 (510) 299-3701: I wonder about the magnitude because it would be convenient if it was such a 2nd or 3rd order effect that it could be neglected.
+08.11.2025, 00:19 - +41 76 465 96 05: Did you see the graphs? The effect seems to be larger then the difference due to scaling and reynolds. <Ta wiadomość była edytowana>
+08.11.2025, 00:32 - +1 (510) 299-3701: I wonder how realistic that is with sub harnesses, streamlined (perhaps same-sized) helmets and arms held behind risers etc.
+
+Those would all tend to make the overall drag and differences in drag smaller.
+
+But also I’m having a hard time interpreting the graphs.
+08.11.2025, 00:49 - Dodano: +33 6 38 50 79 27
+08.11.2025, 00:49 - ‎+33 6 38 50 79 27 dołączył(a) ze społeczności
+08.11.2025, 07:59 - Dodano: ~ PeterKausH
+08.11.2025, 07:59 - ‎+49 1517 4324446 dołączył(a) ze społeczności
+08.11.2025, 08:21 - ‎+33 7 74 47 69 72 dołączył(a) ze społeczności
+08.11.2025, 15:12 - +41 76 465 96 05: I’ve updated the model to add equalizer length as ballast increases:
+
+No extra length for gear weight below 25 kg.
+A fixed +360 mm for 25–35 kg.
+A fixed +705 mm above 35 kg.
+This produces very similar polar curves across ballast levels and wing sizes. Pilots can now choose their preferred ballast/size combination.
+
+The approach is still experimental and open to refinement, but it demonstrates that the concept works: adjustable equalizers can remove the incentive to carry excessive ballast for aerodynamic gain and the advantages of big pilots. They may be a practical way to level the playing field. <Ta wiadomość była edytowana>
+08.11.2025, 15:12 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 15:12 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 15:12 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 15:12 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 15:26 - +41 78 870 02 30: Hi @⁨~L⁩
+Thanks for sharing the charts — could you please explain where you obtained the base polars from?
+
+Also, do you have any thoughts on how the approximately 10% flight dynamics disadvantage (e.g. between S and L sizes) could be reflected or adapted in the charts?
+
+As mentioned in this GaggleReport article￼:
+
+“The smaller gliders will lose more altitude than the larger gliders from a given disturbance.”
+08.11.2025, 15:32 - Dodano: ~ Michel Siebel
+08.11.2025, 15:31 - ‎+49 160 90321374 dołączył(a) ze społeczności
+08.11.2025, 16:52 - +44 7792 446894: Can there be an option to reduce equalisers if using a non-submarine harness for those of us that either can't fit in them or refuse to use the compromised back protection and to accept the discomfort and visibility issues? Then we would be free to compete on equal terms whilst respecting our own safety choices as we are seeking to respect the safety choices of pilots with regard to carrying a lot of ballast. This is a serious question, not a way to generate controversy. 
+
+I, for one, would be way more in favour of equalisers if they allowed me to compete equally on a gen 4 harness with 18cm back protection without penalty. At the moment unless I accept the safety and comfort compromises of a gen 5 harness I cannot realistically compete next year. What would the calcs on this be? 
+
+If adjustments are to be made for ballast and wing size then why not make absolutely everything "fair" and allow older pilots with existing back injuries or those who just refuse to use 6cm of plastic matrix to ensure we don't end up in a wheelchair to also compete fairly on appropriate harnesses without a performance penalty? If wing size and ballast are being equalised, why not safety-related harness choices?
+
+Again this is a genuine inquiry, I'm not seeking to cause arguments. Thanks
+08.11.2025, 16:53 - Julien Garcia: Good point Mark. This had been asked countless times as we are numerous to think the same.
+08.11.2025, 16:54 - Julien Garcia: There is a FAQ on Equalizers page here : https://gagglereport.org/ballast/equalizers
+08.11.2025, 16:55 - Julien Garcia: I'll add the answer provided by @⁨~Luc Armant⁩ here but basically it is stated :
+08.11.2025, 16:55 - Julien Garcia: These Equalizers are size equalizers, which are just here to compensate for the performance variation due to physical scale effect between sizes and nothing else. Compensating for differences between brands or models would be another subject. A much more complicated subject. Amongst other huge issues, this would kill any incentive for manufacturers to improve equipment.
+08.11.2025, 16:56 - Julien Garcia: Luc had put emphasis on the fact that harness drag is harder to measure and compensate fairly.
+08.11.2025, 16:56 - Julien Garcia: It's all I know.
+08.11.2025, 16:57 - +358 44 5063309: How about minimum cross section of the harness based on  the wing size?
+08.11.2025, 16:57 - +33 6 15 67 83 97: You could also compensate for wing performance and for arm drag, if you wanted to bé complete as it's also a major contributor.
+08.11.2025, 16:58 - +33 6 15 67 83 97: But I fear nobody would want to design anything after that.
+08.11.2025, 16:59 - +33 6 15 67 83 97: (I mean, no incentive to improve équipment performance)
+08.11.2025, 17:06 - +44 7792 446894: Ok. But if there is a general push towards what is being referred to as fairness then why not just have a straightforward handicap for anybody not flying a harness that relies, at least for the forward section, on a difference of air pressure to maintain its in-flight shape, which is a definition that as far as I can see works for all the submarine type harnesses I have so far seen. 
+
+You could allow pilots to chop 30 cm or whatever off The equalisers no matter what size wing they are flying If they cannot or will not fly a Gen 5 harness for safety reasons.. 
+
+Of course those that currently fly submarine harnesses won't like this, but as a person who currently flies an XL glider I don't like the idea of being handicapped either... 
+
+I fail to see the difference fundamentally between the two propositions? It seems to me that one is attempting to equalise wings to remove the incentive to carry a lot of ballast whilst my suggestion seeks to de-incentivise people from using marginal back protection and harnesses which are clearly more difficult to handle, have back-fly problems, are more difficult to deploy a reserve from and have visibility issues. I fail to see any difference fundamentally between the two requests? 
+
+Luc I appreciate what you say but there is no suggestion of equalising between manufacturers or types of wing although I accept the point you make which is that once you start to equalise one thing people will always want to equalise everything. This was why I initially didn't like the idea of equalisers at all. However, as it is a safety issue for many of us, and not a performance issue, I do think it is different fundamentally than an equalisation between brands and different types of glider. Unless I have missed something?
+08.11.2025, 17:10 - +33 6 15 67 83 97: The size effect is pretty independant from equipement (brand, etc). That's the big différence with the others performance differences.
+08.11.2025, 17:18 - +44 7792 446894: But, sorry to insist, If the goal is to make competitions more fair and safe and it seems to be that we are moving towards some kind of handicapping system for both ballast and wing size then what is the difference between this and having to choose to fly a harness that is compromised on safety for performance and one that has more drag but has much higher passive safety? It seems to me that nobody wants to answer this? If the answer is that manufacturers will never design anything better without the incentive of winning comps I would say that comps should be about who is the best pilot and not who is prepared to fly the most dangerous equipment. For performance there are world records and other feats to perform that will demonstrate that a harness for example is an improvement... I am ok with making comps fair but this has to cut in all directions, not just the ones that suit the current crop of pilots who are winning anyway.
+08.11.2025, 17:18 - +49 1522 2444190: Its not that easy. I fly  a lot with a friend who is 2m tall. We have Enzo 3, me M he L and the Gin Race 5 in M and XL. He has no advantage in glide at all
+08.11.2025, 17:21 - +41 76 465 96 05: The wing drag is computed using the reference 115 kg wing from Luc Armant’s polar data, and the induced drag is calculated with an assumed Oswald efficiency factor of 0.75.
+
+The base equalizer length is derived from Luc’s formula
+(https://gagglereport.org/ballast/equalizers
+Tube Length (mm) = (Rounded_Size_Max_Weight − Starting_Wing_Size) × 22, with a starting wing size of 90 kg.
+
+If you want to compensate for the dynamic disadvantage (for which I haven’t seen any documented calculation or estimation), we simply adjust the base-length formula accordingly.
+08.11.2025, 17:23 - +44 7792 446894: Well I fly an XL glider and as far as I can see I have no advantage at all either. So either the whole thing is nonsense, or we need to address all safety issues by attempting to equalise out the unfairness or drop it. I don't care which one, but I do think the point is very valid. It's not my fault I have a broken back that I cannot risk a heavy impact on marginal protection any more than it is the fault of a pilot for weighing 50 kilos.  Why should they get a handicap advantage because they have to fly a small glider and I don't because I have to fly a big fat harness? what is the difference?
+08.11.2025, 17:25 - +33 6 15 67 83 97: Come with a solution, Mark. I don't have one for what you ask.
+08.11.2025, 17:29 - +54 9 11 4417-7923: The solution (not inmediate) is "harness standard definition" that takes into account all the concerns Mark and many others have.
+
+I am aware this is already in the process but I am not familiar with details or implementation deadlines.
+08.11.2025, 17:40 - Julien Garcia: I believe we face two separate topic too althought I would love to see our harnesses getting better protection. @⁨~Mark Hayman⁩ getting compensated for what you ask, you'll be safer while a light guy will have to carry a low drag harness. I would want ALL to be better equiped <Ta wiadomość była edytowana>
+08.11.2025, 17:43 - +41 76 465 96 05: How tall are you?
+08.11.2025, 17:44 - +49 1522 2444190: 178
+08.11.2025, 17:46 - +44 7792 446894: Ok... 
+
+1/ an optimised harness is defined as one that relies on a difference in air pressure to maintain its in-flight shape between the pilots ankles and hip joints. 
+
+2/ a classic harness is one that relies on mechanical pressure exerted by the pilot to maintain its in-flight shape in the same area 
+
+3/ using a medium sized harness as a reference the difference in drag, calculated in Newtons, is to be arrived at and a figure agreed upon which represents the majority of harnesses. 
+
+4/ The speed at which the reference drag is calculated is to be the same as for the proposed equalisers
+
+5/ The polar curves with this difference in drag between classic and optimised harnesses are to be drawn up and a reduction figure, based on this difference is to be removed from the equaliser system that pilots using a classic harness have to carry. 
+
+6/ pilots using optimised harnesses have to carry the full length of equalisers as per the original proposal 
+
+7/ further adjustment of the equaliser length may be required for ballast.
+
+How's that?
+08.11.2025, 17:50 - Julien Garcia: And then we adapt each combo to a correct Equalizer size ?
+08.11.2025, 17:50 - Julien Garcia: Harness type / Glider size ?
+08.11.2025, 17:52 - Julien Garcia: I am only afraid on calculus accuracy for such variety but If it is the consensus we must find to raise approval, I would be in.
+08.11.2025, 17:55 - +44 7792 446894: 8/
+08.11.2025, 17:56 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 17:56 - +44 7792 446894: 8/ this correction figure between classic and optimised harnesses to be reviewed annually in light of technological advances with either system.
+08.11.2025, 17:57 - +33 6 15 67 83 97: There is no such things as classic and optimized harnesses
+08.11.2025, 17:57 - +44 7792 446894: Adjust the correction figures then?
+08.11.2025, 18:01 - +44 7792 446894: It's not worth getting into the details, that is for clever people like Luc, it was more a philosophical point that if the goal of equalisers is to increase both fairness and safety then I think the argument holds, at least with current harnesses, to apply that logic to people like me who are forced into using a Gen 4 harness and also notions of equality in terms of pilots not being forced into flying the most dangerous equipment, instead being free to choose the safest equipment. The figures can work themselves out in due course. I'm smart with rules, but I'm no aero engineer!
+08.11.2025, 18:02 - +33 6 15 67 83 97: No one knows what are the exact amount of drag if the various harnesses on the market
+08.11.2025, 18:05 - +49 1522 2444190: Size variation is not exact or linear either. But we could make it a bit fairer for all. Your words
+08.11.2025, 18:13 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 18:13 - +41 76 465 96 05: <Pominięto multimedia>
+08.11.2025, 18:16 - +1 (724) 984-1982: It seems there is not much discussion regarding increasing harness protection;
+Perhaps in the general chat. Given the support for adding drag to make things more fair, thus somewhat abandoning the idea of flying with absolute peak performance, it seems that adding more protection to the harnesses to improve safety is a logical move. I don’t want to purchase a new harness, but i absolutely would if there was a safer option in terms of back protection. How much would a Sub performance drop if it had 20 more cm under seat? It seems like the safety increase to back injury would be massive.
+08.11.2025, 18:32 - +44 7815 693738: This group is just for ballast, back protection is definitely a big issue and something I’m sure most in the community want to sort out. But it’s a discussion for a different group.
+08.11.2025, 18:35 - +44 7815 693738: @⁨~Luc Armant⁩ can you comment on this issue please. 🙏
+08.11.2025, 18:52 - +33 6 15 67 83 97: I think that it is possible to make small competition glider which can be handled as well as bigger ones. At least from 85kg all up. With same wing loading, They will be more nervous, more responsive to turbulences
+08.11.2025, 18:52 - +33 6 15 67 83 97: But it's not necessarily bad
+08.11.2025, 18:56 - +33 6 15 67 83 97: Regarding Bruce's study starting that the smaller sizes have Dynamic performance disadvantage into turbulences, I don't know what to think.
+08.11.2025, 18:57 - +33 6 15 67 83 97: If that is true, then we will still see pilots ballasting to take bigger sizes.
+08.11.2025, 18:57 - +33 6 15 67 83 97: And it will be possible to increase more the equalizer compensation
+08.11.2025, 18:59 - +33 6 15 67 83 97: But without clear figures, I don't think we can justify bigger equalizer compensation at first.
+08.11.2025, 19:03 - +44 7792 446894: You are only trying to find a figure which somewhat compensates between the two types of harnesses, it doesn't need to be exact. It could still somewhat favour the submarine types. It's more to allow a freer choice for the pilot than to exactly make things fair. So you don't need an exact figure, just something that is better than zero. I note the comment about this thread being for ballast so I'll stop posting having made my points and asked my questions, I just put this here to round things off. Thank you for responding, perhaps it is a little more food for thought? Cheers, Mark
+08.11.2025, 19:17 - Julien Garcia: Several pilots asked the same Mark. No trouble really.
+08.11.2025, 20:24 - +1 (724) 984-1982: To this point of getting “closer to fair”.   I think that the goal being this is a better start point than exact fairness as exact fairness may never be found. That being said, I greatly appreciate the talented minds working to equate the multitude of factors in order to find an exact fairness.
+09.11.2025, 09:50 - Dodano: +41 76 222 05 99
+09.11.2025, 09:50 - ‎+41 76 222 05 99 dołączył(a) ze społeczności
+09.11.2025, 18:25 - +1 (510) 299-3701: I tried to move the discussion of compensating better harness protection to the general thread.
+09.11.2025, 18:29 - ‎+30 694 827 1350 dołączył(a) ze społeczności
+10.11.2025, 00:29 - ‎+33 6 89 93 36 22 dołączył(a) ze społeczności
+10.11.2025, 11:58 - ‎+1 (657) 500-9272 dołączył(a) ze społeczności
+10.11.2025, 12:13 - Dodano: +33 6 49 73 82 71
+10.11.2025, 12:12 - ‎+33 6 49 73 82 71 dołączył(a) ze społeczności
+10.11.2025, 12:35 - Dodano: Stephane Drouin
+10.11.2025, 12:35 - ‎Stephane Drouin dołączył(a) ze społeczności
+10.11.2025, 16:07 - +36 30 500 2958: Lukas, you seem to be an expert in this topic. Can you tell me the following: if Baptiste and Yassen both fly Enzo M at the same weight, but with Sub S and L, how much difference is between them? My theory is that the difference is significant, between 0.5-1.0 glider size. Can you confirm this on your model?
+Also one big difference is the head: Baptise's head is almost hidden in the "tunnel" of the harness, while a tall pilot's head very much sticks out. I don't know if your model takes this into account <Ta wiadomość była edytowana>
+10.11.2025, 16:16 - +49 1573 4866279: To give some context: Lukas' model currently uses a norm to determine some body measurements from a given height. It then constructs a body made up of recangles, calculates the area by giving them different angles compared to the airflow and then assumes some drag factors for different parts of this simple body (1 for arms, 0.23 for legs+torso+protector, etc.) 
+imho this doesn't reclect what is going on with current comp harnesses, as the diameter of the main "tube" stays the same through all sizes. 
+I tried making some rough adjustments by replacing the torso and protector area by a constand circle and adding some factor of the torso area on top (~1/3), but it still needs some work
+10.11.2025, 16:18 - +33 6 15 67 83 97: @Zsolt, find here again in that file, my estimation of harness drag for the various sizes. It's done considering bigger body for bigger sizes.
+10.11.2025, 16:19 - +33 6 15 67 83 97: <Pominięto multimedia>
+10.11.2025, 16:21 - +33 6 15 67 83 97: The difference of drag between harnesses sizes is small. That's due to the fact that the frontal of the harness itself stays the same, the neck cannot extend out of the envellope, so the main difference comes from the arms and the helmet (helmet is almost nothing).
+10.11.2025, 16:28 - +33 6 15 67 83 97: And for those wandering: the difference of drag between harness sizes is also small for another pod harness. <Ta wiadomość była edytowana>
+10.11.2025, 16:31 - +36 30 500 2958: Luc, thanks! I don't yet understand the XLS, can you calculate the following?
+
+* Enzo M @ 115 kg. Full speed. Both pilots.
+* Pilot 1: Baptiste
+* Pilot 2: 200 cm
+
+How much difference is between them? <Ta wiadomość była edytowana>
+10.11.2025, 16:31 - +33 6 15 67 83 97: this xls is doing it
+10.11.2025, 16:32 - +36 30 500 2958: I just don't understand how to use it
+10.11.2025, 16:32 - +33 6 15 67 83 97: ok, 1 minute
+10.11.2025, 16:36 - +33 6 15 67 83 97: You can expect about 1cm/s variation of sink rate at full speed between extreme pilot sizes. The difference of sink rate at full speed from Enzo3 M to Enzo3 S is about 3cm/s.
+10.11.2025, 16:44 - +36 30 500 2958: OK, so more or less 1/3 of a glider size step for pilot sizes on the extremes?
+10.11.2025, 16:44 - +36 30 500 2958: And we could test this in practice by putting X cm of equalizers on Baptiste vs Yassen or someone tall and check if they glide equally?
+10.11.2025, 16:45 - +33 6 15 67 83 97: no. We don't have accurate enough instruments.
+10.11.2025, 16:49 - +36 30 500 2958: I mean by going on a glide at sunset, just like you how tested your original hypothesis of equalizers workings. A short and a tall pilot goes on a lot of glide tests with identical equipment, and they keep putting equalizers on the shorter pilot's glider until they believe the glide is identical.
+As I understand you did the same testing for the original equalizer concept.
+10.11.2025, 16:51 - +33 6 15 67 83 97: in the most ideal atmopheric conditions and the best possible measurement tool (developed in conjonction by Ozone and Vector Vario) the resultion is about 1cm/s at full speed.
+10.11.2025, 16:52 - +33 6 15 67 83 97: So we would not really conclude on the comparison you are asking for <Ta wiadomość była edytowana>
+10.11.2025, 16:52 - +36 30 500 2958: But we need to test the whole idea that equalizers are working. Pilot size is just one parameter.
+10.11.2025, 16:53 - +33 6 15 67 83 97: Pilot size is a minor parameter that we don't need to fix. <Ta wiadomość była edytowana>
+10.11.2025, 16:54 - +33 6 15 67 83 97: The major parameter, which is also th major issue, is total weight.
+10.11.2025, 16:55 - +36 30 500 2958: I mean we need to test the full picture in the real-world. If we cannot test this, then it won't be a fair adjustment.
+Maybe we need to analyse tracklogs on events with equalizers but we need to find a way to make sure the compensation is fair. <Ta wiadomość była edytowana>
+10.11.2025, 16:57 - +33 6 15 67 83 97: The compensation on that xls file is the minimum undiscussable theoritical amount between glider sizes.
+10.11.2025, 16:58 - +33 6 15 67 83 97: it can only be much fairer than nothing.
+10.11.2025, 17:00 - +33 6 15 67 83 97: after two seasons, if you still see a lot of pilot ballasting, then you know for sure that the compensation is not enough. Because the pilots will have made a very well informed decision from hundreds of glide in real conditions. Something no-one can afford doing otherwise.
+10.11.2025, 17:01 - +36 30 500 2958: I'm worried about the other direction. Small pilots will have advantage on an S size Enzo.
+We'd need to find a way to take real-world results into equalizer sizes.
+10.11.2025, 17:01 - +36 30 500 2958: For example analyse long glides on comps, which are not final-glides. <Ta wiadomość była edytowana>
+10.11.2025, 17:01 - +41 76 465 96 05: Why do you think so?
+10.11.2025, 17:02 - +36 30 500 2958: Because shorter arms, smaller harnesses, head in a more aerodynamic position.
+10.11.2025, 17:02 - Julien Garcia: The point of Equalizer is to offer a compensation for Glider size.
+10.11.2025, 17:03 - Julien Garcia: As I understood it.
+10.11.2025, 17:03 - +33 6 15 67 83 97: there would still remains enaqualized parameters. and this would be one of them.
+10.11.2025, 17:03 - +36 30 500 2958: But right now it's just a theoretical calculation, we haven't tested if it compensates enough or compensates too much.
+10.11.2025, 17:04 - Julien Garcia: We can have statistical one too
+10.11.2025, 17:04 - +33 6 15 67 83 97: We know it's not too much. And we would know if it's too little by doing it. <Ta wiadomość była edytowana>
+10.11.2025, 17:05 - +33 6 62 51 67 03: The more we overthink, try to found every little points to say it's not good, the more we delay the test ! Let's stop to think, discuss and now we test !
+10.11.2025, 17:06 - +36 30 500 2958: I'm also saying that we should start racing with them, I'm just saying that we need to be open minded to compensating for harness size and pilot size.
+10.11.2025, 17:06 - +36 30 500 2958: The only way to figure out is race them and analyse the tracklogs. Or maybe you can tell me a better way.
+10.11.2025, 17:07 - Julien Garcia: We hardly agree at all to compensate on 2 decade long lasting problem. <Ta wiadomość była edytowana>
+10.11.2025, 17:07 - +33 6 15 67 83 97: I think stats on tracklogs, even with numerous data will not get you a good neough answer on pilot size matter (I mean for a given wing size)
+10.11.2025, 17:09 - +33 6 15 67 83 97: Let's call Equalizer, Size Equalizer. Any other parameters is another subject. If you want to include all parameters (wing brand, wing model, harness model, arms, size, speedArm, tight or loose speed arm, cyclist race speed arm, etc.) you'll just make the whole thing unpractible.
+10.11.2025, 17:10 - +33 6 62 51 67 03: we already know that we have performances differences in between size in a direction, this is the first ever realistic option to try to compensate this thing. we need to try this !
+perhaps it's not perfect ?Yes maybe, but at least it's worth to try
+10.11.2025, 17:12 - +32 486 31 34 36: Exactly. Step by step. Don’t try to eat the mammoth in one piece. Bit by bit. Start with what can be done in the near future. See how the system adapts….. rinse and repeat
+10.11.2025, 17:13 - +36 30 500 2958: I think currently most pilots would agree that there is:
+
+* minimal difference in glide between current CCC gliders of the same size
+* big difference in one glider size step
+* almost a glider size difference between flying with a GR5 and Submarine
+
+Maybe we cannot measure it, but there are hundreds of tasks where the best pilots have raced each other and most of them concluded the same <Ta wiadomość była edytowana>
+10.11.2025, 17:22 - +36 30 500 2958: I am supporting this idea, but currently I think a large percent of the pilots are against it.
+If you try to push it through in the current form, I believe so many pilots will be against it, that they'll simply vote it out on races, like PWCA.
+This is not something we can push through by force, I believe.
+10.11.2025, 17:24 - +33 6 15 67 83 97: Maybe a poll in gagglereport will tell ?
+10.11.2025, 17:27 - +36 30 500 2958: I think gagglereport is already a filter for pilots with more empathy/understanding, those who contribute here probably care about the direction of the sport. But sure, a poll is a good idea.
+10.11.2025, 17:31 - +33 6 62 51 67 03: We know how it is ! most of the light pilots want to follow this proposal to compensate one lack, most of the heavy and tall pilots are against because they don't want to loose the performance and small advantage they have in glide
+10.11.2025, 17:32 - +33 6 62 51 67 03: Everyone wants to defend his own interrest. In a way it's natural and understandable
+But we need to think to the global system
+10.11.2025, 17:35 - +33 6 62 51 67 03: I'm light and fly a 105kg max glider. If this is applayed, i will most probably change and use a smaller glider. 
+I can used less ballast (one problem solved)
+I can still have competitive performances (second probleme solved)
+10.11.2025, 17:37 - +33 6 89 93 36 22: Différence is bigger between Baptiste and Mr 200cm because of training & time involved / accurate technics / accurate positioning & tactics in many race configurations / talent. Than 1cm/s.
+Funny that we totally evacuate all sporting aspects
+10.11.2025, 17:37 - +36 30 500 2958: I don't think it's as simple as that, there are many heavy pilots who understand why it's important and are in favour of equalizer. All I'm proposing is that if there was a "bonus cm" for harness size/pilot size, the heavier pilots would feel more understood and would be more in favour.
+10.11.2025, 17:37 - +33 6 62 51 67 03: I'm defending my interrests in a way, but globally we can solve or compensate 2 problems in one
+10.11.2025, 17:38 - +33 6 15 67 83 97: I think you should forget about this bonus cm idea. <Ta wiadomość była edytowana>
+10.11.2025, 17:39 - +33 6 15 67 83 97: it does not help anything
+10.11.2025, 17:41 - +36 30 500 2958: OK, I'm just saying by numbers, currently 80+ kg pilots are dominating the field. Lightweight pilots might be the champions, but the average male comp pilot is not lightweight.
+If you make a proposal that penalises them, they'll not support your proposal and it'll be voted out after a season or so.
+10.11.2025, 17:42 - +36 30 500 2958: I'm totally for making an equal playing field, but the sport has developed into what it is currently and you need to be understanding with the guys who will be penalized.
+10.11.2025, 17:43 - +33 6 15 67 83 97: there is nothing less we can do Zsolt.
+10.11.2025, 17:43 - +54 9 11 4417-7923: Humour hat on 😉
+The problem here is Luc´s lack of political acumen
+He should have proposed exaggerated equalizers at the start, so after bargaining a little bit, we would end up accepting the calculated equalizers and everyone happy (well not everyone for sure)
+10.11.2025, 18:11 - +41 76 465 96 05: The 80 kg pilots should understand that it’s actually fairer for them when the 65 kg pilots fly the 95 kg wings with an equalizer setup, rather than the current situation where they fly the same 115 kg size with 40 kg of ballast. Just look at the results…
+
+My concern is that some pilots will still decide to fly larger wings with maximum ballast to squeeze out the best possible performance by combining small arms with bigger gliders. And if we try to fix this by shifting even more performance toward the smaller wings in the hope that the heavy-ballast guys will carry less weight, it would end up disadvantaging the 80 kg pilots who fly without ballast.
+
+That’s why I propose adding extra equalizer length for pilots using more than 25 kg of ballast, and again for those using more than 35 kg of ballast. For now, this shouldn’t apply to pilots who are struggling to even reach 95 kg.
+10.11.2025, 18:13 - +49 1573 4866279: 25kg will still easily happen if you happen to be in between sizes and want to properly load on a good day <Ta wiadomość była edytowana>
+10.11.2025, 18:15 - +33 6 15 67 83 97: what's your weight L ?  (and your name).
+10.11.2025, 18:17 - +41 76 465 96 05: The point we need to emphasize now, in order to win this vote, is that the situation is already crooked — it favors the big guys and the small guys who load up with a lot of ballast.
+10.11.2025, 18:18 - +44 7446 445157: Equalising for pilot size is a separate topic and should be spun up through "What we want" to see if there is sufficient support for the idea.  (In the same way as suggested for the aero/ non-aero harness equalisation suggested by Mark Hayman)
+10.11.2025, 18:19 - +41 76 465 96 05: I told it before. Lukas Gantenbein I'm on a XL.
+What is your weight Luc?
+10.11.2025, 18:19 - +33 6 15 67 83 97: 80kg.
+10.11.2025, 18:19 - +41 76 465 96 05: I am in favour of the equalizer solution
+10.11.2025, 18:20 - +41 76 465 96 05: The point we need to emphasize now, in order to win this vote, is that the situation is already crooked — it favors the big guys and the small guys who load up with a lot of ballast.
+
+Tell me this is not true!
+10.11.2025, 18:22 - +33 6 15 67 83 97: but I know what it takes to carry and fly with very heavy bags. I've done it in the past to fly with Large size. there is no question, no-one would want to suffer this just to for few mm/s regarding arm size.
+10.11.2025, 18:23 - +386 31 404 688: There is a test event being planned for next year specifically to use them. From that there will hopefully be some good data that will enable PWCA to commit to using them, or a modified version of the method. Thereafter a CAT1 can adopt it once it is proven and suitable tweaked.
+
+At the Superfinal earlier this year the informal vote by they pilots was overwhelmingly in favour of using them. That included the XL/200cm pilots 😊
+10.11.2025, 18:25 - +36 30 500 2958: I don't think the current situation favours the small guys, the situation is extremely against the small guys. The current champions are the best pilots _despite_ having to carry 45 kg equipment.
+For those pilots one bad step on takeoff or landing might put them out of flying for half a season.
+
+It clearly favours the big guys.
+
+I just think that removing protectors from harnesses to make them aerodynamical and then putting it on the glider lines to make them less aerodynamical is a totally stupid development in our sport.
+10.11.2025, 18:25 - +36 30 500 2958: To be clear I want to accept drag on the harnesses as equalizer.
+10.11.2025, 18:27 - +33 6 15 67 83 97: you just bring another subject.
+10.11.2025, 18:28 - +33 6 15 67 83 97: Equalizer would exist whatever is the protection.
+10.11.2025, 18:28 - +36 30 500 2958: No, I think it's the same subject, equalizers and ballast free talks.
+10.11.2025, 18:28 - +36 30 500 2958: Yes, but large pilots would have 14 cm protectors and super short equalizers on their lines
+10.11.2025, 18:29 - +33 6 15 67 83 97: Well. call it Size Equalizer and ballast free talks.
+10.11.2025, 18:29 - +33 6 15 67 83 97: if you want to open a subject about harness protection Equalizer, do it.
+10.11.2025, 18:29 - +33 6 15 67 83 97: Josh already had a good idea about it.
+10.11.2025, 18:32 - ‎+34 677 74 19 08 dołączył(a) ze społeczności
+10.11.2025, 18:51 - +64 27 202 2996: Ta wiadomość została usunięta
+10.11.2025, 19:14 - +44 7815 693738: Hi guys, I have put together a document to invoke more detailed discussion. Instead of choosing one idea, I thought about a multi system approach, that can be run in parallel that focuses on; how quickly we could start to address the issue, maximum pilot satisfaction and addressing some “cons” that get repeated about each subject. There are over 170 pilots in this group but very few get involved, please read, and comment, together we can come up with a solution!
+10.11.2025, 19:14 - +44 7815 693738: <Pominięto multimedia>
+10.11.2025, 22:54 - Julien Garcia: Thanks Malin. Interesting parrallel proposal.
+11.11.2025, 00:45 - +1 (510) 299-3701: In principle I like the idea of letting pilots vote with their feet, but in this case I suspect it would lead to little change.
+
+We already have a lightweight class at many Cat. 2s and it has had hardly any effect on pilots’ ballasting and glider size choices.
+
+Until a solution is on the horizon at a Cat 1, most pilots won’t see it as real.
+11.11.2025, 00:47 - +1 (510) 299-3701: There is also a question of how many organizers would want to make their lives more complex by having more classes.
+
+Another way the free market could work is that if equalizers start to catch on, some Cat 2s will require them and others won’t. Pilots who care enough will choose their events accordingly.
+11.11.2025, 00:49 - +1 (510) 299-3701: that could lead to de facto weight class competitions if some heavy pilots avoid comps with equalizers.
+11.11.2025, 06:53 - +44 7815 693738: That’s assuming that most pilots only do comps to get in to CAT1’s. I don’t think there are 7500 pilots competing for a team place.
+11.11.2025, 06:57 - Sopot - Meet Director: If weight categories are introduced in WPRS - they will have immediate adoption through the whole competition scene (Cat1s and Cat2s).
+If equalizers are introduced - there will be a long transitional period.
+11.11.2025, 06:58 - +44 7815 693738: In the Brits we have; overall, female, sports class, best new comer, Reynolds etc. I don’t think categories increase the workload much, they just add a bit of time to the closing ceremony. Reynolds doesn’t work at the moment because there is still an overall, if you remove that the categories have equal importance.
+11.11.2025, 06:59 - +44 7815 693738: Exactly 👍
+11.11.2025, 07:25 - +386 31 404 688: Actually, the Reynolds does add quite a bit of work as you need to know the wing size the pilot is flying. Pilots have a habit of putting incorrect data on their forms, often misunderstanding the question about weight, or leaving it blank.
+
+A lot of that stems from either the class not being applicable to them, or their not taking it seriously enough. 
+
+If more events used it, it would become less work.
+11.11.2025, 07:26 - +386 31 404 688: That said, it isn't a huge job. Just normal scoring stuff. No different to trying to get their correct wing and harness info etc
+11.11.2025, 07:28 - +386 31 404 688: Pilots are lazy. Systems need to be simple. 👻
+
+I'd support Max weight of a wing being printed on a wingtip 🙏
+11.11.2025, 09:21 - +54 9 11 4417-7923: All debates here are about forcing changes into Cat1 and WPRS.
+
+No need to debate anything for the 7500 pilots not interested in the highest level, because Cat2 are free to do what they like as they do it right now.
+
+I thought it was clear that creating one or two lightweight classes did not solve the ballast problem at all
+11.11.2025, 09:55 - Sopot - Meet Director: Cat2s are significant because they are the main contributor of points for WPRS. If for example there is a lightweight category - the selection for Cat1 Lightweight might be according to Lightweight WPRS ranking ...
+11.11.2025, 09:56 - +49 1573 4866279: but cat1 selection is never really according to wprs.
+11.11.2025, 09:56 - Sopot - Meet Director: It is
+11.11.2025, 09:57 - Sopot - Meet Director: At least the qualification
+11.11.2025, 09:57 - Sopot - Meet Director: I know many countries (NACs) do their decision who to send according to pilot's WPRS ranking <Ta wiadomość była edytowana>
+11.11.2025, 09:58 - +44 7815 693738: Eduardo than was quite a worrying post. We are not here to force anything. If a proposal is good it is more likely to be accepted. CAT1’s and WPRS are separate issues albeit slightly liked. My document covers more than 1 or 2 weight classes and it covers WPRS, but needs more input on CAT1’s. 
+
+CAT2’s can’t “do what they like”, they have to conform to the current WPRS rules so having categories doesn’t work at the moment. If they want to give out WPRS points they are bound by those rules. If those rules change it will affect the masses. You are saying that you want to force a rule through that will only benefit the top 120 pilots and completely disregard the affect it will have on over 7000 other people? Thats just not morally right, they matter too.
+11.11.2025, 10:02 - +54 9 11 4417-7923: That is not at all what I said.
+But this is becoming a conversation that makes no sense.
+People have a position taken, and hear no arguments
+11.11.2025, 10:02 - +49 1573 4866279: but they aren't bound to it. And how would selection through lw WPRS work? another +1 for all teams?
+11.11.2025, 10:04 - Sopot - Meet Director: Yes. This topic has to be discussed and decided if the LW category is approved
+11.11.2025, 10:05 - +32 486 31 34 36: Also, every top pilot went through the Cat 2’s during his progression at one point of time,  which means if with time, the newcomers will feed the top pilots and if those were playing with these rules from the start, they won’t have any problems with that when they will reach Cat 1. Si to me, having these rules in Cat 2’s is also the way to go
+11.11.2025, 10:09 - +44 7815 693738: I am trying to encourage input, to bring detailed solutions, not just opinions.
+11.11.2025, 10:20 - ‎+44 7378 257778 dołączył(a) ze społeczności
+11.11.2025, 10:38 - +54 9 11 4417-7923: Malin, I know you are looking for solutions
+Maybe there are misuderstandings.
+11.11.2025, 10:40 - +54 9 11 4417-7923: The vast majority of the 7500 pilots you mention DO NOT fly CCC gliders.
+
+But weight classes are irrespective of glider classes
+11.11.2025, 10:41 - +54 9 11 4417-7923: So a EN-B or EN-C  pilot will compete in the same weight class than a serial or CCC glider? <Ta wiadomość była edytowana>
+11.11.2025, 10:42 - Sopot - Meet Director: And he will have a choice: fly in his weight category or carry ballast and fly in Overal category
+11.11.2025, 10:44 - +54 9 11 4417-7923: But then you want weight classes to give medals, not to solve ballast problems
+11.11.2025, 10:45 - Sopot - Meet Director: Yes - the medals will solve the ballast problem
+11.11.2025, 10:45 - Sopot - Meet Director: This is what I expect
+11.11.2025, 10:45 - Sopot - Meet Director: Of course ther will be people choosing to carry ballast
+11.11.2025, 10:46 - Sopot - Meet Director: But at least they will have the option to skip the ballast
+11.11.2025, 10:46 - Sopot - Meet Director: Now they don't have this option
+11.11.2025, 10:48 - +386 31 404 688: There seems to be two threads running concurrently here. One to solve ballast at CAT1 by giving medals, and one to solve all events by controlling the WPRS.
+
+They are very different things.
+
+Maybe this group needs splitting into two?
+11.11.2025, 10:50 - Sopot - Meet Director: Two sides of the same coin
+11.11.2025, 10:51 - +44 7815 693738: For me it’s to solve the ballast issue for everyone. Ballasting in CAT2’s is still a problem. In my opinion the only way that categories will work is if WPRS change to award multiple winners. So the two are the same.
+11.11.2025, 10:54 - +33 6 15 67 83 97: @⁨Sopot - Meet Director⁩ : how many weight category would you now like in your plan ?
+11.11.2025, 10:54 - Sopot - Meet Director: Malin, I hope that you are aware that you cannot impose things on Cat2s. You can only create incentives
+11.11.2025, 10:54 - Sopot - Meet Director: Only one for now
+11.11.2025, 10:55 - +33 6 15 67 83 97: you mean two ?
+11.11.2025, 10:55 - +44 7815 693738: I think this is where our thoughts differ. I don’t think categories work if you still have an overall winner, and WPRS stays the same. That’s why I think overall comps and multi winner ones should be separate. Then everyone is happy.
+11.11.2025, 10:55 - +386 31 404 688: But they are not the same.
+
+We have Junior category in WPRS, but we do not have Junior medal at CAT1.
+
+Soon we will have Sports category in WPRS. But we do have them in CAT1.
+
+The exception to the above two is there is a specific Junior Worlds, and soon there may be a Sports worlds.
+
+So if you are looking to changing WPRS, that is one thing. But CAT1 is completely different and a separate proposal and approach. You do not need to change WPRS for a 'class' in CAT1 just as you don't need to change CAT1 to change WPRS. <Ta wiadomość była edytowana>
+11.11.2025, 10:55 - Sopot - Meet Director: Maybe after some years (and if it seems necessary) - another one
+11.11.2025, 10:56 - +386 31 404 688: Just to outline the current WPRS process.
+
+The only existing rules in CIVL for WPRS is that:
+♦ a ranking order for the event must be submitted. The order they finished 1st to last. The points they achieve in the event are irrelevant. Just their position counts.
+♦ The results must identify CIVL number, Nationality (by Sporting licence), sex, glider and if they hold a valid sporting licence.
+♦ The organiser must upload IGC tracks and incident reports.
+
+That is pretty much it.
+
+The system will then process all that info and create the WPRS ranking based on the formula in Section 7e. It is a single calculation for a single score.
+
+The process does not care about classes within the event. They are not uploaded into the final results. They are for local use only. It is entirely optional for the organiser if he wants classes or not, and what those classes are. Even they Sports class results will not be uploaded to the WPRS as the system will already be able to identify the class of a glider from the glider model. Weight is a whole new dimension not presently in the system at all.
+
+Things like Junior & Female rankings in WPRS are just selector buttons to filter out the other pilots. The new Sports ranking will use the same filter technique.
+
+So to have weight as part of the WPRS equation it would require a new filter and a way of identifying the pilots that comply with the filter, The existing Sports filter has taken nearly 2 years from proposal to implementation. 
+
+You could just keep the LW class local to the comp, so at a CAT1, the organiser just collects the data at the event registration, the same as CAT2 does it. No pre-selection required.
+
+Currently a CAT1 only identifies the top overall and top female. Juniors, despite being a part of WPRS they are not identified at a CAT1. Nor will the top sports pilot be.
+
+Hopefully that helps you identify what parts of the system would need change for any new proposals.
+11.11.2025, 10:58 - +33 6 15 67 83 97: So I suppose you mean, one light weight category and one heavy weight category. How do you deal with people ballasting up to the top of the light weight category ?
+11.11.2025, 10:59 - +44 7815 693738: That’s why I said in my document that CAT1’s wasn’t the most pressing issue, but I might have been wrong if people think that it is pilots main motivation for doing comps.
+11.11.2025, 11:01 - Sopot - Meet Director: Malin, you are correct about the need to separate the groups. But if we go this way - we have to do it first with men/women and then with lightweight/heavyweight
+11.11.2025, 11:02 - +44 7815 693738: Men and women are already split. That can stay unchanged.
+11.11.2025, 11:02 - Sopot - Meet Director: Luc, light pilots will do it anyway because they don't like how smallest gliders fly (handlingwise)
+11.11.2025, 11:02 - Sopot - Meet Director: Absolutely not
+11.11.2025, 11:03 - Sopot - Meet Director: There is Overall and Female
+11.11.2025, 11:03 - Sopot - Meet Director: A woman can get 2 medals
+11.11.2025, 11:03 - Sopot - Meet Director: A man cannot get 2 medals regardless of how good he is
+11.11.2025, 11:06 - Sopot - Meet Director: So this means that now women have more opportunities than men.
+11.11.2025, 11:06 - Sopot - Meet Director: But we are Ok with this
+11.11.2025, 11:06 - Sopot - Meet Director: It's acceptable
+11.11.2025, 11:13 - +386 31 404 688: I don't know if it is acceptable. But we accept it 😊
+11.11.2025, 11:14 - Sopot - Meet Director: I personally am Ok if, let's say we have a LW category, and a small chinese girl wins a competition - she goes home with 3 medals
+11.11.2025, 11:14 - +44 7815 693738: What are you suggesting then?
+11.11.2025, 11:16 - Sopot - Meet Director: I don't think we have reached the stage of the development to separate women from men <Ta wiadomość była edytowana>
+11.11.2025, 11:16 - Sopot - Meet Director: Maybe in the distant future...
+11.11.2025, 11:16 - Sopot - Meet Director: But not now
+11.11.2025, 11:31 - ‎+33 6 86 14 00 10 dołączył(a) ze społeczności
+11.11.2025, 11:31 - +33 6 86 14 00 10: Bonjour l'administrateur, pourriez-vous me communiquer le lien du groupe ? Merci.
+11.11.2025, 11:32 - +44 7446 445157: Is it possible to analyse the weight data we have to see how the ballast issue exists across glider classes and comp categories.
+
+My perception is that 'the ballast issue' is narrowly contained to those pilots currently (& aspiring to) flying CCCs in Cat 1s.  I cannot think of any EN-C and below pilots that significantly ballast up.
+
+Why is this relevant?  If the data supports the hypothesis, the ballast issue has to solved for Cat1s first and foremost.
