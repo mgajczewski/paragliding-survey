@@ -3,6 +3,7 @@
 ## Introduction
 Thank you for participating in this crucial survey.  
 We are gathering data from pilots and designers to find a widely supported solution to the issues of excessive ballast, safety, and fairness in paragliding competitions.  
+// TODO: not only pilots and designers but people involved in a paragliding world
 
 Your anonymous responses will help guide future rule-making and ensure the sport remains safe, fair, and inclusive.  
 This survey should take approximately **10–15 minutes**.
@@ -24,6 +25,7 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] Other: __________  
 
 **2. What is your naked body weight?**  
+// TODO: only for pilots
 - [ ] < 50 kg (110 lbs)  
 - [ ] 50–59 kg (110–130 lbs)  
 - [ ] 60–69 kg (131–152 lbs)  
@@ -33,6 +35,8 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 100+ kg (219+ lbs)  
 
 **3. What is your typical competition all-up weight (AUW) in flight?**  
+// TODO: typical take-off weight
+// if more setups, pick the one for highest-ranked competition
 - [ ] <= 75 kg  
 - [ ] 76–85 kg  
 - [ ] 86–95 kg  
@@ -43,7 +47,7 @@ This information is essential for analyzing how different groups perceive the is
 
 **4. How much ballast (lead, water, etc.) do you typically carry in a competition?**  
 - [ ] 0 kg (ballast-free)  
-- [ ] 1–5 kg  
+- [ ] 1–5 kg  // 1-3 kg, then 4-6, then 7 - 10 etc.
 - [ ] 6–10 kg  
 - [ ] 11–15 kg  
 - [ ] 16–20 kg  
@@ -52,27 +56,35 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 31+ kg  
 
 **5. What is the maximum certified take-off weight and category (e.g. EN-C, CCC) of your primary competition wing?**  
+// TODO: if more setups, pick the one for highest-ranked competition
 - Maximum certified takeoff weight (kg): _____  
 - Category: __________  
 
 ---
 
 ## Section 2: Problem Perception
-How do you see the current situation?
+How do you see the current situation?  
+// TODO: I'm not sure if to ask about perception or is it a problem for you or both  
 
 **6. On a scale of 1 to 5, how significant is the safety risk associated with pilots carrying large amounts of ballast?**  
+// TODO: what does significant mean? what does large amount of ballast mean?
 - (1) Not significant  
 - (2) Slightly significant  
 - (3) Moderately significant  
 - (4) Very significant  
 - (5) Extremely significant (a critical issue)  
 
+// TODO another question how it affects you
+
 **7. On a scale of 1 to 5, how significant is the competitive fairness issue related to pilot weight and ballasting?**  
+// TODO: what does significant mean?
 - (1) Not an issue  
 - (2) Slight issue  
 - (3) Moderate issue  
 - (4) Significant issue  
 - (5) Extremely unfair (a critical issue)  
+
+// TODO another question how it affects you
 
 **8. Which statement best reflects your personal philosophy?**  
 - [ ] Paragliding competition should be about pilot skill and decision-making; rules should actively equalize advantages/disadvantages from body weight.  
@@ -85,13 +97,14 @@ How do you see the current situation?
 We will now ask your opinion on the main solutions proposed.
 
 ### Solution 1: "Equalizers" (Noodles)
+// TODO: remove "Noodels" - it's periorative
 *(As proposed by Luc Armant – adding drag elements to larger wings to equalize glide performance across sizes)*
 
 **9. How familiar are you with the "Equalizers" proposal?**  
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
-- [ ] Familiar (understand the concept)  
-- [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/equalizers))  
+- [ ] Familiar (understand the concept)  // TODO: -> ballast/equalizers, faq etc.
+- [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/equalizers))  // TODO: I know differences lift between sizes, drag distribution in a paragliding aircraft and resistance of equalizers
 
 **10. Please rate your overall support for testing/implementing "Equalizers":**  
 - [ ] Strongly Oppose  
@@ -100,11 +113,14 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Support  
 - [ ] Strongly Support  
 
+// TODO: where they should be implemented first? where they shouldn't be implemented at all?
+
 **11. What are your biggest concerns about "Equalizers"? (Check all that apply)**  
 - [ ] Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers (answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
-- [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
-- [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
+- [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  // TODO: distinghuish between less-experienced and experienced pilots
+- [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  // TODO: add option about Unfirness: it's hard to decide if the introduced drag is too little or too big
+// TODO: add option that heavier guys usually fly with bigger harnesses that already induce more drag
 - [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb).  
 - [ ] Ineffective: Won't stop light pilots from ballasting up to M-sizes for better "comfort" or "handling."  
 - [ ] Market: Won't actually incentivize manufacturers to build better small wings.  
@@ -122,6 +138,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 2: Weight Classes
+// TODO: Actually a solution presented by Daniel Dimov introduces 1 additional lightweight category and keeping the overall winner
 *(Creating 4–6 distinct weight classes, e.g., "70–80kg," "80–90kg." This would likely replace a single "Overall" winner with winners for each class.)*
 
 **13. Please rate your overall support for implementing "Weight Classes":**  
@@ -152,6 +169,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 3: Strict Ballast Limitations
+// TODO: Solution proposed by CIVL
 *(A simple rule, e.g., "Max 10kg of ballast allowed" or "Ballast cannot exceed 15% of body weight.")*
 
 **16. Please rate your overall support for implementing "Strict Ballast Limitations":**  
@@ -177,6 +195,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 4: MRT (Multiple Radius Turnpoints)
+// TODO: Solution proposed by Bruce Goldsmith
 *(A scoring adjustment using turnpoint radius modifications based on the pilot's all-up weight, as described on [gagglereport.org](https://gagglereport.org/node/45).)*
 
 **19. How familiar are you with the "MRT" proposal?**  
@@ -217,6 +236,8 @@ We will now ask your opinion on the main solutions proposed.
 - __ MRT (Multiple Radius Turnpoints scoring)  
 - __ Separate "Lightweight" Class (e.g., <95kg, like the "Reynolds" class, but "Overall" winner still exists)  
 - __ No Change (Status Quo)  
+
+// TODO: distinguish between CAT1 and CAT2
 
 **24. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**  
 - [ ] The harness safety issue is more urgent than the ballast issue and should be fixed first.  
