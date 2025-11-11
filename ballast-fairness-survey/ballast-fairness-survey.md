@@ -134,6 +134,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Small Categories: Some classes might not have enough pilots to be competitive.  
 - [ ] Enforcement: Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).  
 - [ ] Team/Nation: Complicates FAI-1 team selection and scoring.  
+- [ ] WPRS Ranking Fragmentation: Requires separate WPRS rankings per weight class, complicating comparability and disrupting points continuity when pilots move between classes.  
 - [ ] Other: __________  
 
 **15. What do you see as the biggest benefits of "Weight Classes"? (Check all that apply)**  
