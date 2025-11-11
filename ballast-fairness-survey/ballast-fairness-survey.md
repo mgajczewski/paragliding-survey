@@ -19,6 +19,7 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] Paraglider Designer / Test Pilot  
 - [ ] Manufacturer Representative  
 - [ ] Competition Organizer  
+- [ ] Institutional Role (NAC, Nat. Fed., CIVL, etc.)  
 - [ ] Other: __________  
 
 **2. What is your naked body weight?**  
