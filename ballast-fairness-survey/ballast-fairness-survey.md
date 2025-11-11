@@ -100,8 +100,9 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **11. What are your biggest concerns about "Equalizers"? (Check all that apply)**  
-- [ ] Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers.  
-- [ ] Installation: Pilots might install them incorrectly, creating a safety risk.  
+- [ ] Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers (answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
+- [ ] Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
+- [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
 - [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
 - [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb).  
 - [ ] Ineffective: Won't stop light pilots from ballasting up to M-sizes for better "comfort" or "handling."  
