@@ -46,7 +46,9 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 6–10 kg  
 - [ ] 11–15 kg  
 - [ ] 16–20 kg  
-- [ ] 21+ kg  
+- [ ] 21–25 kg  
+- [ ] 26–30 kg  
+- [ ] 31+ kg  
 
 **5. What is the maximum certified take-off weight and category (e.g. EN-C, CCC) of your primary competition wing?**  
 - Maximum certified takeoff weight (kg): _____  
