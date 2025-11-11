@@ -32,13 +32,13 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 100+ kg (219+ lbs)  
 
 **3. What is your typical competition all-up weight (AUW) in flight?**  
-- [ ] < 75 kg  
-- [ ] 75–84 kg  
-- [ ] 85–94 kg  
-- [ ] 95–104 kg  
-- [ ] 105–114 kg  
-- [ ] 115–124 kg  
-- [ ] 125+ kg  
+- [ ] <= 75 kg  
+- [ ] 76–85 kg  
+- [ ] 86–95 kg  
+- [ ] 96–105 kg  
+- [ ] 106–115 kg  
+- [ ] 116–127 kg  
+- [ ] 128+ kg  
 
 **4. How much ballast (lead, water, etc.) do you typically carry in a competition?**  
 - [ ] 0 kg (ballast-free)  
