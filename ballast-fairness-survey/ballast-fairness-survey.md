@@ -12,10 +12,11 @@ This survey should take approximately **10–15 minutes**.
 ## Section 1: About You (Demographics)
 This information is essential for analyzing how different groups perceive the issues.
 
-**1. What is your primary role in paragliding?**  
-- [ ] Competition Pilot (Cat 1 / PWC)  
+**1. What are your current roles in paragliding? (select all that apply)**  
+- [ ] Competition Pilot (Cat 1)
+- [ ] Competition Pilot (PWC)  
 - [ ] Competition Pilot (Cat 2 / National League)  
-- [ ] Recreational / XC Pilot (non-competition)  
+- [ ] Recreational / XC Pilot (not competing regularly)  
 - [ ] Paraglider Designer / Test Pilot  
 - [ ] Manufacturer Representative  
 - [ ] Competition Organizer  
