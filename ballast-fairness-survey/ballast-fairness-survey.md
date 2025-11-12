@@ -117,6 +117,8 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Levels the field: Makes performance more equal across wing sizes.
 - [ ] Reduces ballast: Reduces the incentive for S/M pilots to ballast up to M/L sizes.
 - [ ] Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.
+- [ ] Promotes micro sizes: Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
+- [ ] Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
 - [ ] Targeted solution: Directly addresses the performance gap without complex rule changes.
 - [ ] Other: __________
