@@ -147,7 +147,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Insufficient Incentive: The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.
 - [ ] Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
 - [ ] Community Fragmentation: Risks splitting the pilot community.
-- [ ] Diluted Competition: Could create a less competitive field in the new class.
+- [ ] Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
 - [ ] Other: __________
 
 **16. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
@@ -176,7 +176,7 @@ We will now ask your opinion on the main solutions proposed.
 **18. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] Loses "Overall" Winner: Destroys the prestige and simplicity of having one overall champion.
 - [ ] Community Fragmentation: Risks splitting the pilot community into separate groups.
-- [ ] Diluted Competition: Could lead to small, uncompetitive fields in some classes.
+- [ ] Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
 - [ ] Devalues Titles: Having many champions reduces the value of each title.
 - [ ] Logistics: Too complicated to manage (e.g., separate starts, scoring, prizes).
 - [ ] Team Scoring: Complicates FAI-1 team selection and scoring.
