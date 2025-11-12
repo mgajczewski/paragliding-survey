@@ -91,7 +91,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
-- [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/equalizers))  
+- [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/ballast/equalizers))  
 
 **10. Please rate your overall support for testing/implementing "Equalizers":**  
 - [ ] Strongly Oppose  
@@ -177,13 +177,13 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 4: MRT (Multiple Radius Turnpoints)
-*(A scoring adjustment using turnpoint radius modifications based on the pilot's all-up weight, as described on [gagglereport.org](https://gagglereport.org/node/45).)*
+*(A scoring adjustment using turnpoint radius modifications based on the pilot's all-up weight, as described on [gagglereport.org](https://gagglereport.org/ballast/mrt).)*
 
 **19. How familiar are you with the "MRT" proposal?**  
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
-- [ ] Very familiar (seen [Burce Goldsmith's lecture](https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/node/45))  
+- [ ] Very familiar (seen [Burce Goldsmith's lecture](https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/ballast/mrt))  
 
 **20. Please rate your overall support for testing/implementing "MRT":**  
 - [ ] Strongly Oppose  
