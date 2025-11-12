@@ -237,6 +237,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Too Complex: The formula is opaque, and pilots won't understand how they are being scored.  
 - [ ] Wrong Focus: Moves the sport away from racing "against each other" (which pilots enjoy).  
 - [ ] Ineffective: A scoring "fix" doesn't solve the physical problem of pilots carrying dangerous ballast.  
+- [ ] Task Setter Dependency: Fairness heavily depends on the skill of the task committee to design appropriate routes.
 - [ ] Other: __________  
 
 **26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**  
