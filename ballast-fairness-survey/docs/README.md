@@ -29,7 +29,7 @@ This folder contains the source material and aggregated resources that will be u
     - [Multi radius turnpoint](https://gagglereport.org/node/45)
   - [Gathered weight data](https://gagglereport.org/pilots/weight-data)
 
-- **Discussion backup (WhatsApp)**: A backup of the “Ballast free talks” WhatsApp group discussion is included here for reference (exported chat). This helps preserve context and topics discussed in the group.
+- **Discussion backup (WhatsApp)**: A backup of the “Ballast free talks” WhatsApp group discussion split into daily files can be found in the `discussions` folder. This helps preserve context and topics discussed in the group.
 
 - **PDF documents**: PDFs shared by participants (mainly posted in the WhatsApp group) are archived here for offline reference. They were converted into Markdown files.
 

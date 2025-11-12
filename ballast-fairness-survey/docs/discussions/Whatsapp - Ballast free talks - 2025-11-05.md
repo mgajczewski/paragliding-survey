@@ -1,0 +1,59 @@
+05.11.2025, 00:51 - +1 (510) 299-3701: I polled 150 US comp pilots on the question, “Has the existence of lightweight (Reynolds) class in comps affected your decision on which size glider to buy?”
+
+Out of 19 votes, 100% were “No”.
+05.11.2025, 08:06 - +41 78 870 02 30: Currently, there is zero upside for pilots to fly smaller wings or carry less ballast — in fact, we are actively forcing pilots to ballast up. Introducing a dedicated Cat 1 title would immediately change that incentive and drive meaningful innovation.
+
+A refinement of WPRS will support this process, but changes should be phased in thoughtfully. An incremental approach ensures we retain pilot participation and organizer capacity. A radical overhaul risks losing both institutional and pilot support, which would ultimately stall progress.
+
+Meanwhile, enforcing equalizers based on non-peer-reviewed, unstable data — and not grounded in real-world flight dynamics — introduces uncertainty and bias. It treats the symptoms rather than addressing the underlying issue.
+05.11.2025, 08:55 - +33 6 41 96 06 33: There is already a pilot quality issue in CAT 1 events. Having more categories will worsen this.
+Regarding equalizers, if there is not enough data and it needs to be peer reviewed, let’s test it and review it then.
+05.11.2025, 09:17 - +43 664 75129998: @⁨~R⁩ sorry bro, who are you with that Pilatus view?
+05.11.2025, 09:42 - +41 78 870 02 30: Well spotted Rigi and Pilatus, Pal :)
+this is Reza
+05.11.2025, 14:11 - +54 9 11 4417-7923: <Pominięto multimedia>
+05.11.2025, 14:12 - +54 9 11 4417-7923: I did not include any of the WPRS concerns in this document
+05.11.2025, 16:28 - Julien Garcia: This is a message from CIVL president : The CIVL Bureau Position on the topic of extreme amounts ballast.
+
+In 2019, at the request of some lightweight pilots, a proposal was made and approved to remove the maximum ballast limit that was in place. The rationale was that light pilots were at a disadvantage since larger wings are commonly thought to perform better than smaller wings. Previously any pilot was allowed to carry 33kg of ballast beyond the weight of their body and clothing, or as much ballast as was needed to get them into the range of a wing whose high end of the weight range was 95kg. Currently the only rule is that a pilot must fly within their wing’s certified weight range. 
+The result of this is that we now have pilots carrying extreme amounts of ballast, some carrying more than their own body weight in ballast. Pilots carrying this much extra weight often have difficulty launching and reacting to collapses during the launch process. These pilots are also subject to much higher kinetic energy on a hard landing as well. Many top pilots with lower body weights have left the sport due to the increased risk and difficulties associated with extreme ballasting.
+The CIVL Bureau has consulted with the FAI Medical Commission, and they confirm that there is an obvious increase in risk associated with carrying large amounts of ballast, especially on the body, as many pilots are now flying with weight vests. 
+We have many pilots asking for a solution to this situation. Many pilots want to be able to compete on as level a playing field as possible, but they do not want to deal with the additional risk and difficulties associated with carrying extreme ballast. 
+CIVL, both the delegate community and the Bureau, is tasked with putting reasonable safety requirements in where possible to address known risks. This is why 2 reserves are required, why helmets are required, why only certified wings may be flown, etc. Therefore, while some pilots are of the opinion that we should simply leave the issue of whether to carry potentially dangerous amounts of ballast up to the individual pilot, doing so could be seen as a failure to address a known risk. The question of whether excessive ballast is a risk we should leave completely up to the pilot is a legitimate question to debate. The topic of whether excessive amounts of ballast increases the risk of injury for pilots is not. Basic physics and biology, backed by medical opinions, answers that.
+2 years ago CIVL introduced a proposal to introduce one or more “lightweight” classes to go alongside the existing “overall” and “women” classes. This proposal was rejected by the delegates. Over the past 2 years CIVL has been supportive of the concept of “Equalizers” that were introduced by Luc Armant. Adoption of equalizers has been slow, as many pilots are unwilling to support the concept. Bruce Goldsmith has a proposal for another solution (MRT) to the problem that he is advocating. 
+The CIVL Bureau officially does not have a position on which of these solutions are best (although as individuals they do have their opinions). However the Bureau is firmly behind the idea that the “do nothing” option should be taken off the table. Ideally, the delegates will propose some variant of the solutions mentioned above so that pilots no longer feel it is necessary to carry excess ballast to fairly compete. But, in case none of those proposals move forward or pass, the Bureau will submit a proposal to simply re-instate the limitation on ballast that was previously in place.
+There are some who say that a ballast limit is not enforceable and that pilots will simply cheat to get around it. First, if true, this is a sad indictment of the ethics and sportsmanship of our pilots and we should not accept this as sporting behavior. However, the Bureau also feels that adequate testing measures could be put in place to catch attempts to circumvent the rules. Maybe it wouldn’t catch every instance, but if the penalties are appropriately severe, they believe that cheating could largely be prevented.
+
+In summary, the CIVL Bureau does not believe that re-introducing the ballast limit by itself is the best way forward. We simply believe that it is better than ignoring the clear safety issue associated with pilots carrying excessive ballast.
+05.11.2025, 16:48 - +49 1573 4866279: I think this has some fair points and it's good to have some pressure to get to an agreement. The old ballast limit however would just punish the lightest pilots. e.g. I would be forced to fly my wing (already on an -95kg CCC) below whats optimal in most conditions, so I probably would move back down to a smaller D <Ta wiadomość była edytowana>
+05.11.2025, 16:52 - +351 960 380 396: So, we are willing to enforce rules to improve safety but not willing to change our own approach to the same safety ? 🤔
+05.11.2025, 16:54 - +49 1573 4866279: true, but if we start seeing every thing they do as some divisionary tactic we won't get anywhere
+05.11.2025, 17:19 - ‎+41 77 434 09 36 dołączył(a) ze społeczności
+05.11.2025, 17:43 - Mateusz Gajczewski: Usunąłeś(-ęłaś) tę wiadomość
+05.11.2025, 18:27 - +351 914 026 612: ...."2 years ago CIVL introduced a proposal to introduce one or more “lightweight” classes to go alongside the existing “overall” and “women” classes. This proposal was rejected by the delegates."...    Why not propose it again? What was thought two years ago is certainly not what is thought now.
+05.11.2025, 18:34 - Julien Garcia: This proposal was CAT1 only. Less than 95 KG only. With the current selection process in CAT 1, France voted against because for us it made no sense at all.
+05.11.2025, 18:38 - Julien Garcia: The cons we saw at time :
+- No problem fixed for light pilots. (still need to ballast up to 95Kg).
+- No problem fixed outside of CAT1.
+- Not much probability to get at least 6 pilots below 95 KG on such categories (medal starts at over 6 participants by FAI law).
+05.11.2025, 18:47 - ‎+33 7 69 27 34 84 dołączył(a) ze społeczności
+05.11.2025, 20:24 - +1 (510) 299-3701: Seems like either it doesn’t catch on and then it just becomes a non-issue or it does catch on and might have a good influence.
+
+But of course it’s much less comprehensive than equalizers.
+
+Update to “I polled 150 US comp pilots on the question, “Has the existence of lightweight (Reynolds) class in comps affected your decision on which size glider to buy?””
+
+Out of 25 votes, 1 was “Yes” and the rest “No”.
+05.11.2025, 20:30 - +351 965 866 874: Of course, there aren't yet wings that guarantee safety and good performance in the smaller sizes, so it's natural that nobody wants to compete in those classes. Surely, if there were smaller wings with performance equal to the larger ones, there would be pilots wanting to use smaller wings. Therefore, I think that poll doesn't make sense under the current conditions.
+05.11.2025, 20:32 - +44 7815 693738: The problem with Reynolds was that there was still an overall that everyone was chasing so no one took it seriously.
+05.11.2025, 20:35 - +52 722 304 7381: Hello, I am sorry I haven´t been able to get involved before, I was dealing with personal and work related issues. Could not be at the meeting but will see the recording and read carefully all the messages and will share my opinion. I am very interested on this matter as I weight only 49kg and this is a real problem to me.
+05.11.2025, 21:42 - +1 (970) 708-7408: I think this poll is somewhat flawed as I've seen both 90 and 95kg used for Reynolds - ranges that don't have a great reputation for handling in CCC irrespective  of performance deficiencies....it hasn't been used in usopen since 2023 and that year it had zero ccc in Reynolds. It was a couple zenos and lightweight d's but mostly sports class wings.
+05.11.2025, 21:43 - +1 (724) 984-1982: I personally feel that putting a ballast limit would absolutely crush the competition options for light pilots. I weight around 65kg and like to clip in at 103kg. That’s around a 38kg bag and it is honestly fine for me launching and landing as I am fairly strong.  If I had to fly a xs Enzo I would probably be at more risk in air due to glider dynamics that even having noodle equalizers wouldn’t seem like a good option. I am in favor of noodle equalizers and no ballast restrictions. I will add that I have been tempted to size up to a MS for performance and I think equalizers would reduce this temptation for pilots in my scenario. <Ta wiadomość była edytowana>
+05.11.2025, 21:45 - +1 (970) 708-7408: I could be wrong, but from conversations I've had, for CCC, pilots want to fly at least the 100 or 105 for handling reasons as much as performance.  The pilots I know that ballast up to fly the 115 rather than the 105 do so more for performance.  Maybe the profile stats could give some insights to that.  Also maybe a poll could be done on gaggle report that asks pilots that ballast up to a bigger size, what size they ballast up to and differentiates the main reason they feel they do so.  If pilots are ballasting up to get a more stable glider, rather than for performance, equalizers won't fix the ballast issue, and bag weight limits will only drive ppl away from racing altogether.  If that is a major reason, only "better" XS gliders can address that.   Seems Pete is one anecdotal case of this. <Ta wiadomość była edytowana>
+05.11.2025, 21:53 - Julien Garcia: Thanks to everyone who updated their profile we will be able to answer this soon. 16% already (60+ people). This is amazing 🙏🏻
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:51 - +351 965 866 874: <Pominięto multimedia>
+05.11.2025, 22:54 - Julien Garcia: There are stuff interconnected with CAT 1 format here. Someday, we will need to have this discussion too 👍🏻
+05.11.2025, 23:18 - Dodano: ~ Paweł Chrząszcz
+05.11.2025, 23:18 - ‎+33 6 19 91 57 45 dołączył(a) ze społeczności
