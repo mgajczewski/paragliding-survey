@@ -139,8 +139,8 @@ We will now ask your opinion on the main solutions proposed.
 
 **15. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)**
 - [ ] Dilutes "Overall" Title: A separate podium could reduce the prestige of the overall winner.
-- [ ] Doesn't Fully Solve It: With only one class, very light pilots may still need significant ballast to reach the class limit.
-- [ ] WPRS Complications: Integrating a separate class into the World Pilot Ranking System could be complex.
+- [ ] Incomplete Solution: With only one class, very light pilots may still need significant ballast to reach the class limit.
+- [ ] Insufficient Incentive: The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.
 - [ ] Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
 - [ ] Other: __________
 
@@ -148,8 +148,11 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Reduces Excessive Ballast: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
 - [ ] Improves Inclusivity: Encourages more light pilots and women to participate.
 - [ ] Promotes Small Wings: Creates market demand for high-performance small gliders.
+- [ ] Additional Option: Provides another competitive option for pilots who are too light.
+- [ ] Simple to Implement: Easy to implement and test without major rule changes.
 - [ ] Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
 - [ ] Preserves "Overall" Winner: Keeps the traditional structure of a single overall champion.
+- [ ] Preserves Ranking: Keeps the "Overall" WPRS ranking and just introduces another filter.
 - [ ] Other: __________
 
 ---
@@ -165,16 +168,21 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support
 
 **18. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
-- [ ] Eliminates "Overall" Champion: The prestige of being the single best pilot is lost.
+- [ ] Loses "Overall" Winner: Destroys the prestige and simplicity of having one overall champion.
 - [ ] Fragments Competition: Could lead to small, uncompetitive fields in some classes.
-- [ ] Logistical Issues: Very difficult to manage for Cat 1 / World Championship team selection and scoring.
 - [ ] Devalues Titles: Having many champions reduces the value of each title.
+- [ ] Logistics: Too complicated to manage (e.g., separate starts, scoring, prizes).
+- [ ] Team Scoring: Complicates FAI-1 team selection and scoring.
+- [ ] Ranking Fragmentation: Requires separate WPRS rankings per weight class, complicating comparability and disrupting points continuity when pilots move between classes.
+- [ ] Enforcement: Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).
 - [ ] Other: __________
 
+
 **19. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
-- [ ] Most Effective Ballast Solution: Gives all pilots a class they can fly in with little to no ballast.
+- [ ] Reduces Excessive Ballast: Gives all pilots a class they can fly in with little to no ballast.
 - [ ] Maximizes Fairness: Pilots only compete against others with a similar all-up weight.
 - [ ] Promotes Innovation: Creates a market for high-performance wings in all sizes.
+- [ ] Proven Concept: Works well in many other sports (e.g., boxing, sailing).
 - [ ] Other: __________
 
 ---
