@@ -31,11 +31,11 @@ This folder contains the source material and aggregated resources that will be u
 
 - **Discussion backup (WhatsApp)**: A backup of the “Ballast free talks” WhatsApp group discussion is included here for reference (exported chat). This helps preserve context and topics discussed in the group.
 
-- **PDF documents**: PDFs shared by participants (mainly posted in the WhatsApp group) are archived here for offline reference.
+- **PDF documents**: PDFs shared by participants (mainly posted in the WhatsApp group) are archived here for offline reference. They were converted into Markdown files.
 
 
 ### Notes
 
-- Please keep contributions organized (links, PDFs, and discussion exports) to make it easy for others to navigate.
+- Please keep contributions organized (links, PDFs converted to Markdowns, and discussion exports) to make it easy for others to navigate.
 
 
