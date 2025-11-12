@@ -107,7 +107,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
 - [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb).  
 - [ ] Ineffective: Won't stop light pilots from ballasting up to M-sizes for better "comfort" or "handling."  
-- [ ] Market: Won't actually incentivize manufacturers to build better small wings.  
+- [ ] Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
 - [ ] Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
 - [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
