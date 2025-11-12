@@ -122,13 +122,13 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 2: Partial Weight Class (A separate "Lightweight" Category)
-*(As proposed by Daniel Dimov – adding at least one "Lightweight" category (e.g., <95kg AUW) to competitions. This is often proposed as a first step to improve inclusivity without eliminating the single overall champion. Pilots in this class would compete for both a "Lightweight" title and the traditional "Overall" title, preserving a single overall champion.)*
+*(As proposed by Daniel Dimov – adding at least one "Lightweight" category (e.g., <95kg AUW) to competitions as a first step to improve inclusivity without eliminating the single overall champion. Pilots in this class would compete for both a "Lightweight" title and the traditional "Overall" title, preserving a single overall champion.)*
 
 **13. How familiar are you with the "Partial Weight Class" proposal?**
 - [ ] Not familiar
 - [ ] Vaguely familiar (heard the name)
 - [ ] Familiar (understand the concept)
-- [ ] Very familiar (read the [GaggleReport document](https://gagglereport.org/node/22))
+- [ ] Very familiar (seen [Daniel Dimov's lecture](https://drive.google.com/file/d/19pRWjT8BSasdm8NyVDOPxrzQqD5N0oDw/view), read the [GaggleReport document](https://gagglereport.org/node/22))
 
 **14. Please rate your overall support for implementing a "Partial Weight Class":**
 - [ ] Strongly Oppose
