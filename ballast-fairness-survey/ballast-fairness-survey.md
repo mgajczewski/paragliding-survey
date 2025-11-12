@@ -181,7 +181,8 @@ We will now ask your opinion on the main solutions proposed.
 **19. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] Reduces Excessive Ballast: Gives all pilots a class they can fly in with little to no ballast.
 - [ ] Maximizes Fairness: Pilots only compete against others with a similar all-up weight.
-- [ ] Promotes Innovation: Creates a market for high-performance wings in all sizes.
+- [ ] Promotes Innovation: Creates market demand for high-performance wings across all size categories.
+- [ ] Promotes Small Wings: Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.
 - [ ] Proven Concept: Works well in many other sports (e.g., boxing, sailing).
 - [ ] Other: __________
 
