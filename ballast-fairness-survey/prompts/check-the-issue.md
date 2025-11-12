@@ -1,0 +1,2 @@
+For the previous version of the survey (/ballast-fairness-survey/ballast-fairness-survey.md), there was an issue raised.
+Use .cursor/rules/ballast-fairness-survey.mdc and assess if the provided issue is still valid or if it has been already solved.
