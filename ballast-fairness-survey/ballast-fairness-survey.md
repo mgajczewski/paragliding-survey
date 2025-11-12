@@ -113,13 +113,13 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
 - [ ] Other: __________  
 
-**12. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**  
-- [ ] Levels the field: Makes performance more equal across wing sizes.  
-- [ ] Reduces ballast: Removes the incentive for S/M pilots to ballast up to M/L sizes.  
-- [ ] Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.  
-- [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.  
-- [ ] Targeted solution: Directly addresses the performance gap without complex rule changes.  
-- [ ] Other: __________  
+**12. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
+- [ ] Levels the field: Makes performance more equal across wing sizes.
+- [ ] Reduces ballast: Reduces the incentive for S/M pilots to ballast up to M/L sizes.
+- [ ] Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.
+- [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] Targeted solution: Directly addresses the performance gap without complex rule changes.
+- [ ] Other: __________
 
 ---
 
@@ -240,11 +240,11 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Task Setter Dependency: Fairness heavily depends on the skill of the task committee to design appropriate routes.
 - [ ] Other: __________  
 
-**26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**  
-- [ ] Removes Ballast Incentive: Directly compensates for wing size performance, making ballast unnecessary.  
-- [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.  
-- [ ] No physical modification: Doesn't require adding "noodles" or new gear.  
-- [ ] Other: __________  
+**26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
+- [ ] Reduces Ballast: Directly compensates for wing size performance, making large amounts of ballast unnecessary.
+- [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] No physical modification: Doesn't require adding "noodles" or new gear.
+- [ ] Other: __________
 
 ---
 
