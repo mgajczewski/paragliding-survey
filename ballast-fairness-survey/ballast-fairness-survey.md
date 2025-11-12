@@ -115,7 +115,7 @@ We will now ask your opinion on the main solutions proposed.
 
 **12. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
 - [ ] Levels the field: Makes performance more equal across wing sizes.
-- [ ] Reduces ballast: Reduces the incentive for S/M pilots to ballast up to M/L sizes.
+- [ ] Improves Safety: Reduces the incentive for XS/S pilots to ballast up to M/L sizes.
 - [ ] Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.
 - [ ] Promotes micro sizes: Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
 - [ ] Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
@@ -151,7 +151,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Other: __________
 
 **16. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
-- [ ] Reduces Excessive Ballast: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
+- [ ] Improves Safety: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
 - [ ] Improves Inclusivity: Encourages more light pilots and women to participate.
 - [ ] Promotes Small Wings: Creates market demand for high-performance small gliders.
 - [ ] Additional Option: Provides another competitive option for pilots who are too light.
@@ -186,7 +186,7 @@ We will now ask your opinion on the main solutions proposed.
 
 
 **19. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
-- [ ] Reduces Excessive Ballast: Gives all pilots a class they can fly in with little to no ballast.
+- [ ] Improves Safety: Gives all pilots a class they can fly in with little to no ballast.
 - [ ] Maximizes Fairness: Pilots only compete against others with a similar all-up weight.
 - [ ] Promotes Innovation: Creates market demand for high-performance wings across all size categories.
 - [ ] Promotes Small Wings: Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.
@@ -214,7 +214,7 @@ We will now ask your opinion on the main solutions proposed.
 
 **22. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
 - [ ] Simple Rule: Easy to understand (if not to enforce).  
-- [ ] Directly addresses safety: Puts a hard stop on the most dangerous ballast loads.  
+- [ ] Improves Safety: Puts a hard stop on the most dangerous ballast loads.
 - [ ] Partial Incentive: May encourage some pilots to move to a smaller wing.  
 - [ ] Other: __________  
 
@@ -246,7 +246,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Other: __________  
 
 **26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
-- [ ] Reduces Ballast: Directly compensates for wing size performance, making large amounts of ballast unnecessary.
+- [ ] Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
 - [ ] No physical modification: Doesn't require adding "noodles" or new gear.
 - [ ] Other: __________
