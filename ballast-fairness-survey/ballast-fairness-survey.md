@@ -191,7 +191,7 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 4: Strict Ballast Limitations
 *(A simple rule, e.g., "Max 10kg of ballast allowed" or "Ballast cannot exceed 15% of body weight.")*
 
-**20. Please rate your overall support for implementing "Strict Ballast Limitations":**  
+**20. Please rate your overall support for implementing "Strict Ballast Limitations":**
 - [ ] Strongly Oppose  
 - [ ] Oppose  
 - [ ] Neutral / Need more info  
@@ -245,23 +245,51 @@ We will now ask your opinion on the main solutions proposed.
 
 ---
 
+### Solution 6: Hybrid System (Single & Multi-Winner Leagues)
+*(As proposed by Malin Lobb - creating two parallel competition leagues. Pilots could choose to compete in "Single Winner" events (either "open" or with "Equalizers"/"MRT") feeding a traditional Overall WPRS, OR in "Multi-Winner" events with weight classes and a separate WPRS.)*
+
+**27. Please rate your overall support for implementing this "Hybrid System":**
+*(For example, some competitions could be "Open" (status quo), some could use "Equalizers," and some could be "Weight Class" events, with pilots choosing which to attend.)*
+- [ ] Strongly Oppose
+- [ ] Oppose
+- [ ] Neutral / Need more info
+- [ ] Support
+- [ ] Strongly Support
+
+**28. What are your biggest concerns about a "Hybrid System"? (Check all that apply)**
+- [ ] Dilutes Competition: Splits the pilot pool, potentially weakening the quality of both leagues.
+- [ ] Too Complicated: Two separate ranking systems would be confusing for pilots and organizers.
+- [ ] Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.
+- [ ] Resource Intensive: Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.
+- [ ] Other: __________
+
+**29. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
+- [ ] Pilot Choice: Offers pilots the freedom to choose the competition format that suits them best.
+- [ ] Solves the Problem for Those Who Want It: Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.
+- [ ] Evolutionary Approach: Lets the community decide over time which format is more popular and successful.
+- [ ] Preserves Tradition: Keeps the "Overall" champion concept intact for those who value it.
+- [ ] Other: __________
+
+---
+
 ## Section 4: Comparative Ranking & Final Priorities
 
-**27. Please rank your preferred solutions, from 1 (Most Preferred) to 6 (Least Preferred):**  
-- __ Equalizers ("Noodles")  
-- __ Partial Weight Class (A separate "Lightweight" category or categories)  
-- __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)  
-- __ Strict Ballast Limit (Simple restriction)  
-- __ MRT (Multiple Radius Turnpoints)  
-- __ No Change (Status Quo)  
+**30. Please rank your preferred solutions, from 1 (Most Preferred) to 7 (Least Preferred):**
+- __ Equalizers ("Noodles")
+- __ Partial Weight Class (A separate "Lightweight" category or categories)
+- __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)
+- __ Strict Ballast Limit (Simple restriction)
+- __ MRT (Multiple Radius Turnpoints)
+- __ Hybrid System (Single & Multi-Winner Leagues)
+- __ No Change (Status Quo)
 
-**28. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**  
+**31. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**
 - [ ] The harness safety issue is more urgent than the ballast issue and should be fixed first.  
 - [ ] The harness safety issue is equally urgent as the ballast issue.  
 - [ ] The harness safety issue is less urgent than the ballast issue.  
 - [ ] The two issues are separate and should be addressed independently.  
 
-**29. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**  
+**32. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**
 (Open text box)
 
 ---
