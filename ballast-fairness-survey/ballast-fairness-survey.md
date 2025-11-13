@@ -60,6 +60,8 @@ This information is essential for analyzing how different groups perceive the is
 ## Section 2: Problem Perception
 How do you see the current situation?
 
+For a detailed overview, see [The Paragliding Ballast Issue on gagglereport.org](https://gagglereport.org/ballast/issue).
+
 **6. On a scale of 1 to 5, how significant is the safety risk associated with pilots carrying large amounts of ballast?**  
 - (1) Not significant  
 - (2) Slightly significant  
@@ -167,7 +169,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 3: Comprehensive Weight Classes (Multi-Winner System)
-*(This approach would create multiple weight categories, e.g., every 10kg. Each category would crown its own champion, potentially replacing the single "Overall" winner with multiple champions.)*
+*(This approach would create multiple weight categories (e.g., every 10kg), with each crowning its own champion. This would potentially replace the single "Overall" winner with multiple champions. As described on [gagglereport.org](https://gagglereport.org/ballast/weight-categories).)*
 
 **17. Please rate your overall support for implementing "Comprehensive Weight Classes":**
 - [ ] Strongly Oppose
@@ -199,7 +201,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 4: Strict Ballast Limitations
-*(A simple rule limiting ballast, e.g., "Max 10kg of ballast allowed", "Ballast cannot exceed 15% of body weight", "Total equipment, ballast, and glider must not exceed pilot weight +33kg".)*
+*(A simple rule limiting ballast (e.g., "Max 10kg," or "cannot exceed 15% of body weight"). As described on [gagglereport.org](https://gagglereport.org/ballast/weight-checks).)*
 
 **20. Please rate your overall support for implementing "Strict Ballast Limitations":**
 - [ ] Strongly Oppose  
