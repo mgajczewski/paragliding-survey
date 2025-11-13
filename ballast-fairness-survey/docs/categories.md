@@ -83,6 +83,7 @@ mindmap
         Changes Scoring (no lead points)
         Ineffective on Safety (ballast)
         Complexity (opaque formula)
+        Randomness
       Benefits
         Improves Safety (reduces ballast)
         Keeps "Overall" ranking
@@ -118,7 +119,7 @@ Here is a first draft of such higher-level categories:
 
 *   **Fairness & Equality**
     *   *Description*: How a solution impacts the level playing field for pilots of different weights.
-    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`, `Task Setter Dependency`, `Levels the playing field`, `Provides tactical equality`.
+    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`, `Task Setter Dependency`, `Levels the playing field`, `Provides tactical equality`, `Randomness`.
 
 *   **Competition Prestige & Tradition**
     *   *Description*: How a solution affects the value, structure, and tradition of competition titles and rankings.

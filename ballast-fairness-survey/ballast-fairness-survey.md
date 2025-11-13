@@ -241,7 +241,8 @@ We will now ask your opinion on the main solutions proposed.
 
 **25. What are your biggest concerns about "MRT"? (Check all that apply)**  
 - [ ] Tactical Complexity: Hard to assess your position and make tactical decisions.
-- [ ] Disrupts Gaggle Flying: Splits pilots at turnpoints and discourages flying together.
+- [ ] Randomness: Scoring becomes "random" depending on group composition and who you fly with.
+- [ ] Disrupts Gaggle Flying: Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.
 - [ ] Task Setter Dependency: Fairness relies heavily on perfect task design.
 - [ ] Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.
 - [ ] Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.
