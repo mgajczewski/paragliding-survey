@@ -231,12 +231,14 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.
 - [ ] Complicated: Creates "grey areas" (what counts as ballast vs. gear?).
 - [ ] Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
+- [ ] Discourages Participation: May push lighter pilots who feel unfairly handicapped out of top-level competition.
 - [ ] Ethics: Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.
 - [ ] Other: __________  
 
 **22. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
 - [ ] Simple Rule: Easy to understand (if not to enforce).  
 - [ ] Improves Safety: Puts a hard stop on the most dangerous ballast loads.
+- [ ] Improves Pilot Retention: May encourage top lightweight pilots who have left the sport due to safety concerns to return.
 - [ ] Partial Incentive: May encourage some pilots to move to a smaller wing.  
 - [ ] Other: __________  
 
