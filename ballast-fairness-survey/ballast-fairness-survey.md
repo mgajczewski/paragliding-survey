@@ -199,7 +199,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 4: Strict Ballast Limitations
-*(A simple rule limiting ballast, e.g., "Max 10kg of ballast allowed" "Ballast cannot exceed 15% of body weight" "Total equipment, ballast, and glider must not exceed pilot weight +33kg".)*
+*(A simple rule limiting ballast, e.g., "Max 10kg of ballast allowed", "Ballast cannot exceed 15% of body weight", "Total equipment, ballast, and glider must not exceed pilot weight +33kg".)*
 
 **20. Please rate your overall support for implementing "Strict Ballast Limitations":**
 - [ ] Strongly Oppose  
