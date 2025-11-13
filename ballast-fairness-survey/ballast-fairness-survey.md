@@ -159,6 +159,9 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
 - [ ] Community Fragmentation: Risks splitting the pilot community.
 - [ ] Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
+- [ ] Ineffectiveness: May not change behavior, as pilots may still prioritize the “Overall” title.
+- [ ] Devalues Competition: Multiple podiums may be seen as lowering the prestige of winning.
+- [ ] Unfair Scoring Dynamics: Lightweight pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
 - [ ] Other: __________
 
 **16. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
@@ -168,6 +171,9 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Additional Option: Provides another competitive option for pilots who are too light.
 - [ ] Simple to Implement: Easy to implement and test without major rule changes.
 - [ ] Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
+- [ ] Improves Pilot Motivation: Offers a tangible goal for a wider range of pilots, increasing engagement and satisfaction.
+- [ ] Positive Precedent: The model has been well-received in some competition series (e.g. SRS), where pilots are reportedly happy with the system.
+- [ ] Non-Invasive: Implemented through scoring and logistics, without requiring physical modifications to gliders or changes to race routes.
 - [ ] Preserves "Overall" Winner: Keeps the traditional structure of a single overall champion.
 - [ ] Preserves Ranking: Keeps the "Overall" WPRS ranking and just introduces another filter.
 - [ ] Other: __________
