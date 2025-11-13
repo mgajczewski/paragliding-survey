@@ -84,9 +84,14 @@ mindmap
         Ineffective on Safety (ballast)
         Complexity (opaque formula)
       Benefits
-        Improves Safety
+        Improves Safety (reduces ballast)
         Keeps "Overall" ranking
         No physical modification
+        Levels the playing field
+        Provides tactical equality
+        Enhances pilot engagement
+        Promotes XC skills
+        Leverages existing technology
     Solution 6: Hybrid System
       Concerns
         Dilutes Competition
@@ -109,11 +114,11 @@ Here is a first draft of such higher-level categories:
 
 *   **Safety**
     *   *Description*: Concerns or benefits related to pilot safety, equipment certification, and incident liability.
-    *   *Examples*: `Improves Safety`, `Safety/Certification`, `Safety/Installation`, `Safety (light pilots ballasting)`, `Safety (incomplete solution)`, `Ineffective on Safety (ballast)`, `Safety (crossing tracks)`.
+    *   *Examples*: `Improves Safety`, `Safety/Certification`, `Safety/Installation`, `Safety (light pilots ballasting)`, `Safety (incomplete solution)`, `Ineffective on Safety (ballast)`, `Safety (crossing tracks)`, `Improves Safety (reduces ballast)`.
 
 *   **Fairness & Equality**
     *   *Description*: How a solution impacts the level playing field for pilots of different weights.
-    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`, `Task Setter Dependency`.
+    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`, `Task Setter Dependency`, `Levels the playing field`, `Provides tactical equality`.
 
 *   **Competition Prestige & Tradition**
     *   *Description*: How a solution affects the value, structure, and tradition of competition titles and rankings.
@@ -121,7 +126,7 @@ Here is a first draft of such higher-level categories:
 
 *   **Implementation & Logistics**
     *   *Description*: The practical aspects of introducing and managing a solution. This includes complexity, enforcement, and resource requirements.
-    *   *Examples*: `Simple to Implement`, `Logistics`, `Enforcement`, `Resource Intensive`, `Complexity (opaque formula)`.
+    *   *Examples*: `Simple to Implement`, `Logistics`, `Enforcement`, `Resource Intensive`, `Complexity (opaque formula)`, `Leverages existing technology`.
 
 *   **Market & Technical Innovation**
     *   *Description*: The effect of a solution on glider development, market incentives for manufacturers, and overall technological progress.
@@ -129,4 +134,4 @@ Here is a first draft of such higher-level categories:
 
 *   **Community & Pilot Experience**
     *   *Description*: The impact on the pilot community, social dynamics, and the overall experience of racing.
-    *   *Examples*: `Community Fragmentation`, `Pilot Choice`, `Tactical Complexity`, `Disrupts Gaggle Flying`, `Spectator Unfriendly`.
+    *   *Examples*: `Community Fragmentation`, `Pilot Choice`, `Tactical Complexity`, `Disrupts Gaggle Flying`, `Spectator Unfriendly`, `Enhances pilot engagement`, `Promotes XC skills`.
