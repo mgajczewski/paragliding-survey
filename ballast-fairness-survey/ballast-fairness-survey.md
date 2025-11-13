@@ -105,13 +105,14 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
 - [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
-- [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb).  
-- [ ] Ineffective: Won't stop light pilots from ballasting up to M-sizes for better "comfort" or "handling."  
+- [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb), leaving a performance gap.
+- [ ] Safety: Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.
 - [ ] Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
 - [ ] Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
 - [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
 - [ ] Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
+- [ ] Logistics: Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.
 - [ ] Other: __________  
 
 **12. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
@@ -121,7 +122,8 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Promotes micro sizes: Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
 - [ ] Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
-- [ ] Targeted solution: Directly addresses the performance gap without complex rule changes.
+- [ ] Fairness: Directly addresses the performance gap between wing sizes.
+- [ ] Simple to Implement: Avoids complex changes to rules or scoring systems.
 - [ ] Other: __________
 
 ---
@@ -144,7 +146,7 @@ We will now ask your opinion on the main solutions proposed.
 
 **15. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)**
 - [ ] Dilutes "Overall" Title: A separate podium could reduce the prestige of the overall winner.
-- [ ] Incomplete Solution: With only one class, very light pilots may still need significant ballast to reach the class limit.
+- [ ] Safety: An incomplete solution, as very light pilots may still need unsafe amounts of ballast.
 - [ ] Insufficient Incentive: The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.
 - [ ] Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
 - [ ] Community Fragmentation: Risks splitting the pilot community.
@@ -209,7 +211,7 @@ We will now ask your opinion on the main solutions proposed.
 **21. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)**  
 - [ ] Enforcement: Extremely difficult to enforce; pilots will hide ballast (lead in shoes, drinking water, heavy gear).  
 - [ ] Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
-- [ ] Doesn't solve it: Doesn't fix the reason pilots ballast (wing performance disparity). L-size pilots will still have an advantage.  
+- [ ] Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.
 - [ ] Complicated: Creates "grey areas" (what counts as ballast vs. gear?).  
 - [ ] Other: __________  
 
@@ -242,7 +244,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Safety: May create "unexpected turns in a large group."  
 - [ ] Too Complex: The formula is opaque, and pilots won't understand how they are being scored.  
 - [ ] Wrong Focus: Moves the sport away from racing "against each other" (which pilots enjoy).  
-- [ ] Ineffective: A scoring "fix" doesn't solve the physical problem of pilots carrying dangerous ballast.  
+- [ ] Safety: A scoring "fix" doesn't solve the physical safety problem of pilots carrying dangerous ballast.
 - [ ] Task Setter Dependency: Fairness heavily depends on the skill of the task committee to design appropriate routes.
 - [ ] Other: __________  
 
