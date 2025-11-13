@@ -193,12 +193,14 @@ We will now ask your opinion on the main solutions proposed.
 **18. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] Loses "Overall" Winner: Destroys the prestige and simplicity of having one overall champion.
 - [ ] Community Fragmentation: Risks splitting the pilot community into separate groups.
+- [ ] Complicates Women's Category: Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.
 - [ ] Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
 - [ ] Devalues Titles: Having many champions reduces the value of each title.
 - [ ] Logistics: Too complicated to manage (e.g., separate starts, scoring, prizes).
 - [ ] Team Scoring: Complicates FAI-1 team selection and scoring.
-- [ ] Ranking Fragmentation: Requires separate WPRS rankings per weight class, complicating comparability and disrupting points continuity when pilots move between classes.
+- [ ] Ranking Fragmentation: Requires a major WPRS overhaul. Scoring classes as separate events would yield low points, devaluing titles and complicating pilot comparisons.
 - [ ] Enforcement: Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).
+- [ ] Unfair Scoring Dynamics: Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
 - [ ] Other: __________
 
 
@@ -208,6 +210,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Promotes Innovation: Creates market demand for high-performance wings across all size categories.
 - [ ] Promotes Small Wings: Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.
 - [ ] Proven Concept: Works well in many other sports (e.g., boxing, sailing).
+- [ ] Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
 - [ ] Other: __________
 
 ---
