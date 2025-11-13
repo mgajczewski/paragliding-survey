@@ -265,11 +265,14 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Randomness: Scoring becomes "random" depending on group composition and who you fly with.
 - [ ] Disrupts Gaggle Flying: Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.
 - [ ] Task Setter Dependency: Fairness relies heavily on perfect task design.
+- [ ] Task Design Limitations: Relies on specific task design (e.g., cannot be used on straight-to-goal tasks, or in the first/last 10km of a race) and requires specially trained task setters.
 - [ ] Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.
 - [ ] Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.
 - [ ] Changes Scoring: Works best without leading points, a fundamental change.
 - [ ] Ineffective on Safety: Doesn't solve the physical problem of dangerous ballast.
 - [ ] Complexity: Route-generation formula is opaque and hard for pilots to understand.
+- [ ] Unfair Turnpoint Placement: Fairness can be compromised if a turnpoint is placed in a known thermal, nullifying the advantage for lighter pilots.
+- [ ] Devalues Titles: It could diminish the prestige of a World or Continental Champion title.
 - [ ] Other: __________  
 
 **26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
@@ -282,6 +285,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Promotes XC skills: Shifts focus from pure gaggle racing to individual pilot skills against the elements.
 - [ ] Modernizes Scoring: Removes the need for controversial leading points, which are seen to favor heavier pilots.
 - [ ] Leverages existing technology: Supported by current scoring software, making it easier to implement.
+- [ ] Good for other classes: Can be adapted to help lower-performance classes (e.g., Sport Class) to fly more of the task and be more competitive.
 - [ ] Other: __________
 
 ---
