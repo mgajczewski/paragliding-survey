@@ -224,7 +224,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 5: MRT (Multiple Radius Turnpoints)
-*(A scoring adjustment using turnpoint radius modifications based on the pilot's all-up weight, as described on [gagglereport.org](https://gagglereport.org/ballast/mrt).)*
+*(A route-based handicap system where pilots have different turnpoint radii based on their all-up weight. Heavier pilots fly a longer route, equalizing the task in real-time rather than through post-task scoring adjustments. As described on [gagglereport.org](https://gagglereport.org/ballast/mrt).)*
 
 **23. How familiar are you with the "MRT" proposal?**  
 - [ ] Not familiar  
@@ -254,6 +254,12 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
 - [ ] No physical modification: Doesn't require adding "noodles" or new gear.
+- [ ] Levels the playing field: Makes performance more equal across different pilot weights.
+- [ ] Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
+- [ ] Enhances pilot engagement: Makes racing more motivating and enjoyable for a wider range of pilots.
+- [ ] Promotes XC skills: Shifts focus from pure gaggle racing to individual pilot skills against the elements.
+- [ ] Modernizes Scoring: Removes the need for controversial leading points, which are seen to favor heavier pilots.
+- [ ] Leverages existing technology: Supported by current scoring software, making it easier to implement.
 - [ ] Other: __________
 
 ---
