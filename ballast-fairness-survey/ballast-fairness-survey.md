@@ -307,6 +307,9 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Too Complicated: Two separate ranking systems would be confusing for pilots and organizers.
 - [ ] Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.
 - [ ] Resource Intensive: Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.
+- [ ] Ineffective: The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.
+- [ ] Ranking Devaluation: Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.
+- [ ] Organizer Reluctance: Competition organizers may be unwilling to manage the complexity of two parallel systems, limiting pilot choice.
 - [ ] Other: __________
 
 **29. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
