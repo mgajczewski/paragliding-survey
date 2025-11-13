@@ -240,12 +240,14 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **25. What are your biggest concerns about "MRT"? (Check all that apply)**  
-- [ ] Randomness: Interferes with gaggle flying; scoring becomes "random" depending on group composition.  
-- [ ] Safety: May create "unexpected turns in a large group."  
-- [ ] Too Complex: The formula is opaque, and pilots won't understand how they are being scored.  
-- [ ] Wrong Focus: Moves the sport away from racing "against each other" (which pilots enjoy).  
-- [ ] Safety: A scoring "fix" doesn't solve the physical safety problem of pilots carrying dangerous ballast.
-- [ ] Task Setter Dependency: Fairness heavily depends on the skill of the task committee to design appropriate routes.
+- [ ] Tactical Complexity: Hard to assess your position and make tactical decisions.
+- [ ] Disrupts Gaggle Flying: Splits pilots at turnpoints and discourages flying together.
+- [ ] Task Setter Dependency: Fairness relies heavily on perfect task design.
+- [ ] Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.
+- [ ] Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.
+- [ ] Changes Scoring: Works best without leading points, a fundamental change.
+- [ ] Ineffective on Safety: Doesn't solve the physical problem of dangerous ballast.
+- [ ] Complexity: Route-generation formula is opaque and hard for pilots to understand.
 - [ ] Other: __________  
 
 **26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**

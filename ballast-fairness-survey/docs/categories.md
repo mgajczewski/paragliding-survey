@@ -75,12 +75,14 @@ mindmap
         Partial Incentive
     Solution 5: MRT
       Concerns
-        Randomness
-        Safety
-        Too Complex
-        Wrong Focus
-        Safety (doesn't solve ballast issue)
+        Tactical Complexity
+        Disrupts Gaggle Flying
         Task Setter Dependency
+        Safety (crossing tracks)
+        Spectator Unfriendly
+        Changes Scoring (no lead points)
+        Ineffective on Safety (ballast)
+        Complexity (opaque formula)
       Benefits
         Improves Safety
         Keeps "Overall" ranking
@@ -107,19 +109,19 @@ Here is a first draft of such higher-level categories:
 
 *   **Safety**
     *   *Description*: Concerns or benefits related to pilot safety, equipment certification, and incident liability.
-    *   *Examples*: `Improves Safety`, `Safety/Certification`, `Safety/Installation`, `Safety (light pilots ballasting)`, `Safety (incomplete solution)`, `Safety (doesn't solve ballast issue)`.
+    *   *Examples*: `Improves Safety`, `Safety/Certification`, `Safety/Installation`, `Safety (light pilots ballasting)`, `Safety (incomplete solution)`, `Ineffective on Safety (ballast)`, `Safety (crossing tracks)`.
 
 *   **Fairness & Equality**
     *   *Description*: How a solution impacts the level playing field for pilots of different weights.
-    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Randomness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`.
+    *   *Examples*: `Levels the field`, `Maximizes Fairness`, `Unfairness`, `Unfairness (performance gap)`, `Unfairness (doesn't solve disparity)`, `Fairness (addresses performance gap)`, `Task Setter Dependency`.
 
 *   **Competition Prestige & Tradition**
     *   *Description*: How a solution affects the value, structure, and tradition of competition titles and rankings.
-    *   *Examples*: `Keeps "Overall" ranking`, `Dilutes "Overall" Title`, `Devalues Titles`, `Preserves Tradition`.
+    *   *Examples*: `Keeps "Overall" ranking`, `Dilutes "Overall" Title`, `Devalues Titles`, `Preserves Tradition`, `Changes Scoring (no lead points)`.
 
 *   **Implementation & Logistics**
     *   *Description*: The practical aspects of introducing and managing a solution. This includes complexity, enforcement, and resource requirements.
-    *   *Examples*: `Simple to Implement`, `Logistics`, `Enforcement`, `Too Complex`, `Resource Intensive`.
+    *   *Examples*: `Simple to Implement`, `Logistics`, `Enforcement`, `Resource Intensive`, `Complexity (opaque formula)`.
 
 *   **Market & Technical Innovation**
     *   *Description*: The effect of a solution on glider development, market incentives for manufacturers, and overall technological progress.
@@ -127,4 +129,4 @@ Here is a first draft of such higher-level categories:
 
 *   **Community & Pilot Experience**
     *   *Description*: The impact on the pilot community, social dynamics, and the overall experience of racing.
-    *   *Examples*: `Community Fragmentation`, `Pilot Choice`, `Wrong Focus`.
+    *   *Examples*: `Community Fragmentation`, `Pilot Choice`, `Tactical Complexity`, `Disrupts Gaggle Flying`, `Spectator Unfriendly`.
