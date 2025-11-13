@@ -105,7 +105,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
 - [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
-- [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb), leaving a performance gap.
+- [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb), as it oversimplifies complex performance differences between sizes.
 - [ ] Safety: Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.
 - [ ] Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
