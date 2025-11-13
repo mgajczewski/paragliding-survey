@@ -107,13 +107,16 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
 - [ ] Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
-- [ ] Ineffective: Won't truly equalize performance (e.g., handling, climb), as it oversimplifies complex performance differences between sizes.
+- [ ] Ineffective: Won't truly equalize performance (e.g., handling, stability, climb), as it oversimplifies complex performance differences between sizes.
 - [ ] Safety: Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.
 - [ ] Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
 - [ ] Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
 - [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
 - [ ] Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
+- [ ] Ineffective/Over-penalizing: The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.
+- [ ] Ineffective/Hard to Calibrate: It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.
+- [ ] Unfairness/Other factors: Ignores other performance variables like pilot body drag or harness aerodynamics (e.g., penalizing safer, bulkier harnesses).
 - [ ] Logistics: Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.
 - [ ] Other: __________  
 
@@ -123,9 +126,12 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.
 - [ ] Promotes micro sizes: Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
 - [ ] Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
+- [ ] Promotes lightweight gear: By removing the performance incentive for weight, it encourages innovation in lighter competition equipment (harnesses, reserves).
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
 - [ ] Fairness: Directly addresses the performance gap between wing sizes.
 - [ ] Simple to Implement: Avoids complex changes to rules or scoring systems.
+- [ ] Preserves Gaggle Flying: Does not interfere with gaggle flying dynamics, a key aspect of modern competition.
+- [ ] Tunable: The equalizer formula can be adjusted and fine-tuned based on real-world data and feedback.
 - [ ] Other: __________
 
 ---
