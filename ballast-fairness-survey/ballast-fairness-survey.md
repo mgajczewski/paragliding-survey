@@ -209,12 +209,12 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **21. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)**  
-- [ ] Enforcement: Extremely difficult to enforce; pilots will hide ballast (lead in shoes, drinking water, heavy gear).  
+- [ ] Enforcement: Difficult to enforce fairly and consistently, leading to random penalties.
 - [ ] Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
 - [ ] Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.
 - [ ] Complicated: Creates "grey areas" (what counts as ballast vs. gear?).
 - [ ] Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
-- [ ] Ethics: Encourages cheating and poor sportsmanship (e.g., water loading, hiding weights, unhealthy dieting).
+- [ ] Ethics: Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.
 - [ ] Other: __________  
 
 **22. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
