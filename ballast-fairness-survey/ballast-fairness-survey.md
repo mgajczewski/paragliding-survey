@@ -112,7 +112,8 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
 - [ ] Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
-- [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
+- [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.
+- [ ] Pilot Frustration: Psychologically frustrating to intentionally add drag to performance equipment.
 - [ ] Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
 - [ ] Ineffective/Over-penalizing: The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.
 - [ ] Ineffective/Hard to Calibrate: It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.
@@ -128,6 +129,8 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
 - [ ] Promotes lightweight gear: By removing the performance incentive for weight, it encourages innovation in lighter competition equipment (harnesses, reserves).
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] Unified Task: Allows all pilots to fly the same task together, avoiding division into separate categories.
+- [ ] Preserves Gaggle Tactics: Doesn't interfere with the tactical dynamics of group flying.
 - [ ] Fairness: Directly addresses the performance gap between wing sizes.
 - [ ] Simple to Implement: Avoids complex changes to rules or scoring systems.
 - [ ] Preserves Gaggle Flying: Does not interfere with gaggle flying dynamics, a key aspect of modern competition.
@@ -278,6 +281,7 @@ We will now ask your opinion on the main solutions proposed.
 **26. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
 - [ ] Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
 - [ ] Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] Promotes Holistic Design: May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.
 - [ ] No physical modification: Doesn't require adding "noodles" or new gear.
 - [ ] Levels the playing field: Makes performance more equal across different pilot weights.
 - [ ] Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
@@ -306,6 +310,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Community Fragmentation: Risks splitting the pilot community.
 - [ ] Too Complicated: Two separate ranking systems would be confusing for pilots and organizers.
 - [ ] Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.
+- [ ] Doesn't Eliminate Core Risk: The prestigious "Overall" title may still encourage dangerous ballasting in the open league.
 - [ ] Resource Intensive: Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.
 - [ ] Ineffective: The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.
 - [ ] Ranking Devaluation: Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.
@@ -314,7 +319,9 @@ We will now ask your opinion on the main solutions proposed.
 
 **29. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
 - [ ] Pilot Choice: Offers pilots the freedom to choose the competition format that suits them best.
+- [ ] Provides a Safe Haven: Creates a dedicated, safer league for pilots who want to avoid ballast risks.
 - [ ] Solves the Problem for Those Who Want It: Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.
+- [ ] Promotes Market Diversity: Stimulates innovation for different types of gliders.
 - [ ] Evolutionary Approach: Lets the community decide over time which format is more popular and successful.
 - [ ] Preserves Tradition: Keeps the "Overall" champion concept intact for those who value it.
 - [ ] Other: __________
