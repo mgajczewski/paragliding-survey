@@ -111,6 +111,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
 - [ ] Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
 - [ ] Philosophy: It feels "absurd" to intentionally add drag in a performance sport.  
+- [ ] Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
 - [ ] Other: __________  
 
 **12. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
