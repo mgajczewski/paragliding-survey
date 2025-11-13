@@ -199,7 +199,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 4: Strict Ballast Limitations
-*(A simple rule, e.g., "Max 10kg of ballast allowed" or "Ballast cannot exceed 15% of body weight.")*
+*(A simple rule limiting ballast, e.g., "Max 10kg of ballast allowed" "Ballast cannot exceed 15% of body weight" "Total equipment, ballast, and glider must not exceed pilot weight +33kg".)*
 
 **20. Please rate your overall support for implementing "Strict Ballast Limitations":**
 - [ ] Strongly Oppose  
@@ -212,7 +212,9 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Enforcement: Extremely difficult to enforce; pilots will hide ballast (lead in shoes, drinking water, heavy gear).  
 - [ ] Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
 - [ ] Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.
-- [ ] Complicated: Creates "grey areas" (what counts as ballast vs. gear?).  
+- [ ] Complicated: Creates "grey areas" (what counts as ballast vs. gear?).
+- [ ] Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
+- [ ] Ethics: Encourages cheating and poor sportsmanship (e.g., water loading, hiding weights, unhealthy dieting).
 - [ ] Other: __________  
 
 **22. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
@@ -269,7 +271,7 @@ We will now ask your opinion on the main solutions proposed.
 *(As proposed by Malin Lobb - creating two parallel competition leagues. Pilots could choose to compete in "Single Winner" events (either "open" or with "Equalizers"/"MRT") feeding a traditional Overall WPRS, OR in "Multi-Winner" events with weight classes and a separate WPRS.)*
 
 **27. Please rate your overall support for implementing this "Hybrid System":**
-*(For example, some competitions could be "Open" (status quo), some could use "Equalizers," and some could be "Weight Class" events, with pilots choosing which to attend.)*
+*(For example, some competitions could be "Open" (status quo), some could use "Equalizers" and some could be "Weight Class" events, with pilots choosing which to attend.)*
 - [ ] Strongly Oppose
 - [ ] Oppose
 - [ ] Neutral / Need more info
