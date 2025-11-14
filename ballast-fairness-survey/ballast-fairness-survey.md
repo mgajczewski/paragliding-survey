@@ -86,7 +86,7 @@ For a detailed overview, see [The Paragliding Ballast Issue on gagglereport.org]
 ## Section 3: Evaluating the Solutions
 We will now ask your opinion on the main solutions proposed.
 
-### Solution 1: "Equalizers" (Noodles)
+### Solution 1: "Equalizers"
 *(As proposed by Luc Armant – adding drag elements to larger wings to equalize glide performance across sizes)*
 
 **9. How familiar are you with the "Equalizers" proposal?**  
@@ -284,7 +284,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] ⚖️ Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
 - [ ] 🏆 Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
 - [ ] 🏆 Modernizes Scoring: Removes the need for controversial leading points, which are seen to favor heavier pilots.
-- [ ] 🛠️ No physical modification: Doesn't require adding "noodles" or new gear.
+- [ ] 🛠️ No physical modification: Doesn't require adding "equalizers" or new gear.
 - [ ] 🛠️ Leverages existing technology: Supported by current scoring software, making it easier to implement.
 - [ ] 🚀 Promotes Holistic Design: May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.
 - [ ] 👥 Enhances pilot engagement: Makes racing more motivating and enjoyable for a wider range of pilots.
@@ -331,10 +331,10 @@ We will now ask your opinion on the main solutions proposed.
 ## Section 4: Comparative Ranking & Final Priorities
 
 **30. Please rank your preferred solutions, from 1 (Most Preferred) to 7 (Least Preferred):**
-- __ Equalizers ("Noodles")
+- __ Equalizers
 - __ Partial Weight Class (A separate "Lightweight" category or categories)
 - __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)
-- __ Strict Ballast Limit (Simple restriction)
+- __ Strict Ballast Limit
 - __ MRT (Multiple Radius Turnpoints)
 - __ Hybrid System (Single & Multi-Winner Leagues)
 - __ No Change (Status Quo)
