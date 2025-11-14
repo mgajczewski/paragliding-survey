@@ -195,7 +195,7 @@ We will now ask your opinion on the main solutions proposed.
 
 **18. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] ⚖️ Unfair Scoring Dynamics: Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
-- [ ] 🏆 Loses "Overall" Winner: Destroys the prestige and simplicity of having one overall champion.
+- [ ] 🏆 Loses "Overall" Winner: Reduces the prestige of a single "Overall" champion title.
 - [ ] 🏆 Complicates Women's Category: Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.
 - [ ] 🏆 Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
 - [ ] 🏆 Devalues Titles: Having many champions reduces the value of each title.
