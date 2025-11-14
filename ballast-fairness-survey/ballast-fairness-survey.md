@@ -256,7 +256,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Familiar (understand the concept)  
 - [ ] Very familiar (seen [Burce Goldsmith's lecture](https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/ballast/mrt))  
 
-**24. Please rate your overall support for testing/implementing "MRT":**  
+**24. Please rate your overall support for implementing "MRT":**  
 - [ ] Strongly Oppose  
 - [ ] Oppose  
 - [ ] Neutral / Need more info  
