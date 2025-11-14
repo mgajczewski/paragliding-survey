@@ -378,7 +378,7 @@ We will now ask your opinion on the main solutions proposed.
 
 ## Section 4: Comparative Ranking & Final Priorities
 
-**33. Please rank your preferred solutions, from 1 (Most Preferred) to 7 (Least Preferred):**
+**33. Please rank your preferred solutions for top-level competitions (e.g., FAI-1, PWC), from 1 (Most Preferred) to 7 (Least Preferred):**
 - __ Equalizers
 - __ Partial Weight Class (A separate "Lightweight" category or categories)
 - __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)
@@ -387,13 +387,22 @@ We will now ask your opinion on the main solutions proposed.
 - __ Hybrid System (Single & Multi-Winner Leagues)
 - __ No Change (Status Quo)
 
-**34. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**
+**34. And how would you rank them for other competitions (e.g., FAI-2, National Leagues)?**
+- __ Equalizers
+- __ Partial Weight Class (A separate "Lightweight" category or categories)
+- __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)
+- __ Strict Ballast Limit
+- __ MRT (Multiple Radius Turnpoints)
+- __ Hybrid System (Single & Multi-Winner Leagues)
+- __ No Change (Status Quo)
+
+**35. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**
 - [ ] The harness safety issue is more urgent than the ballast issue and should be fixed first.  
 - [ ] The harness safety issue is equally urgent as the ballast issue.  
 - [ ] The harness safety issue is less urgent than the ballast issue.  
 - [ ] The two issues are separate and should be addressed independently.  
 
-**35. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**
+**36. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**
 (Open text box)
 
 ---
