@@ -103,7 +103,7 @@
 <body>
     <main class="container">
         <header>
-            <h1>📋 Survey: Ballast & Fairness in Paragliding Competition</h1>
+            <h1>📋 Survey: Ballast & Fairness in Paragliding Competition (v2.0.0)</h1>
             <p>Thank you for participating in this crucial survey on ballast and fairness in paragliding competitions.</p>
             <p class="introduction">The issue of pilots carrying excessive ballast has sparked a significant debate within our community, raising concerns about safety, fairness, and the core principles of our sport. In response, several solutions have been proposed to address these challenges.</p>
             <p class="introduction">This survey aims to gather opinions from pilots, designers, and other stakeholders on these proposed solutions. Your anonymous feedback is vital for guiding the future of competition rule-making, helping us find a widely supported path forward that ensures our sport remains safe, fair, and inclusive for all.</p>
@@ -196,7 +196,7 @@
                         <label><input type="radio" name="smaller_wing" value="no_smaller"> No - there is literally no smaller size in my class on the market</label>
                     </fieldset>
 
-                    <fieldset>
+                    <fieldset id="q7-prevent-smaller">
                         <legend>7. What currently prevents you from flying a smaller wing size? (select all that apply)</legend>
                         <label><input type="checkbox" name="prevent_smaller" value="manage_ballast"> I like to be able to manage ballast in-flight (droppable)</label>
                         <label><input type="checkbox" name="prevent_smaller" value="between_sizes"> I’m between sizes; smaller would require too much compromise</label>
@@ -208,7 +208,7 @@
                         <label>Other: <input type="text" name="prevent_smaller_other"></label>
                     </fieldset>
                     
-                    <fieldset>
+                    <fieldset id="q8-prevent-larger">
                         <legend>8. What are your reasons for not flying a larger wing size with more ballast? (select all that apply)</legend>
                         <label><input type="checkbox" name="prevent_larger" value="handling"> I prefer the handling and agility of my current wing.</label>
                         <label><input type="checkbox" name="prevent_larger" value="efficiency"> A larger wing would be less efficient in weak or tight thermals.</label>
@@ -249,7 +249,7 @@
                         <label><input type="radio" name="fairness_issue" value="5"> (5) Extremely unfair (a critical issue)</label>
                     </fieldset>
 
-                    <fieldset>
+                    <fieldset id="q11-philosophy-options">
                         <legend>11. Which statement best reflects your personal philosophy?</legend>
                         <label><input type="radio" name="philosophy" value="equalize"> Paragliding competition should be about pilot skill and decision-making; rules should actively equalize advantages/disadvantages from body weight.</label>
                         <label><input type="radio" name="philosophy" value="natural_part"> Physical attributes (like weight) are a natural part of any sport; rules should not try to compensate for these differences.</label>
@@ -653,6 +653,87 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            function shuffleChildren(parent, childSelector) {
+                const allElements = Array.from(parent.querySelectorAll(childSelector));
+                
+                const otherElement = allElements.find(el => el.querySelector('input[type="text"]') || el.innerText.toLowerCase().startsWith('other:'));
+                
+                const elementsToShuffle = allElements.filter(el => el !== otherElement);
+
+                if (elementsToShuffle.length <= 1) return;
+
+                elementsToShuffle.forEach(el => el.remove());
+
+                // Shuffle
+                for (let i = elementsToShuffle.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [elementsToShuffle[i], elementsToShuffle[j]] = [elementsToShuffle[j], elementsToShuffle[i]];
+                }
+
+                // Append back
+                if (otherElement) {
+                    elementsToShuffle.forEach(el => parent.insertBefore(el, otherElement));
+                } else {
+                    elementsToShuffle.forEach(el => parent.appendChild(el));
+                }
+            }
+            
+            function randomizeSolutions() {
+                const surveyForm = document.getElementById('survey-form');
+                const page2 = document.getElementById('page-2');
+                const solutions = [];
+                for (let i = 3; i <= 8; i++) {
+                    const page = document.getElementById(`page-${i}`);
+                    if(page) solutions.push(page);
+                }
+                
+                solutions.forEach(p => p.remove());
+
+                for (let i = solutions.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [solutions[i], solutions[j]] = [solutions[j], solutions[i]];
+                }
+                
+                let lastElement = page2;
+                solutions.forEach(page => {
+                    lastElement.after(page);
+                    lastElement = page;
+                });
+            }
+
+            function randomizeRankingOptions(containerSelector) {
+                const container = document.querySelector(containerSelector);
+                if (!container) return;
+
+                const optionsBox = container.querySelector('.rank-options');
+                if (!optionsBox) return;
+                
+                const rankItems = Array.from(optionsBox.querySelectorAll('.rank-item'));
+                rankItems.forEach(item => item.remove());
+
+                for (let i = rankItems.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [rankItems[i], rankItems[j]] = [rankItems[j], rankItems[i]];
+                }
+                
+                rankItems.forEach(item => optionsBox.appendChild(item));
+            }
+
+            randomizeSolutions();
+            randomizeRankingOptions('#ranking-top-container');
+            randomizeRankingOptions('#ranking-other-container');
+
+            const q7Options = document.getElementById('q7-prevent-smaller');
+            if (q7Options) shuffleChildren(q7Options, 'label');
+
+            const q8Options = document.getElementById('q8-prevent-larger');
+            if (q8Options) shuffleChildren(q8Options, 'label');
+
+            const q11Options = document.getElementById('q11-philosophy-options');
+            if (q11Options) {
+                shuffleChildren(q11Options, 'label');
+            }
+
             const surveyPages = document.querySelectorAll('.survey-page');
             const prevBtn = document.getElementById('prev-btn');
             const nextBtn = document.getElementById('next-btn');
