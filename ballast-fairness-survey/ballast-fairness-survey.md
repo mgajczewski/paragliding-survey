@@ -40,7 +40,10 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 90–99 kg (197–218 lbs)  
 - [ ] 100+ kg (219+ lbs)  
 
-**3. What is your typical competition all-up weight (AUW) in flight?**  
+*The following questions (3-8) are intended for pilots. If you do not have a pilot role, please proceed to Section 2.*
+
+**3. What is your typical competition takeoff weight?**  
+*(If you fly multiple setups, please answer for the one you use in the highest-ranked competitions.)*
 - [ ] <= 75 kg  
 - [ ] 76–85 kg  
 - [ ] 86–95 kg  
@@ -50,18 +53,26 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] 128+ kg  
 
 **4. How much ballast (lead, water, etc.) do you typically carry in a competition?**  
+*(If you fly multiple setups, please answer for the one you use in the highest-ranked competitions.)*
 - [ ] 0 kg (ballast-free)  
-- [ ] 1–5 kg  
-- [ ] 6–10 kg  
+- [ ] 1–3 kg
+- [ ] 4–6 kg
+- [ ] 7–10 kg 
 - [ ] 11–15 kg  
 - [ ] 16–20 kg  
 - [ ] 21–25 kg  
 - [ ] 26–30 kg  
 - [ ] 31+ kg  
 
-**5. What is the maximum certified take-off weight and category (e.g. EN-C, CCC) of your primary competition wing?**  
+**5. What is the maximum certified takeoff weight and category (e.g. EN-C, CCC) of your primary competition wing?**  
+*(If you fly multiple setups, please answer for the one you use in the highest-ranked competitions.)*
 - Maximum certified takeoff weight (kg): _____  
-- Category: __________  
+- Category:
+  - [ ] EN-A
+  - [ ] EN-B
+  - [ ] EN-C
+  - [ ] EN-D
+  - [ ] CCC
 
 **6. If you reduced ballast to a minimum, could you technically be able to race on a smaller wing size?**
 - [ ] Yes - I could fly a competition on a wing one size smaller
@@ -177,7 +188,7 @@ We will now ask your opinion on the main solutions proposed.
 ---
 
 ### Solution 2: Partial Weight Class (A separate "Lightweight" Category)
-*(As proposed by Daniel Dimov – adding at least one "Lightweight" category (e.g., <95kg AUW) to competitions as a first step to improve inclusivity without eliminating the single overall champion. Pilots in this class would compete for both a "Lightweight" title and the traditional "Overall" title, preserving a single overall champion.)*
+*(As proposed by Daniel Dimov – adding at least one "Lightweight" category (e.g., <95kg takeoff weight) to competitions as a first step to improve inclusivity without eliminating the single overall champion. Pilots in this class would compete for both a "Lightweight" title and the traditional "Overall" title, preserving a single overall champion.)*
 
 **16. How familiar are you with the "Partial Weight Class" proposal?**
 - [ ] Not familiar
