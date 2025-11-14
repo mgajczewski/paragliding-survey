@@ -32,6 +32,15 @@
         .optional-section label {
             font-size: 0.9em;
         }
+        .random-example {
+            font-style: italic;
+            color: #666;
+            font-weight: normal;
+            font-size: 0.9em;
+            margin-left: 0.5rem;
+            pointer-events: none;
+            user-select: none;
+        }
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -789,6 +798,37 @@
 
             setupRanking('#ranking-top-container');
             setupRanking('#ranking-other-container');
+
+            function setupRandomExamples() {
+                document.querySelectorAll('.optional-section').forEach(section => {
+                    const summary = section.querySelector('summary');
+                    if (!summary) return;
+
+                    const labels = Array.from(section.querySelectorAll('fieldset label'));
+                    const validLabels = labels.filter(label => {
+                        const text = label.innerText.trim();
+                        return text && !label.querySelector('input[type="text"]') && !text.toLowerCase().startsWith('other:');
+                    });
+
+                    if (validLabels.length > 0) {
+                        const randomIndex = Math.floor(Math.random() * validLabels.length);
+                        const randomLabel = validLabels[randomIndex];
+                        
+                        let exampleText = randomLabel.innerText.trim();
+                        if (exampleText.length > 70) {
+                            exampleText = exampleText.substring(0, 70).trim() + '...';
+                        }
+
+                        const exampleSpan = document.createElement('span');
+                        exampleSpan.className = 'random-example';
+                        exampleSpan.textContent = ` (e.g., "${exampleText}")`;
+                        
+                        summary.appendChild(exampleSpan);
+                    }
+                });
+            }
+
+            setupRandomExamples();
         });
     </script>
 </body>
