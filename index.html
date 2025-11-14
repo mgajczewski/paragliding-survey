@@ -29,6 +29,9 @@
             margin-bottom: 1rem;
             font-weight: bold;
         }
+        .optional-section label {
+            font-size: 0.9em;
+        }
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -231,40 +234,40 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>14. What are your biggest concerns about "Equalizers"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_equalizers" value="safety_certification"> 🛡️ Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers (answered in <a href="https://gagglereport.org/ballast/equalizers" target="_blank">FAQ</a>).</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="liability"> 🛡️ Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in <a href="https://gagglereport.org/ballast/equalizers" target="_blank">FAQ</a>).</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="safety_installation"> 🛡️ Safety/Installation: Pilots might install them incorrectly.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="safety_ballast"> 🛡️ Safety: Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="unfair_punish"> ⚖️ Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="ineffective_performance"> ⚖️ Ineffective: Won't truly equalize performance (e.g., handling, stability, climb), as it oversimplifies complex performance differences between sizes.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="ineffective_penalty"> ⚖️ Ineffective/Over-penalizing: The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="unfair_other"> ⚖️ Unfairness/Other factors: Ignores other performance variables like pilot body drag or harness aerodynamics (e.g., penalizing safer, bulkier harnesses).</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="gaming_system"> 🛠️ Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="hard_to_calibrate"> 🛠️ Ineffective/Hard to Calibrate: It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="logistics"> 🛠️ Logistics: Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="market_no_incentive"> 🚀 Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="market_stagnation"> 🚀 Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="tech_stagnation"> 🚀 Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="philosophy"> 👥 Philosophy: It feels "absurd" to intentionally add drag in a performance sport.</label>
-                            <label><input type="checkbox" name="concerns_equalizers" value="frustration"> 👥 Pilot Frustration: Psychologically frustrating to intentionally add drag to performance equipment.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="safety_certification"> 🛡️ Unsure how they affect handling, collapses, or SIV maneuvers (answered in <a href="https://gagglereport.org/ballast/equalizers" target="_blank">FAQ</a>).</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="liability"> 🛡️ Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in <a href="https://gagglereport.org/ballast/equalizers" target="_blank">FAQ</a>).</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="safety_installation"> 🛡️ Pilots might install them incorrectly, creating a safety risk.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="safety_ballast"> 🛡️ Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="unfair_punish"> ⚖️ Unfairly "punishes" heavier pilots who have no choice but to fly large wings.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="ineffective_performance"> ⚖️ Won't truly equalize performance (e.g., handling, stability, climb), as it oversimplifies complex performance differences between sizes.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="ineffective_penalty"> ⚖️ The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="unfair_other"> ⚖️ Ignores other performance variables like pilot body drag or harness aerodynamics (e.g., penalizing safer, bulkier harnesses).</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="gaming_system"> 🛠️ The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="hard_to_calibrate"> 🛠️ It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="logistics"> 🛠️ Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="market_no_incentive"> 🚀 Won't actually incentivize manufacturers to create and improve XS and smaller wings.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="market_stagnation"> 🚀 Reinforces the dominant glider model, reducing incentives for innovation and diversification.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="tech_stagnation"> 🚀 Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="philosophy"> 👥 It feels "absurd" to intentionally add drag in a performance sport.</label>
+                            <label><input type="checkbox" name="concerns_equalizers" value="frustration"> 👥 Psychologically frustrating to intentionally add drag to performance equipment.</label>
                             <label>Other: <input type="text" name="concerns_equalizers_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>15. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_equalizers" value="improves_safety"> 🛡️ Improves Safety: Reduces incentive for light pilots to ballast up.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="levels_field"> ⚖️ Levels the field: Makes performance more equal across wing sizes.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="fairness"> ⚖️ Fairness: Directly addresses the performance gap.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="keeps_overall"> 🏆 Keeps "Overall" ranking.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="simple_implement"> 🛠️ Simple to Implement: Avoids complex rule changes.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="tunable"> 🛠️ Tunable: The formula can be adjusted.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_small_wings"> 🚀 Promotes small wings.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_micro_sizes"> 🚀 Promotes micro sizes.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_intermediate_sizes"> 🚀 Promotes intermediate sizes.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_lightweight_gear"> 🚀 Promotes lightweight gear.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="unified_task"> 👥 Unified Task: All pilots fly the same task.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="preserves_gaggle_tactics"> 👥 Preserves Gaggle Tactics.</label>
-                            <label><input type="checkbox" name="benefits_equalizers" value="preserves_gaggle_flying"> 👥 Preserves Gaggle Flying.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="improves_safety"> 🛡️ Reduces the incentive for XS/S pilots to ballast up to M/L sizes.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="levels_field"> ⚖️ Makes performance more equal across wing sizes.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="fairness"> ⚖️ Directly addresses the performance gap between wing sizes.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="keeps_overall"> 🏆 Allows everyone to race together and preserves a single "Overall" winner.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="simple_implement"> 🛠️ Avoids complex changes to rules or scoring systems.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="tunable"> 🛠️ The equalizer formula can be adjusted and fine-tuned based on real-world data and feedback.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_small_wings"> 🚀 Creates a real incentive for manufacturers to develop better XS/S wings.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_micro_sizes"> 🚀 Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_intermediate_sizes"> 🚀 Could encourage a wider range of wing sizes, matching equalizer gradations.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="promotes_lightweight_gear"> 🚀 By removing the performance incentive for weight, it encourages innovation in lighter competition equipment (harnesses, reserves).</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="unified_task"> 👥 Allows all pilots to fly the same task together, avoiding division into separate categories.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="preserves_gaggle_tactics"> 👥 Doesn't interfere with the tactical dynamics of group flying.</label>
+                            <label><input type="checkbox" name="benefits_equalizers" value="preserves_gaggle_flying"> 👥 Does not interfere with gaggle flying dynamics, a key aspect of modern competition.</label>
                              <label>Other: <input type="text" name="benefits_equalizers_other"></label>
                         </fieldset>
                     </details>
@@ -298,31 +301,31 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>18. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_pwc" value="safety"> 🛡️ Safety: An incomplete solution, as very light pilots may still need unsafe amounts of ballast.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="cutoff"> ⚖️ Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="ineffectiveness"> ⚖️ Ineffectiveness: May not change behavior, as pilots may still prioritize the “Overall” title.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="scoring"> ⚖️ Unfair Scoring Dynamics: Lightweight pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="dilutes_overall"> 🏆 Dilutes "Overall" Title: A separate podium could reduce the prestige of the overall winner.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="diluted_comp"> 🏆 Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="devalues_comp"> 🏆 Devalues Competition: Multiple podiums may be seen as lowering the prestige of winning.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="incentive"> 👥 Insufficient Incentive: The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.</label>
-                            <label><input type="checkbox" name="concerns_pwc" value="fragmentation"> 👥 Community Fragmentation: Risks splitting the pilot community.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="safety"> 🛡️ An incomplete solution, as very light pilots may still need unsafe amounts of ballast.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="cutoff"> ⚖️ The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="ineffectiveness"> ⚖️ May not change behavior, as pilots may still prioritize the “Overall” title.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="scoring"> ⚖️ Lightweight pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="dilutes_overall"> 🏆 A separate podium could reduce the prestige of the overall winner.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="diluted_comp"> 🏆 Creates small, uncompetitive fields, especially when combined with existing glider classes.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="devalues_comp"> 🏆 Multiple podiums may be seen as lowering the prestige of winning.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="incentive"> 👥 The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.</label>
+                            <label><input type="checkbox" name="concerns_pwc" value="fragmentation"> 👥 Risks splitting the pilot community.</label>
                             <label>Other: <input type="text" name="concerns_pwc_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>19. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_pwc" value="safety"> 🛡️ Improves Safety: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="preserves_overall"> 🏆 Preserves "Overall" Winner: Keeps the traditional structure of a single overall champion.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="preserves_ranking"> 🏆 Preserves Ranking: Keeps the "Overall" WPRS ranking and just introduces another filter.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="simple_implement"> 🛠️ Simple to Implement: Easy to implement and test without major rule changes.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="simple_verify"> 🛠️ Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="precedent"> 🛠️ Positive Precedent: The model has been well-received in some competition series (e.g. SRS), where pilots are reportedly happy with the system.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="non_invasive"> 🛠️ Non-Invasive: Implemented through scoring and logistics, without requiring physical modifications to gliders or changes to race routes.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="promotes_small"> 🚀 Promotes Small Wings: Creates market demand for high-performance small gliders.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="inclusivity"> 👥 Improves Inclusivity: Encourages more light pilots and women to participate.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="option"> 👥 Additional Option: Provides another competitive option for pilots who are too light.</label>
-                            <label><input type="checkbox" name="benefits_pwc" value="motivation"> 👥 Improves Pilot Motivation: Offers a tangible goal for a wider range of pilots, increasing engagement and satisfaction.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="safety"> 🛡️ Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="preserves_overall"> 🏆 Keeps the traditional structure of a single overall champion.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="preserves_ranking"> 🏆 Keeps the "Overall" WPRS ranking and just introduces another filter.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="simple_implement"> 🛠️ Easy to implement and test without major rule changes.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="simple_verify"> 🛠️ Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="precedent"> 🛠️ The model has been well-received in some competition series (e.g. SRS), where pilots are reportedly happy with the system.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="non_invasive"> 🛠️ Implemented through scoring and logistics, without requiring physical modifications to gliders or changes to race routes.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="promotes_small"> 🚀 Creates market demand for high-performance small gliders.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="inclusivity"> 👥 Encourages more light pilots and women to participate.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="option"> 👥 Provides another competitive option for pilots who are too light.</label>
+                            <label><input type="checkbox" name="benefits_pwc" value="motivation"> 👥 Offers a tangible goal for a wider range of pilots, increasing engagement and satisfaction.</label>
                             <label>Other: <input type="text" name="benefits_pwc_other"></label>
                         </fieldset>
                     </details>
@@ -348,27 +351,27 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>21. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_cwc" value="scoring"> ⚖️ Unfair Scoring Dynamics: Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="loses_overall"> 🏆 Loses "Overall" Winner: Reduces the prestige of a single "Overall" champion title.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="complicates_womens"> 🏆 Complicates Women's Category: Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="diluted_comp"> 🏆 Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="devalues_titles"> 🏆 Devalues Titles: Having many champions reduces the value of each title.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="team_scoring"> 🏆 Team Scoring: Complicates FAI-1 team selection and scoring.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="ranking_frag"> 🏆 Ranking Fragmentation: Requires a major WPRS overhaul. Scoring classes as separate events would yield low points, devaluing titles and complicating pilot comparisons.</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="logistics"> 🛠️ Logistics: Too complicated to manage (e.g., separate starts, scoring, prizes).</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="enforcement"> 🛠️ Enforcement: Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).</label>
-                            <label><input type="checkbox" name="concerns_cwc" value="fragmentation"> 👥 Community Fragmentation: Risks splitting the pilot community into separate groups.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="scoring"> ⚖️ Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="loses_overall"> 🏆 Reduces the prestige of a single "Overall" champion title.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="complicates_womens"> 🏆 Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="diluted_comp"> 🏆 Creates small, uncompetitive fields, especially when combined with existing glider classes.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="devalues_titles"> 🏆 Having many champions reduces the value of each title.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="team_scoring"> 🏆 Complicates FAI-1 team selection and scoring.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="ranking_frag"> 🏆 Requires a major WPRS overhaul. Scoring classes as separate events would yield low points, devaluing titles and complicating pilot comparisons.</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="logistics"> 🛠️ Too complicated to manage (e.g., separate starts, scoring, prizes).</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="enforcement"> 🛠️ Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).</label>
+                            <label><input type="checkbox" name="concerns_cwc" value="fragmentation"> 👥 Risks splitting the pilot community into separate groups.</label>
                             <label>Other: <input type="text" name="concerns_cwc_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>22. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_cwc" value="safety"> 🛡️ Improves Safety: Gives all pilots a class they can fly in with little to no ballast.</label>
-                            <label><input type="checkbox" name="benefits_cwc" value="fairness"> ⚖️ Maximizes Fairness: Pilots only compete against others with a similar all-up weight.</label>
-                            <label><input type="checkbox" name="benefits_cwc" value="proven"> 🛠️ Proven Concept: Works well in many other sports (e.g., boxing, sailing).</label>
-                            <label><input type="checkbox" name="benefits_cwc" value="simple_verify"> 🛠️ Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.</label>
-                            <label><input type="checkbox" name="benefits_cwc" value="innovation"> 🚀 Promotes Innovation: Creates market demand for high-performance wings across all size categories.</label>
-                            <label><input type="checkbox" name="benefits_cwc" value="promotes_small"> 🚀 Promotes Small Wings: Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="safety"> 🛡️ Gives all pilots a class they can fly in with little to no ballast.</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="fairness"> ⚖️ Pilots only compete against others with a similar all-up weight.</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="proven"> 🛠️ Works well in many other sports (e.g., boxing, sailing).</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="simple_verify"> 🛠️ Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="innovation"> 🚀 Creates market demand for high-performance wings across all size categories.</label>
+                            <label><input type="checkbox" name="benefits_cwc" value="promotes_small"> 🚀 Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.</label>
                             <label>Other: <input type="text" name="benefits_cwc_other"></label>
                         </fieldset>
                     </details>
@@ -393,22 +396,22 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>24. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_sbl" value="safety"> 🛡️ Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="ethics"> 🛡️ Ethics: Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="unfair_light"> ⚖️ Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="unfair_disparity"> ⚖️ Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="enforcement"> 🛠️ Enforcement: Difficult to enforce fairly and consistently, leading to random penalties.</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="complicated"> 🛠️ Complicated: Creates "grey areas" (what counts as ballast vs. gear?).</label>
-                            <label><input type="checkbox" name="concerns_sbl" value="discourages"> 👥 Discourages Participation: May push lighter pilots who feel unfairly handicapped out of top-level competition.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="safety"> 🛡️ Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="ethics"> 🛡️ Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="unfair_light"> ⚖️ Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="unfair_disparity"> ⚖️ Doesn't fix the core performance disparity; larger wings will still have an advantage.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="enforcement"> 🛠️ Difficult to enforce fairly and consistently, leading to random penalties.</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="complicated"> 🛠️ Creates "grey areas" (what counts as ballast vs. gear?).</label>
+                            <label><input type="checkbox" name="concerns_sbl" value="discourages"> 👥 May push lighter pilots who feel unfairly handicapped out of top-level competition.</label>
                             <label>Other: <input type="text" name="concerns_sbl_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>25. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_sbl" value="safety"> 🛡️ Improves Safety: Puts a hard stop on the most dangerous ballast loads.</label>
-                            <label><input type="checkbox" name="benefits_sbl" value="simple"> 🛠️ Simple Rule: Easy to understand (if not to enforce).</label>
-                            <label><input type="checkbox" name="benefits_sbl" value="incentive"> 🚀 Partial Incentive: May encourage some pilots to move to a smaller wing.</label>
-                            <label><input type="checkbox" name="benefits_sbl" value="retention"> 👥 Improves Pilot Retention: May encourage top lightweight pilots who have left the sport due to safety concerns to return.</label>
+                            <label><input type="checkbox" name="benefits_sbl" value="safety"> 🛡️ Puts a hard stop on the most dangerous ballast loads.</label>
+                            <label><input type="checkbox" name="benefits_sbl" value="simple"> 🛠️ Easy to understand (if not to enforce).</label>
+                            <label><input type="checkbox" name="benefits_sbl" value="incentive"> 🚀 May encourage some pilots to move to a smaller wing.</label>
+                            <label><input type="checkbox" name="benefits_sbl" value="retention"> 👥 May encourage top lightweight pilots who have left the sport due to safety concerns to return.</label>
                             <label>Other: <input type="text" name="benefits_sbl_other"></label>
                         </fieldset>
                     </details>
@@ -424,8 +427,8 @@
                     <fieldset>
                         <legend>26. How familiar are you with the "MRT" proposal?</legend>
                         <label><input type="radio" name="familiar_mrt" value="not"> Not familiar</label>
-                        <label><input type="radio" name="familiar_mrt" value="vaguely"> Vaguely familiar</label>
-                        <label><input type="radio" name="familiar_mrt" value="familiar"> Familiar</label>
+                        <label><input type="radio" name="familiar_mrt" value="vaguely"> Vaguely familiar (heard the name)</label>
+                        <label><input type="radio" name="familiar_mrt" value="familiar"> Familiar (understand the concept)</label>
                         <label><input type="radio" name="familiar_mrt" value="very"> Very familiar (seen <a href="https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk" target="_blank">Bruce Goldsmith's lecture</a>, read the <a href="https://gagglereport.org/ballast/mrt" target="_blank">GaggleReport document</a>)</label>
                     </fieldset>
 
@@ -442,34 +445,34 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>28. What are your biggest concerns about "MRT"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_mrt" value="safety_tracks"> 🛡️ Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="safety_ineffective"> 🛡️ Ineffective on Safety: Doesn't solve the physical problem of dangerous ballast.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="randomness"> ⚖️ Randomness: Scoring becomes "random" depending on group composition and who you fly with.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="task_setter"> ⚖️ Task Setter Dependency: Fairness relies heavily on perfect task design.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="unfair_tp"> ⚖️ Unfair Turnpoint Placement: Fairness can be compromised if a turnpoint is placed in a known thermal, nullifying the advantage for lighter pilots.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="scoring"> 🏆 Changes Scoring: Works best without leading points, a fundamental change.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="devalues"> 🏆 Devalues Titles: It could diminish the prestige of a World or Continental Champion title.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="task_design"> 🛠️ Task Design Limitations: Relies on specific task design (e.g., cannot be used on straight-to-goal tasks, or in the first/last 10km of a race) and requires specially trained task setters.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="complexity"> 🛠️ Complexity: Route-generation formula is opaque and hard for pilots to understand.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="tactical"> 👥 Tactical Complexity: Hard to assess your position and make tactical decisions.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="disrupts_gaggle"> 👥 Disrupts Gaggle Flying: Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.</label>
-                            <label><input type="checkbox" name="concerns_mrt" value="spectator"> 👥 Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="safety_tracks"> 🛡️ Creates unpredictable crossing tracks within gaggles near turnpoints.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="safety_ineffective"> 🛡️ Doesn't solve the physical problem of dangerous ballast.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="randomness"> ⚖️ Scoring becomes "random" depending on group composition and who you fly with.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="task_setter"> ⚖️ Fairness relies heavily on perfect task design.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="unfair_tp"> ⚖️ Fairness can be compromised if a turnpoint is placed in a known thermal, nullifying the advantage for lighter pilots.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="scoring"> 🏆 Works best without leading points, a fundamental change.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="devalues"> 🏆 It could diminish the prestige of a World or Continental Champion title.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="task_design"> 🛠️ Relies on specific task design (e.g., cannot be used on straight-to-goal tasks, or in the first/last 10km of a race) and requires specially trained task setters.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="complexity"> 🛠️ Route-generation formula is opaque and hard for pilots to understand.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="tactical"> 👥 Hard to assess your position and make tactical decisions.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="disrupts_gaggle"> 👥 Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.</label>
+                            <label><input type="checkbox" name="concerns_mrt" value="spectator"> 👥 Difficult for viewers to follow when the lead changes constantly.</label>
                             <label>Other: <input type="text" name="concerns_mrt_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>29. What do you see as the biggest benefits of "MRT"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_mrt" value="safety"> 🛡️ Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="levels_field"> ⚖️ Levels the playing field: Makes performance more equal across different pilot weights.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="tactical_equality"> ⚖️ Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="keeps_overall"> 🏆 Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="modernizes_scoring"> 🏆 Modernizes Scoring: Removes the need for controversial leading points, which are seen to favor heavier pilots.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="no_mod"> 🛠️ No physical modification: Doesn't require adding "equalizers" or new gear.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="leverages_tech"> 🛠️ Leverages existing technology: Supported by current scoring software, making it easier to implement.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="holistic_design"> 🚀 Promotes Holistic Design: May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="engagement"> 👥 Enhances pilot engagement: Makes racing more motivating and enjoyable for a wider range of pilots.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="xc_skills"> 👥 Promotes XC skills: Shifts focus from pure gaggle racing to individual pilot skills against the elements.</label>
-                            <label><input type="checkbox" name="benefits_mrt" value="other_classes"> 👥 Good for other classes: Can be adapted to help lower-performance classes (e.g., Sport Class) to fly more of the task and be more competitive.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="safety"> 🛡️ Directly compensates for wing size performance, discouraging the use of large amounts of ballast.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="levels_field"> ⚖️ Makes performance more equal across different pilot weights.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="tactical_equality"> ⚖️ Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="keeps_overall"> 🏆 Allows everyone to race together and preserves a single "Overall" winner.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="modernizes_scoring"> 🏆 Removes the need for controversial leading points, which are seen to favor heavier pilots.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="no_mod"> 🛠️ Doesn't require adding "equalizers" or new gear.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="leverages_tech"> 🛠️ Supported by current scoring software, making it easier to implement.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="holistic_design"> 🚀 May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="engagement"> 👥 Makes racing more motivating and enjoyable for a wider range of pilots.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="xc_skills"> 👥 Shifts focus from pure gaggle racing to individual pilot skills against the elements.</label>
+                            <label><input type="checkbox" name="benefits_mrt" value="other_classes"> 👥 Can be adapted to help lower-performance classes (e.g., Sport Class) to fly more of the task and be more competitive.</label>
                             <label>Other: <input type="text" name="benefits_mrt_other"></label>
                         </fieldset>
                     </details>
@@ -496,26 +499,26 @@
                         <summary>Click to view Concerns/Benefits (Optional)</summary>
                         <fieldset>
                             <legend>31. What are your biggest concerns about a "Hybrid System"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="concerns_hybrid" value="core_risk"> 🛡️ Doesn't Eliminate Core Risk: The prestigious "Overall" title may still encourage dangerous ballasting in the open league.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="dilutes_comp"> 🏆 Dilutes Competition: Splits the pilot pool, potentially weakening the quality of both leagues.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="devalues_champ"> 🏆 Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="ranking_deval"> 🏆 Ranking Devaluation: Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="complicated"> 🛠️ Too Complicated: Two separate ranking systems would be confusing for pilots and organizers.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="resource"> 🛠️ Resource Intensive: Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="organizer"> 🛠️ Organizer Reluctance: Competition organizers may be unwilling to manage the complexity of two parallel systems, limiting pilot choice.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="fragmentation"> 👥 Community Fragmentation: Risks splitting the pilot community.</label>
-                            <label><input type="checkbox" name="concerns_hybrid" value="ineffective"> 👥 Ineffective: The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="core_risk"> 🛡️ The prestigious "Overall" title may still encourage dangerous ballasting in the open league.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="dilutes_comp"> 🏆 Splits the pilot pool, potentially weakening the quality of both leagues.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="devalues_champ"> 🏆 The existence of multiple top-level rankings could devalue the achievement of winning either.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="ranking_deval"> 🏆 Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="complicated"> 🛠️ Two separate ranking systems would be confusing for pilots and organizers.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="resource"> 🛠️ Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="organizer"> 🛠️ Competition organizers may be unwilling to manage the complexity of two parallel systems, limiting pilot choice.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="fragmentation"> 👥 Risks splitting the pilot community.</label>
+                            <label><input type="checkbox" name="concerns_hybrid" value="ineffective"> 👥 The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.</label>
                             <label>Other: <input type="text" name="concerns_hybrid_other"></label>
                         </fieldset>
 
                         <fieldset>
                             <legend>32. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)</legend>
-                            <label><input type="checkbox" name="benefits_hybrid" value="safe_haven"> 🛡️ Provides a Safe Haven: Creates a dedicated, safer league for pilots who want to avoid ballast risks.</label>
-                            <label><input type="checkbox" name="benefits_hybrid" value="tradition"> 🏆 Preserves Tradition: Keeps the "Overall" champion concept intact for those who value it.</label>
-                            <label><input type="checkbox" name="benefits_hybrid" value="market_diversity"> 🚀 Promotes Market Diversity: Stimulates innovation for different types of gliders.</label>
-                            <label><input type="checkbox" name="benefits_hybrid" value="choice"> 👥 Pilot Choice: Offers pilots the freedom to choose the competition format that suits them best.</label>
-                            <label><input type="checkbox" name="benefits_hybrid" value="solves_for_some"> 👥 Solves the Problem for Those Who Want It: Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.</label>
-                            <label><input type="checkbox" name="benefits_hybrid" value="evolutionary"> 👥 Evolutionary Approach: Lets the community decide over time which format is more popular and successful.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="safe_haven"> 🛡️ Creates a dedicated, safer league for pilots who want to avoid ballast risks.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="tradition"> 🏆 Keeps the "Overall" champion concept intact for those who value it.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="market_diversity"> 🚀 Stimulates innovation for different types of gliders.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="choice"> 👥 Offers pilots the freedom to choose the competition format that suits them best.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="solves_for_some"> 👥 Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.</label>
+                            <label><input type="checkbox" name="benefits_hybrid" value="evolutionary"> 👥 Lets the community decide over time which format is more popular and successful.</label>
                             <label>Other: <input type="text" name="benefits_hybrid_other"></label>
                         </fieldset>
                     </details>
