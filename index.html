@@ -45,6 +45,50 @@
             font-size: 0.9em;
             color: #555;
         }
+        .ranking-container {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: flex-start;
+        }
+        .rank-options, .rank-list {
+            flex: 1;
+            padding: 1rem;
+            border: 1px dashed #ccc;
+            border-radius: 0.5rem;
+            min-height: 250px;
+            min-width: 280px;
+        }
+        .rank-list-container {
+            flex: 1;
+        }
+        .rank-item {
+            padding: 0.75rem;
+            margin-bottom: 0.5rem;
+            background-color: #f7f7f7;
+            border: 1px solid #ddd;
+            border-radius: 0.25rem;
+            cursor: grab;
+            user-select: none;
+            transition: background-color 0.2s;
+        }
+        .rank-item:hover {
+            background-color: #efefef;
+        }
+        .rank-item.dragging {
+            opacity: 0.5;
+            background: #e0e0e0;
+        }
+        .rank-options .rank-item {
+            cursor: pointer;
+        }
+        .rank-list h5, .rank-options h5 {
+            margin-top: 0;
+            color: #555;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -530,24 +574,48 @@
                 <article>
                     <fieldset>
                         <legend>33. Please rank your preferred solutions for top-level competitions (e.g., FAI-1, PWC), from 1 (Most Preferred) to 7 (Least Preferred):</legend>
-                        <label><input type="number" name="rank_top_equalizers" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Equalizers</label>
-                        <label><input type="number" name="rank_top_pwc" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Partial Weight Class (A separate "Lightweight" category or categories)</label>
-                        <label><input type="number" name="rank_top_cwc" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)</label>
-                        <label><input type="number" name="rank_top_sbl" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Strict Ballast Limit</label>
-                        <label><input type="number" name="rank_top_mrt" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> MRT (Multiple Radius Turnpoints)</label>
-                        <label><input type="number" name="rank_top_hybrid" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Hybrid System (Single & Multi-Winner Leagues)</label>
-                        <label><input type="number" name="rank_top_status_quo" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> No Change (Status Quo)</label>
+                        <p><em>Click to rank, then drag and drop to reorder.</em></p>
+                        <div class="ranking-container" id="ranking-top-container">
+                            <div class="rank-options">
+                                <h5>Available Options</h5>
+                                <div class="rank-item" data-value="equalizers">Equalizers</div>
+                                <div class="rank-item" data-value="pwc">Partial Weight Class</div>
+                                <div class="rank-item" data-value="cwc">Comprehensive Weight Classes</div>
+                                <div class="rank-item" data-value="sbl">Strict Ballast Limit</div>
+                                <div class="rank-item" data-value="mrt">MRT (Multiple Radius Turnpoints)</div>
+                                <div class="rank-item" data-value="hybrid">Hybrid System</div>
+                                <div class="rank-item" data-value="status_quo">No Change (Status Quo)</div>
+                            </div>
+                            <div class="rank-list-container">
+                                <div class="rank-list" id="rank-list-top">
+                                    <h5>Your Ranking (Top is #1)</h5>
+                                </div>
+                                <input type="hidden" name="rank_top_order" id="rank_top_order">
+                            </div>
+                        </div>
                     </fieldset>
                     
                     <fieldset>
                         <legend>34. And how would you rank them for other competitions (e.g., FAI-2, National Leagues)?</legend>
-                        <label><input type="number" name="rank_other_equalizers" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Equalizers</label>
-                        <label><input type="number" name="rank_other_pwc" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Partial Weight Class (A separate "Lightweight" category or categories)</label>
-                        <label><input type="number" name="rank_other_cwc" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)</label>
-                        <label><input type="number" name="rank_other_sbl" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Strict Ballast Limit</label>
-                        <label><input type="number" name="rank_other_mrt" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> MRT (Multiple Radius Turnpoints)</label>
-                        <label><input type="number" name="rank_other_hybrid" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> Hybrid System (Single & Multi-Winner Leagues)</label>
-                        <label><input type="number" name="rank_other_status_quo" min="1" max="7" style="width: 5em; display: inline-block; margin-right: 1em;"> No Change (Status Quo)</label>
+                        <p><em>Click to rank, then drag and drop to reorder.</em></p>
+                        <div class="ranking-container" id="ranking-other-container">
+                            <div class="rank-options">
+                                <h5>Available Options</h5>
+                                <div class="rank-item" data-value="equalizers">Equalizers</div>
+                                <div class="rank-item" data-value="pwc">Partial Weight Class</div>
+                                <div class="rank-item" data-value="cwc">Comprehensive Weight Classes</div>
+                                <div class="rank-item" data-value="sbl">Strict Ballast Limit</div>
+                                <div class="rank-item" data-value="mrt">MRT (Multiple Radius Turnpoints)</div>
+                                <div class="rank-item" data-value="hybrid">Hybrid System</div>
+                                <div class="rank-item" data-value="status_quo">No Change (Status Quo)</div>
+                            </div>
+                             <div class="rank-list-container">
+                                <div class="rank-list" id="rank-list-other">
+                                    <h5>Your Ranking (Top is #1)</h5>
+                                </div>
+                                <input type="hidden" name="rank_other_order" id="rank_other_order">
+                            </div>
+                        </div>
                     </fieldset>
 
                     <fieldset>
@@ -582,6 +650,7 @@
             const submitBtn = document.getElementById('submit-btn');
             const progressBar = document.getElementById('progress-bar');
             const pageTitle = document.getElementById('page-title');
+            const introductionElements = document.querySelectorAll('.introduction');
 
             let currentPage = 0;
             const totalPages = surveyPages.length;
@@ -593,6 +662,10 @@
 
                 progressBar.value = currentPage + 1;
                 pageTitle.textContent = surveyPages[currentPage].dataset.title;
+
+                introductionElements.forEach(el => {
+                    el.style.display = currentPage === 0 ? 'block' : 'none';
+                });
 
                 prevBtn.disabled = currentPage === 0;
                 nextBtn.style.display = currentPage === totalPages - 1 ? 'none' : 'inline-block';
@@ -626,6 +699,96 @@
             });
 
             updatePage();
+
+            function setupRanking(containerSelector) {
+                const container = document.querySelector(containerSelector);
+                if (!container) return;
+
+                const optionsBox = container.querySelector('.rank-options');
+                const rankBox = container.querySelector('.rank-list');
+                const hiddenInput = container.querySelector('input[type="hidden"]');
+                const allItems = Array.from(container.querySelectorAll('.rank-item'));
+
+                const updateHiddenInput = () => {
+                    const items = [...rankBox.querySelectorAll('.rank-item')];
+                    hiddenInput.value = items.map(item => item.dataset.value).join(',');
+                };
+
+                const sortOptions = () => {
+                    const optionItems = [...optionsBox.querySelectorAll('.rank-item')];
+                    optionItems.sort((a, b) => {
+                        return allItems.indexOf(a) - allItems.indexOf(b);
+                    });
+                    optionItems.forEach(item => optionsBox.appendChild(item));
+                };
+
+                optionsBox.addEventListener('click', e => {
+                    if (e.target.classList.contains('rank-item')) {
+                        rankBox.appendChild(e.target);
+                        updateHiddenInput();
+                    }
+                });
+
+                rankBox.addEventListener('click', e => {
+                    if (e.target.classList.contains('rank-item')) {
+                        optionsBox.appendChild(e.target);
+                        sortOptions();
+                        updateHiddenInput();
+                    }
+                });
+
+                let draggingEl = null;
+
+                container.addEventListener('dragstart', e => {
+                    if (e.target.classList.contains('rank-item') && rankBox.contains(e.target)) {
+                        draggingEl = e.target;
+                        e.target.draggable = true;
+                        setTimeout(() => {
+                           draggingEl.classList.add('dragging');
+                        }, 0);
+                    }
+                });
+
+                rankBox.addEventListener('dragover', e => {
+                    e.preventDefault();
+                    if (!draggingEl) return;
+                    
+                    const afterElement = getDragAfterElement(rankBox, e.clientY);
+                    if (afterElement == null) {
+                        rankBox.appendChild(draggingEl);
+                    } else {
+                        rankBox.insertBefore(draggingEl, afterElement);
+                    }
+                });
+                
+                container.addEventListener('dragend', () => {
+                    if (draggingEl) {
+                        draggingEl.classList.remove('dragging');
+                        draggingEl = null;
+                        updateHiddenInput();
+                    }
+                });
+
+                function getDragAfterElement(container, y) {
+                    const draggableElements = [...container.querySelectorAll('.rank-item:not(.dragging)')];
+                    return draggableElements.reduce((closest, child) => {
+                        const box = child.getBoundingClientRect();
+                        const offset = y - box.top - box.height / 2;
+                        if (offset < 0 && offset > closest.offset) {
+                            return { offset: offset, element: child };
+                        } else {
+                            return closest;
+                        }
+                    }, { offset: Number.NEGATIVE_INFINITY }).element;
+                }
+                
+                allItems.forEach(item => {
+                    item.draggable = true;
+                });
+            }
+
+            setupRanking('#ranking-top-container');
+            setupRanking('#ranking-other-container');
         });
     </script>
 </body>
