@@ -1,11 +1,19 @@
 # 📋 Survey: Ballast & Fairness in Paragliding Competition
 
 ## Introduction
-Thank you for participating in this crucial survey.  
-We are gathering data from pilots and designers to find a widely supported solution to the issues of excessive ballast, safety, and fairness in paragliding competitions.  
+Thank you for participating in this crucial survey on ballast and fairness in paragliding competitions.
 
-Your anonymous responses will help guide future rule-making and ensure the sport remains safe, fair, and inclusive.  
-This survey should take approximately **10–15 minutes**.
+The issue of pilots carrying excessive ballast has sparked a significant debate within our community, raising concerns about safety, fairness, and the core principles of our sport. In response, several solutions have been proposed to address these challenges.
+
+This survey aims to gather opinions from pilots, designers, and other stakeholders on these proposed solutions. Your anonymous feedback is vital for guiding the future of competition rule-making, helping us find a widely supported path forward that ensures our sport remains safe, fair, and inclusive for all.
+
+The survey is divided into four sections:
+1.  **About You:** Basic demographic data to help us analyze the results.
+2.  **Problem Perception:** Your views on the severity of the ballast and fairness issues.
+3.  **Evaluating the Solutions:** Your feedback on six distinct proposals aimed at resolving these issues.
+4.  **Priorities:** A final ranking of the solutions and your perspective on related topics.
+
+Completing the survey should take approximately **15-20 minutes**.
 
 ---
 
