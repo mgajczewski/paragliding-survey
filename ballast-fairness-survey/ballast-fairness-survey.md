@@ -151,38 +151,38 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **14. What are your biggest concerns about "Equalizers"? (Check all that apply)**  
-- [ ] 🛡️ Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers (answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
-- [ ] 🛡️ Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
-- [ ] 🛡️ Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
-- [ ] 🛡️ Safety: Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.
-- [ ] ⚖️ Unfairness: Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
-- [ ] ⚖️ Ineffective: Won't truly equalize performance (e.g., handling, stability, climb), as it oversimplifies complex performance differences between sizes.
-- [ ] ⚖️ Ineffective/Over-penalizing: The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.
-- [ ] ⚖️ Unfairness/Other factors: Ignores other performance variables like pilot body drag or harness aerodynamics (e.g., penalizing safer, bulkier harnesses).
-- [ ] 🛠️ Gaming the system: The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
-- [ ] 🛠️ Ineffective/Hard to Calibrate: It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.
-- [ ] 🛠️ Logistics: Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.
-- [ ] 🚀 Market: Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
-- [ ] 🚀 Market Stagnation: Reinforces the dominant glider model, reducing incentives for innovation and diversification.
-- [ ] 🚀 Technological Stagnation: Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
-- [ ] 👥 Philosophy: It feels "absurd" to intentionally add drag in a performance sport.
-- [ ] 👥 Pilot Frustration: Psychologically frustrating to intentionally add drag to performance equipment.
+- [ ] 🛡️ Unsure how they affect handling, collapses, or SIV maneuvers (answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
+- [ ] 🛡️ Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
+- [ ] 🛡️ Pilots might install them incorrectly, creating a safety risk.  
+- [ ] 🛡️ Won't stop light pilots from ballasting up with potentially unsafe amounts of weight.
+- [ ] ⚖️ Unfairly "punishes" heavier pilots who have no choice but to fly large wings.  
+- [ ] ⚖️ Won't truly equalize performance (e.g., handling, stability, climb), as it oversimplifies complex performance differences between sizes.
+- [ ] ⚖️ The fixed drag penalty may be too high in weak conditions, unfairly disadvantaging larger wings.
+- [ ] ⚖️ Ignores other performance variables like pilot body drag or harness aerodynamics (e.g., penalizing safer, bulkier harnesses).
+- [ ] 🛠️ The equalizer formula could incentivize manufacturers to strategically set the maximum take-off weight to gain a competitive edge.
+- [ ] 🛠️ It is difficult to accurately measure and prove that the chosen compensation is fair—not too little and not too much.
+- [ ] 🛠️ Creates overhead for organizers to distribute, verify, and manage equalizers during competitions.
+- [ ] 🚀 Won't actually incentivize manufacturers to create and improve XS and smaller wings.  
+- [ ] 🚀 Reinforces the dominant glider model, reducing incentives for innovation and diversification.
+- [ ] 🚀 Standardizes the sport around a single design, slowing technical evolution and suppressing alternative designs.
+- [ ] 👥 It feels "absurd" to intentionally add drag in a performance sport.
+- [ ] 👥 Psychologically frustrating to intentionally add drag to performance equipment.
 - [ ] Other: __________  
 
 **15. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
-- [ ] 🛡️ Improves Safety: Reduces the incentive for XS/S pilots to ballast up to M/L sizes.
-- [ ] ⚖️ Levels the field: Makes performance more equal across wing sizes.
-- [ ] ⚖️ Fairness: Directly addresses the performance gap between wing sizes.
-- [ ] 🏆 Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
-- [ ] 🛠️ Simple to Implement: Avoids complex changes to rules or scoring systems.
-- [ ] 🛠️ Tunable: The equalizer formula can be adjusted and fine-tuned based on real-world data and feedback.
-- [ ] 🚀 Promotes small wings: Creates a real incentive for manufacturers to develop better XS/S wings.
-- [ ] 🚀 Promotes micro sizes: Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
-- [ ] 🚀 Promotes intermediate sizes: Could encourage a wider range of wing sizes, matching equalizer gradations.
-- [ ] 🚀 Promotes lightweight gear: By removing the performance incentive for weight, it encourages innovation in lighter competition equipment (harnesses, reserves).
-- [ ] 👥 Unified Task: Allows all pilots to fly the same task together, avoiding division into separate categories.
-- [ ] 👥 Preserves Gaggle Tactics: Doesn't interfere with the tactical dynamics of group flying.
-- [ ] 👥 Preserves Gaggle Flying: Does not interfere with gaggle flying dynamics, a key aspect of modern competition.
+- [ ] 🛡️ Reduces the incentive for XS/S pilots to ballast up to M/L sizes.
+- [ ] ⚖️ Makes performance more equal across wing sizes.
+- [ ] ⚖️ Directly addresses the performance gap between wing sizes.
+- [ ] 🏆 Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] 🛠️ Avoids complex changes to rules or scoring systems.
+- [ ] 🛠️ The equalizer formula can be adjusted and fine-tuned based on real-world data and feedback.
+- [ ] 🚀 Creates a real incentive for manufacturers to develop better XS/S wings.
+- [ ] 🚀 Incentivizes the creation and improvement of competitive XXS/XXXS glider sizes.
+- [ ] 🚀 Could encourage a wider range of wing sizes, matching equalizer gradations.
+- [ ] 🚀 By removing the performance incentive for weight, it encourages innovation in lighter competition equipment (harnesses, reserves).
+- [ ] 👥 Allows all pilots to fly the same task together, avoiding division into separate categories.
+- [ ] 👥 Doesn't interfere with the tactical dynamics of group flying.
+- [ ] 👥 Does not interfere with gaggle flying dynamics, a key aspect of modern competition.
 - [ ] Other: __________
 
 ---
@@ -204,29 +204,29 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support
 
 **18. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)**
-- [ ] 🛡️ Safety: An incomplete solution, as very light pilots may still need unsafe amounts of ballast.
-- [ ] ⚖️ Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
-- [ ] ⚖️ Ineffectiveness: May not change behavior, as pilots may still prioritize the “Overall” title.
-- [ ] ⚖️ Unfair Scoring Dynamics: Lightweight pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
-- [ ] 🏆 Dilutes "Overall" Title: A separate podium could reduce the prestige of the overall winner.
-- [ ] 🏆 Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
-- [ ] 🏆 Devalues Competition: Multiple podiums may be seen as lowering the prestige of winning.
-- [ ] 👥 Insufficient Incentive: The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.
-- [ ] 👥 Community Fragmentation: Risks splitting the pilot community.
+- [ ] 🛡️ An incomplete solution, as very light pilots may still need unsafe amounts of ballast.
+- [ ] ⚖️ The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
+- [ ] ⚖️ May not change behavior, as pilots may still prioritize the “Overall” title.
+- [ ] ⚖️ Lightweight pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
+- [ ] 🏆 A separate podium could reduce the prestige of the overall winner.
+- [ ] 🏆 Creates small, uncompetitive fields, especially when combined with existing glider classes.
+- [ ] 🏆 Multiple podiums may be seen as lowering the prestige of winning.
+- [ ] 👥 The "Overall" title remains more prestigious, so pilots may still carry excessive ballast to compete for it rather than the lightweight category.
+- [ ] 👥 Risks splitting the pilot community.
 - [ ] Other: __________
 
 **19. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
-- [ ] 🛡️ Improves Safety: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
-- [ ] 🏆 Preserves "Overall" Winner: Keeps the traditional structure of a single overall champion.
-- [ ] 🏆 Preserves Ranking: Keeps the "Overall" WPRS ranking and just introduces another filter.
-- [ ] 🛠️ Simple to Implement: Easy to implement and test without major rule changes.
-- [ ] 🛠️ Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
-- [ ] 🛠️ Positive Precedent: The model has been well-received in some competition series (e.g. SRS), where pilots are reportedly happy with the system.
-- [ ] 🛠️ Non-Invasive: Implemented through scoring and logistics, without requiring physical modifications to gliders or changes to race routes.
-- [ ] 🚀 Promotes Small Wings: Creates market demand for high-performance small gliders.
-- [ ] 👥 Improves Inclusivity: Encourages more light pilots and women to participate.
-- [ ] 👥 Additional Option: Provides another competitive option for pilots who are too light.
-- [ ] 👥 Improves Pilot Motivation: Offers a tangible goal for a wider range of pilots, increasing engagement and satisfaction.
+- [ ] 🛡️ Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
+- [ ] 🏆 Keeps the traditional structure of a single overall champion.
+- [ ] 🏆 Keeps the "Overall" WPRS ranking and just introduces another filter.
+- [ ] 🛠️ Easy to implement and test without major rule changes.
+- [ ] 🛠️ Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
+- [ ] 🛠️ The model has been well-received in some competition series (e.g. SRS), where pilots are reportedly happy with the system.
+- [ ] 🛠️ Implemented through scoring and logistics, without requiring physical modifications to gliders or changes to race routes.
+- [ ] 🚀 Creates market demand for high-performance small gliders.
+- [ ] 👥 Encourages more light pilots and women to participate.
+- [ ] 👥 Provides another competitive option for pilots who are too light.
+- [ ] 👥 Offers a tangible goal for a wider range of pilots, increasing engagement and satisfaction.
 - [ ] Other: __________
 
 ---
@@ -242,26 +242,26 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support
 
 **21. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
-- [ ] ⚖️ Unfair Scoring Dynamics: Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
-- [ ] 🏆 Loses "Overall" Winner: Reduces the prestige of a single "Overall" champion title.
-- [ ] 🏆 Complicates Women's Category: Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.
-- [ ] 🏆 Diluted Competition: Creates small, uncompetitive fields, especially when combined with existing glider classes.
-- [ ] 🏆 Devalues Titles: Having many champions reduces the value of each title.
-- [ ] 🏆 Team Scoring: Complicates FAI-1 team selection and scoring.
-- [ ] 🏆 Ranking Fragmentation: Requires a major WPRS overhaul. Scoring classes as separate events would yield low points, devaluing titles and complicating pilot comparisons.
-- [ ] 🛠️ Logistics: Too complicated to manage (e.g., separate starts, scoring, prizes).
-- [ ] 🛠️ Enforcement: Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).
-- [ ] 👥 Community Fragmentation: Risks splitting the pilot community into separate groups.
+- [ ] ⚖️ Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
+- [ ] 🏆 Reduces the prestige of a single "Overall" champion title.
+- [ ] 🏆 Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.
+- [ ] 🏆 Creates small, uncompetitive fields, especially when combined with existing glider classes.
+- [ ] 🏆 Having many champions reduces the value of each title.
+- [ ] 🏆 Complicates FAI-1 team selection and scoring.
+- [ ] 🏆 Requires a major WPRS overhaul. Scoring classes as separate events would yield low points, devaluing titles and complicating pilot comparisons.
+- [ ] 🛠️ Too complicated to manage (e.g., separate starts, scoring, prizes).
+- [ ] 🛠️ Requires strict weigh-ins, which are hard to manage and can be cheated (e.g., water loading).
+- [ ] 👥 Risks splitting the pilot community into separate groups.
 - [ ] Other: __________
 
 
 **22. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
-- [ ] 🛡️ Improves Safety: Gives all pilots a class they can fly in with little to no ballast.
-- [ ] ⚖️ Maximizes Fairness: Pilots only compete against others with a similar all-up weight.
-- [ ] 🛠️ Proven Concept: Works well in many other sports (e.g., boxing, sailing).
-- [ ] 🛠️ Simple to Verify: Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
-- [ ] 🚀 Promotes Innovation: Creates market demand for high-performance wings across all size categories.
-- [ ] 🚀 Promotes Small Wings: Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.
+- [ ] 🛡️ Gives all pilots a class they can fly in with little to no ballast.
+- [ ] ⚖️ Pilots only compete against others with a similar all-up weight.
+- [ ] 🛠️ Works well in many other sports (e.g., boxing, sailing).
+- [ ] 🛠️ Can be based on glider's certified weight range, avoiding complex pilot weigh-ins.
+- [ ] 🚀 Creates market demand for high-performance wings across all size categories.
+- [ ] 🚀 Specifically creates a protected, competitive market for XXS/XS wings which currently seem to be underdeveloped.
 - [ ] Other: __________
 
 ---
@@ -277,20 +277,20 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **24. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)**  
-- [ ] 🛡️ Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
-- [ ] 🛡️ Ethics: Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.
-- [ ] ⚖️ Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
-- [ ] ⚖️ Unfairness: Doesn't fix the core performance disparity; larger wings will still have an advantage.
-- [ ] 🛠️ Enforcement: Difficult to enforce fairly and consistently, leading to random penalties.
-- [ ] 🛠️ Complicated: Creates "grey areas" (what counts as ballast vs. gear?).
-- [ ] 👥 Discourages Participation: May push lighter pilots who feel unfairly handicapped out of top-level competition.
+- [ ] 🛡️ Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
+- [ ] 🛡️ Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.
+- [ ] ⚖️ Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
+- [ ] ⚖️ Doesn't fix the core performance disparity; larger wings will still have an advantage.
+- [ ] 🛠️ Difficult to enforce fairly and consistently, leading to random penalties.
+- [ ] 🛠️ Creates "grey areas" (what counts as ballast vs. gear?).
+- [ ] 👥 May push lighter pilots who feel unfairly handicapped out of top-level competition.
 - [ ] Other: __________  
 
 **25. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
-- [ ] 🛡️ Improves Safety: Puts a hard stop on the most dangerous ballast loads.
-- [ ] 🛠️ Simple Rule: Easy to understand (if not to enforce).  
-- [ ] 🚀 Partial Incentive: May encourage some pilots to move to a smaller wing.  
-- [ ] 👥 Improves Pilot Retention: May encourage top lightweight pilots who have left the sport due to safety concerns to return.
+- [ ] 🛡️ Puts a hard stop on the most dangerous ballast loads.
+- [ ] 🛠️ Easy to understand (if not to enforce).  
+- [ ] 🚀 May encourage some pilots to move to a smaller wing.  
+- [ ] 👥 May encourage top lightweight pilots who have left the sport due to safety concerns to return.
 - [ ] Other: __________  
 
 ---
@@ -312,32 +312,32 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support  
 
 **28. What are your biggest concerns about "MRT"? (Check all that apply)**  
-- [ ] 🛡️ Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.
-- [ ] 🛡️ Ineffective on Safety: Doesn't solve the physical problem of dangerous ballast.
-- [ ] ⚖️ Randomness: Scoring becomes "random" depending on group composition and who you fly with.
-- [ ] ⚖️ Task Setter Dependency: Fairness relies heavily on perfect task design.
-- [ ] ⚖️ Unfair Turnpoint Placement: Fairness can be compromised if a turnpoint is placed in a known thermal, nullifying the advantage for lighter pilots.
-- [ ] 🏆 Changes Scoring: Works best without leading points, a fundamental change.
-- [ ] 🏆 Devalues Titles: It could diminish the prestige of a World or Continental Champion title.
-- [ ] 🛠️ Task Design Limitations: Relies on specific task design (e.g., cannot be used on straight-to-goal tasks, or in the first/last 10km of a race) and requires specially trained task setters.
-- [ ] 🛠️ Complexity: Route-generation formula is opaque and hard for pilots to understand.
-- [ ] 👥 Tactical Complexity: Hard to assess your position and make tactical decisions.
-- [ ] 👥 Disrupts Gaggle Flying: Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.
-- [ ] 👥 Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.
+- [ ] 🛡️ Creates unpredictable crossing tracks within gaggles near turnpoints.
+- [ ] 🛡️ Doesn't solve the physical problem of dangerous ballast.
+- [ ] ⚖️ Scoring becomes "random" depending on group composition and who you fly with.
+- [ ] ⚖️ Fairness relies heavily on perfect task design.
+- [ ] ⚖️ Fairness can be compromised if a turnpoint is placed in a known thermal, nullifying the advantage for lighter pilots.
+- [ ] 🏆 Works best without leading points, a fundamental change.
+- [ ] 🏆 It could diminish the prestige of a World or Continental Champion title.
+- [ ] 🛠️ Relies on specific task design (e.g., cannot be used on straight-to-goal tasks, or in the first/last 10km of a race) and requires specially trained task setters.
+- [ ] 🛠️ Route-generation formula is opaque and hard for pilots to understand.
+- [ ] 👥 Hard to assess your position and make tactical decisions.
+- [ ] 👥 Undermines the key skill of effective gaggle flying by disrupting natural group dynamics.
+- [ ] 👥 Difficult for viewers to follow when the lead changes constantly.
 - [ ] Other: __________  
 
 **29. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
-- [ ] 🛡️ Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
-- [ ] ⚖️ Levels the playing field: Makes performance more equal across different pilot weights.
-- [ ] ⚖️ Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
-- [ ] 🏆 Keeps "Overall" ranking: Allows everyone to race together and preserves a single "Overall" winner.
-- [ ] 🏆 Modernizes Scoring: Removes the need for controversial leading points, which are seen to favor heavier pilots.
-- [ ] 🛠️ No physical modification: Doesn't require adding "equalizers" or new gear.
-- [ ] 🛠️ Leverages existing technology: Supported by current scoring software, making it easier to implement.
-- [ ] 🚀 Promotes Holistic Design: May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.
-- [ ] 👥 Enhances pilot engagement: Makes racing more motivating and enjoyable for a wider range of pilots.
-- [ ] 👥 Promotes XC skills: Shifts focus from pure gaggle racing to individual pilot skills against the elements.
-- [ ] 👥 Good for other classes: Can be adapted to help lower-performance classes (e.g., Sport Class) to fly more of the task and be more competitive.
+- [ ] 🛡️ Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
+- [ ] ⚖️ Makes performance more equal across different pilot weights.
+- [ ] ⚖️ Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
+- [ ] 🏆 Allows everyone to race together and preserves a single "Overall" winner.
+- [ ] 🏆 Removes the need for controversial leading points, which are seen to favor heavier pilots.
+- [ ] 🛠️ Doesn't require adding "equalizers" or new gear.
+- [ ] 🛠️ Supported by current scoring software, making it easier to implement.
+- [ ] 🚀 May encourage manufacturers to improve other aspects like handling and safety across all wing sizes.
+- [ ] 👥 Makes racing more motivating and enjoyable for a wider range of pilots.
+- [ ] 👥 Shifts focus from pure gaggle racing to individual pilot skills against the elements.
+- [ ] 👥 Can be adapted to help lower-performance classes (e.g., Sport Class) to fly more of the task and be more competitive.
 - [ ] Other: __________
 
 ---
@@ -354,24 +354,24 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Strongly Support
 
 **31. What are your biggest concerns about a "Hybrid System"? (Check all that apply)**
-- [ ] 🛡️ Doesn't Eliminate Core Risk: The prestigious "Overall" title may still encourage dangerous ballasting in the open league.
-- [ ] 🏆 Dilutes Competition: Splits the pilot pool, potentially weakening the quality of both leagues.
-- [ ] 🏆 Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.
-- [ ] 🏆 Ranking Devaluation: Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.
-- [ ] 🛠️ Too Complicated: Two separate ranking systems would be confusing for pilots and organizers.
-- [ ] 🛠️ Resource Intensive: Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.
-- [ ] 🛠️ Organizer Reluctance: Competition organizers may be unwilling to manage the complexity of two parallel systems, limiting pilot choice.
-- [ ] 👥 Community Fragmentation: Risks splitting the pilot community.
-- [ ] 👥 Ineffective: The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.
+- [ ] 🛡️ The prestigious "Overall" title may still encourage dangerous ballasting in the open league.
+- [ ] 🏆 Splits the pilot pool, potentially weakening the quality of both leagues.
+- [ ] 🏆 The existence of multiple top-level rankings could devalue the achievement of winning either.
+- [ ] 🏆 Events in the "Multi-Winner" league would have fewer participants per category, resulting in lower WPRS points and making them less attractive.
+- [ ] 🛠️ Two separate ranking systems would be confusing for pilots and organizers.
+- [ ] 🛠️ Requires more overhead for CIVL/FAI to manage two distinct WPRS systems.
+- [ ] 🛠️ Competition organizers may be unwilling to manage the complexity of two parallel systems, limiting pilot choice.
+- [ ] 👥 Risks splitting the pilot community.
+- [ ] 👥 The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.
 - [ ] Other: __________
 
 **32. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
-- [ ] 🛡️ Provides a Safe Haven: Creates a dedicated, safer league for pilots who want to avoid ballast risks.
-- [ ] 🏆 Preserves Tradition: Keeps the "Overall" champion concept intact for those who value it.
-- [ ] 🚀 Promotes Market Diversity: Stimulates innovation for different types of gliders.
-- [ ] 👥 Pilot Choice: Offers pilots the freedom to choose the competition format that suits them best.
-- [ ] 👥 Solves the Problem for Those Who Want It: Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.
-- [ ] 👥 Evolutionary Approach: Lets the community decide over time which format is more popular and successful.
+- [ ] 🛡️ Creates a dedicated, safer league for pilots who want to avoid ballast risks.
+- [ ] 🏆 Keeps the "Overall" champion concept intact for those who value it.
+- [ ] 🚀 Stimulates innovation for different types of gliders.
+- [ ] 👥 Offers pilots the freedom to choose the competition format that suits them best.
+- [ ] 👥 Allows pilots who feel strongly about weight fairness to compete in a dedicated league without forcing a single solution on everyone.
+- [ ] 👥 Lets the community decide over time which format is more popular and successful.
 - [ ] Other: __________
 
 ---
