@@ -70,6 +70,20 @@ This information is essential for analyzing how different groups perceive the is
 - [ ] Handling/comfort in turbulence or weak, narrow thermals (more nervous, less inertia)
 - [ ] Other: __________
 
+**8. What are your reasons for not flying a larger wing size with more ballast? (select all that apply)**
+- [ ] I prefer the handling and agility of my current wing.
+- [ ] A larger wing would be less efficient in weak or tight thermals.
+- [ ] My current size is competitive enough with the larger sizes.
+- [ ] I have safety concerns about the in-flight behavior (e.g., collapse recovery) of a larger, heavier wing.
+- [ ] Increased difficulty and risk during takeoff and landing.
+- [ ] The physical burden of carrying more ballast to launch is too great.
+- [ ] I dislike the hassle of managing more ballast (e.g., filling, carrying).
+- [ ] My harness lacks the capacity for the amount of ballast I would need.
+- [ ] A larger size for my preferred wing model is not available.
+- [ ] The financial cost of a larger wing or additional equipment is prohibitive.
+- [ ] I have no reasons not to fly a larger wing size.
+- [ ] Other: __________
+
 ---
 
 ## Section 2: Problem Perception
@@ -77,21 +91,21 @@ How do you see the current situation?
 
 For a detailed overview, see [The Paragliding Ballast Issue on gagglereport.org](https://gagglereport.org/ballast/issue).
 
-**8. On a scale of 1 to 5, how significant is the safety risk associated with pilots carrying large amounts of ballast?**  
+**9. On a scale of 1 to 5, how significant is the safety risk associated with pilots carrying large amounts of ballast?**  
 - (1) Not significant  
 - (2) Slightly significant  
 - (3) Moderately significant  
 - (4) Very significant  
 - (5) Extremely significant (a critical issue)  
 
-**9. On a scale of 1 to 5, how significant is the competitive fairness issue related to pilot weight and ballasting?**  
+**10. On a scale of 1 to 5, how significant is the competitive fairness issue related to pilot weight and ballasting?**  
 - (1) Not an issue  
 - (2) Slight issue  
 - (3) Moderate issue  
 - (4) Significant issue  
 - (5) Extremely unfair (a critical issue)  
 
-**10. Which statement best reflects your personal philosophy?**  
+**11. Which statement best reflects your personal philosophy?**  
 - [ ] Paragliding competition should be about pilot skill and decision-making; rules should actively equalize advantages/disadvantages from body weight.  
 - [ ] Physical attributes (like weight) are a natural part of any sport; rules should not try to compensate for these differences.  
 - [ ] Rules should only intervene to address extreme safety risks (like >20kg ballast), but should not try to engineer competitive fairness.  
@@ -104,20 +118,20 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 1: "Equalizers"
 *(As proposed by Luc Armant – adding drag elements to larger wings to equalize glide performance across sizes)*
 
-**11. How familiar are you with the "Equalizers" proposal?**  
+**12. How familiar are you with the "Equalizers" proposal?**  
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
 - [ ] Very familiar (seen [Luc Armant's lecture](https://drive.google.com/file/d/1JtOCo8KPJFEnUb9y4QFlR8YdcKHp1-1n/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/ballast/equalizers))  
 
-**12. Please rate your overall support for testing/implementing "Equalizers":**  
+**13. Please rate your overall support for testing/implementing "Equalizers":**  
 - [ ] Strongly Oppose  
 - [ ] Oppose  
 - [ ] Neutral / Need more info  
 - [ ] Support  
 - [ ] Strongly Support  
 
-**13. What are your biggest concerns about "Equalizers"? (Check all that apply)**  
+**14. What are your biggest concerns about "Equalizers"? (Check all that apply)**  
 - [ ] 🛡️ Safety/Certification: Unsure how they affect handling, collapses, or SIV maneuvers (answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] 🛡️ Liability/Certification: Could affect EN/CCC certification status; organizers mandating them may face liability in the event of an incident (should be answered in [FAQ](https://gagglereport.org/ballast/equalizers)).  
 - [ ] 🛡️ Safety/Installation: Pilots might install them incorrectly, creating a safety risk.  
@@ -136,7 +150,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] 👥 Pilot Frustration: Psychologically frustrating to intentionally add drag to performance equipment.
 - [ ] Other: __________  
 
-**14. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
+**15. What do you see as the biggest benefits of "Equalizers"? (Check all that apply)**
 - [ ] 🛡️ Improves Safety: Reduces the incentive for XS/S pilots to ballast up to M/L sizes.
 - [ ] ⚖️ Levels the field: Makes performance more equal across wing sizes.
 - [ ] ⚖️ Fairness: Directly addresses the performance gap between wing sizes.
@@ -157,20 +171,20 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 2: Partial Weight Class (A separate "Lightweight" Category)
 *(As proposed by Daniel Dimov – adding at least one "Lightweight" category (e.g., <95kg AUW) to competitions as a first step to improve inclusivity without eliminating the single overall champion. Pilots in this class would compete for both a "Lightweight" title and the traditional "Overall" title, preserving a single overall champion.)*
 
-**15. How familiar are you with the "Partial Weight Class" proposal?**
+**16. How familiar are you with the "Partial Weight Class" proposal?**
 - [ ] Not familiar
 - [ ] Vaguely familiar (heard the name)
 - [ ] Familiar (understand the concept)
 - [ ] Very familiar (seen [Daniel Dimov's lecture](https://drive.google.com/file/d/19pRWjT8BSasdm8NyVDOPxrzQqD5N0oDw/view), read the [GaggleReport document](https://gagglereport.org/node/22))
 
-**16. Please rate your overall support for implementing a "Partial Weight Class":**
+**17. Please rate your overall support for implementing a "Partial Weight Class":**
 - [ ] Strongly Oppose
 - [ ] Oppose
 - [ ] Neutral / Need more info
 - [ ] Support
 - [ ] Strongly Support
 
-**17. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)**
+**18. What are your biggest concerns about a "Partial Weight Class"? (Check all that apply)**
 - [ ] 🛡️ Safety: An incomplete solution, as very light pilots may still need unsafe amounts of ballast.
 - [ ] ⚖️ Arbitrary Cutoff: The weight cutoff (e.g., 95kg) is arbitrary and might not be based on sufficient data.
 - [ ] ⚖️ Ineffectiveness: May not change behavior, as pilots may still prioritize the “Overall” title.
@@ -182,7 +196,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] 👥 Community Fragmentation: Risks splitting the pilot community.
 - [ ] Other: __________
 
-**18. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
+**19. What do you see as the biggest benefits of a "Partial Weight Class"? (Check all that apply)**
 - [ ] 🛡️ Improves Safety: Gives many lighter pilots a competitive option without needing dangerous amounts of ballast.
 - [ ] 🏆 Preserves "Overall" Winner: Keeps the traditional structure of a single overall champion.
 - [ ] 🏆 Preserves Ranking: Keeps the "Overall" WPRS ranking and just introduces another filter.
@@ -201,14 +215,14 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 3: Comprehensive Weight Classes (Multi-Winner System)
 *(This approach would create multiple weight categories (e.g., every 10kg), with each crowning its own champion. This would potentially replace the single "Overall" winner with multiple champions. As described on [gagglereport.org](https://gagglereport.org/ballast/weight-categories).)*
 
-**19. Please rate your overall support for implementing "Comprehensive Weight Classes":**
+**20. Please rate your overall support for implementing "Comprehensive Weight Classes":**
 - [ ] Strongly Oppose
 - [ ] Oppose
 - [ ] Neutral / Need more info
 - [ ] Support
 - [ ] Strongly Support
 
-**20. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
+**21. What are your biggest concerns about "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] ⚖️ Unfair Scoring Dynamics: Lighter pilots could gain unfair advantages (e.g., in leading points) by flying with heavier gaggles, questioning the legitimacy of their category win.
 - [ ] 🏆 Loses "Overall" Winner: Reduces the prestige of a single "Overall" champion title.
 - [ ] 🏆 Complicates Women's Category: Risks undermining the existing women's category, as female pilots would be split across classes or still incentivized to ballast up for a separate "Overall Women" title.
@@ -222,7 +236,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Other: __________
 
 
-**21. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
+**22. What do you see as the biggest benefits of "Comprehensive Weight Classes"? (Check all that apply)**
 - [ ] 🛡️ Improves Safety: Gives all pilots a class they can fly in with little to no ballast.
 - [ ] ⚖️ Maximizes Fairness: Pilots only compete against others with a similar all-up weight.
 - [ ] 🛠️ Proven Concept: Works well in many other sports (e.g., boxing, sailing).
@@ -236,14 +250,14 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 4: Strict Ballast Limitations
 *(A simple rule limiting ballast (e.g., "Max 10kg," or "cannot exceed 15% of body weight"). As described on [gagglereport.org](https://gagglereport.org/ballast/weight-checks).)*
 
-**22. Please rate your overall support for implementing "Strict Ballast Limitations":**
+**23. Please rate your overall support for implementing "Strict Ballast Limitations":**
 - [ ] Strongly Oppose  
 - [ ] Oppose  
 - [ ] Neutral / Need more info  
 - [ ] Support  
 - [ ] Strongly Support  
 
-**23. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)**  
+**24. What are your biggest concerns about "Ballast Limitations"? (Check all that apply)**  
 - [ ] 🛡️ Safety: Doesn't solve the core issue of heavy gear; 28-33kg of equipment is still very heavy and poses a risk.
 - [ ] 🛡️ Ethics: Encourages unsafe and unethical behavior like unhealthy dieting, water-loading before checks, steroid use, and hiding ballast.
 - [ ] ⚖️ Unfair: Penalizes light pilots who need some ballast just to fly an S-size wing safely, while not affecting heavy pilots.  
@@ -253,7 +267,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] 👥 Discourages Participation: May push lighter pilots who feel unfairly handicapped out of top-level competition.
 - [ ] Other: __________  
 
-**24. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
+**25. What do you see as the biggest benefits of "Ballast Limitations"? (Check all that apply)**  
 - [ ] 🛡️ Improves Safety: Puts a hard stop on the most dangerous ballast loads.
 - [ ] 🛠️ Simple Rule: Easy to understand (if not to enforce).  
 - [ ] 🚀 Partial Incentive: May encourage some pilots to move to a smaller wing.  
@@ -265,20 +279,20 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 5: MRT (Multiple Radius Turnpoints)
 *(A route-based handicap system where pilots have different turnpoint radii based on their all-up weight. Heavier pilots fly a longer route, equalizing the task in real-time rather than through post-task scoring adjustments. As described on [gagglereport.org](https://gagglereport.org/ballast/mrt).)*
 
-**25. How familiar are you with the "MRT" proposal?**  
+**26. How familiar are you with the "MRT" proposal?**  
 - [ ] Not familiar  
 - [ ] Vaguely familiar (heard the name)  
 - [ ] Familiar (understand the concept)  
 - [ ] Very familiar (seen [Burce Goldsmith's lecture](https://drive.google.com/file/d/1Pz5mvHPNHuikB4BfBoDI-RbNyrvNfWos/view?usp=drivesdk), read the [GaggleReport document](https://gagglereport.org/ballast/mrt))  
 
-**26. Please rate your overall support for implementing "MRT":**  
+**27. Please rate your overall support for implementing "MRT":**  
 - [ ] Strongly Oppose  
 - [ ] Oppose  
 - [ ] Neutral / Need more info  
 - [ ] Support  
 - [ ] Strongly Support  
 
-**27. What are your biggest concerns about "MRT"? (Check all that apply)**  
+**28. What are your biggest concerns about "MRT"? (Check all that apply)**  
 - [ ] 🛡️ Safety: Creates unpredictable crossing tracks within gaggles near turnpoints.
 - [ ] 🛡️ Ineffective on Safety: Doesn't solve the physical problem of dangerous ballast.
 - [ ] ⚖️ Randomness: Scoring becomes "random" depending on group composition and who you fly with.
@@ -293,7 +307,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] 👥 Spectator Unfriendly: Difficult for viewers to follow when the lead changes constantly.
 - [ ] Other: __________  
 
-**28. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
+**29. What do you see as the biggest benefits of "MRT"? (Check all that apply)**
 - [ ] 🛡️ Improves Safety: Directly compensates for wing size performance, discouraging the use of large amounts of ballast.
 - [ ] ⚖️ Levels the playing field: Makes performance more equal across different pilot weights.
 - [ ] ⚖️ Provides tactical equality: Gives lighter pilots a realistic chance to be in the lead gaggle and win tasks.
@@ -312,7 +326,7 @@ We will now ask your opinion on the main solutions proposed.
 ### Solution 6: Hybrid System (Single & Multi-Winner Leagues)
 *(As proposed by Malin Lobb - creating two parallel competition leagues. Pilots could choose to compete in "Single Winner" events (either "open" or with "Equalizers"/"MRT") feeding a traditional Overall WPRS, OR in "Multi-Winner" events with weight classes and a separate WPRS.)*
 
-**29. Please rate your overall support for implementing this "Hybrid System":**
+**30. Please rate your overall support for implementing this "Hybrid System":**
 *(For example, some competitions could be "Open" (status quo), some could use "Equalizers" and some could be "Weight Class" events, with pilots choosing which to attend.)*
 - [ ] Strongly Oppose
 - [ ] Oppose
@@ -320,7 +334,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] Support
 - [ ] Strongly Support
 
-**30. What are your biggest concerns about a "Hybrid System"? (Check all that apply)**
+**31. What are your biggest concerns about a "Hybrid System"? (Check all that apply)**
 - [ ] 🛡️ Doesn't Eliminate Core Risk: The prestigious "Overall" title may still encourage dangerous ballasting in the open league.
 - [ ] 🏆 Dilutes Competition: Splits the pilot pool, potentially weakening the quality of both leagues.
 - [ ] 🏆 Devalues "Champion" Title: The existence of multiple top-level rankings could devalue the achievement of winning either.
@@ -332,7 +346,7 @@ We will now ask your opinion on the main solutions proposed.
 - [ ] 👥 Ineffective: The "Single Winner" league may remain more prestigious, meaning pilots will still carry excessive ballast to compete for the "Overall" title rather than the multi-winner categories.
 - [ ] Other: __________
 
-**31. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
+**32. What do you see as the biggest benefits of a "Hybrid System"? (Check all that apply)**
 - [ ] 🛡️ Provides a Safe Haven: Creates a dedicated, safer league for pilots who want to avoid ballast risks.
 - [ ] 🏆 Preserves Tradition: Keeps the "Overall" champion concept intact for those who value it.
 - [ ] 🚀 Promotes Market Diversity: Stimulates innovation for different types of gliders.
@@ -345,7 +359,7 @@ We will now ask your opinion on the main solutions proposed.
 
 ## Section 4: Comparative Ranking & Final Priorities
 
-**32. Please rank your preferred solutions, from 1 (Most Preferred) to 7 (Least Preferred):**
+**33. Please rank your preferred solutions, from 1 (Most Preferred) to 7 (Least Preferred):**
 - __ Equalizers
 - __ Partial Weight Class (A separate "Lightweight" category or categories)
 - __ Comprehensive Weight Classes (Multi-winner system, no "Overall" winner)
@@ -354,13 +368,13 @@ We will now ask your opinion on the main solutions proposed.
 - __ Hybrid System (Single & Multi-Winner Leagues)
 - __ No Change (Status Quo)
 
-**33. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**
+**34. A separate, but related, safety issue discussed is the design of modern harnesses (e.g., "submarine" types). How do you prioritize this?**
 - [ ] The harness safety issue is more urgent than the ballast issue and should be fixed first.  
 - [ ] The harness safety issue is equally urgent as the ballast issue.  
 - [ ] The harness safety issue is less urgent than the ballast issue.  
 - [ ] The two issues are separate and should be addressed independently.  
 
-**34. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**
+**35. Do you have any final comments or suggestions regarding the ballast issue or these proposed solutions?**
 (Open text box)
 
 ---
